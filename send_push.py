@@ -13,7 +13,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
-MARKER = ROOT / "data" / "last_push.txt"
+MARKER = ROOT / "last_push.txt"
 PARIS = ZoneInfo("Europe/Paris")
 
 
@@ -36,7 +36,7 @@ def main():
     if not key or not codes:
         print("Notification ignorée : clé ou abonnement manquant")
         return
-    brief = json.loads((ROOT / "data" / "brief.json").read_text(encoding="utf-8"))
+    brief = json.loads((ROOT / "brief.json").read_text(encoding="utf-8"))
     if not os.environ.get("NOTIF_FORCE"):
         now = dt.datetime.now(PARIS)
         last = dt.datetime.fromisoformat(MARKER.read_text().strip()).astimezone(PARIS) if MARKER.exists() else None

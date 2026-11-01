@@ -5,7 +5,7 @@ Veille pour les DPO (délégués à la protection des données) : RGPD, droit du
 ## Mise en ligne (15 minutes, gratuit)
 
 1. Créez un compte sur [github.com](https://github.com) puis un dépôt **public** nommé `vigie`. Il ne contient que des titres d'articles et des liens : aucune adresse e-mail ni mot de passe.
-2. Sur la page du dépôt, choisissez **uploading an existing file** et déposez tout le contenu de ce dossier, sauf `.claude`. Vérifiez que `.github/workflows/veille.yml` est bien présent, car le Finder masque ce dossier (Cmd+Maj+. pour l'afficher). S'il manque, créez-le avec **Add file > Create new file**.
+2. Sur la page du dépôt, choisissez **uploading an existing file** et déposez les fichiers du dossier. Créez ensuite `.github/workflows/veille.yml` avec **Add file > Create new file** et collez-y le contenu de ce fichier.
 3. Dans **Settings > Pages**, réglez **Source** sur **GitHub Actions**.
 4. Dans **Actions > Mise à jour de la veille**, cliquez sur **Run workflow**.
 
@@ -53,4 +53,4 @@ Le site ne garde que les 7 derniers jours : les articles plus anciens sont suppr
 python3 veille.py
 ```
 
-La page générée est `site/index.html`.
+La page générée est `index.html`.

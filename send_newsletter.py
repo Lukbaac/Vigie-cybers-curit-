@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Envoie site/newsletter/latest.html par SMTP, une seule fois par semaine.
+"""Envoie newsletter/latest.html par SMTP, une seule fois par semaine.
 
 Variables : SMTP_HOST, SMTP_PORT (587 par défaut), SMTP_USER, SMTP_PASSWORD, NEWSLETTER_TO (adresses séparées par des virgules).
 """
@@ -11,7 +11,7 @@ from email.message import EmailMessage
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-MARKER = ROOT / "data" / "last_sent.txt"
+MARKER = ROOT / "last_sent.txt"
 
 
 def main():
@@ -20,7 +20,7 @@ def main():
     if missing:
         print("Envoi ignoré, réglages manquants :", ", ".join(missing))
         return
-    meta = json.loads((ROOT / "data" / "newsletter.json").read_text(encoding="utf-8"))
+    meta = json.loads((ROOT / "newsletter.json").read_text(encoding="utf-8"))
     if MARKER.exists() and MARKER.read_text().strip() == meta["week"]:
         print("Lettre déjà envoyée pour", meta["week"])
         return
@@ -33,7 +33,7 @@ def main():
     message["From"] = f"Vigie <{os.environ['SMTP_USER']}>"
     message["To"] = message["From"]
     message.set_content(meta["text"])
-    message.add_alternative((ROOT / "site" / "newsletter" / "latest.html").read_text(encoding="utf-8"), subtype="html")
+    message.add_alternative((ROOT / "newsletter" / "latest.html").read_text(encoding="utf-8"), subtype="html")
     with smtplib.SMTP(os.environ["SMTP_HOST"], int(os.environ.get("SMTP_PORT") or 587), timeout=30) as smtp:
         smtp.starttls(context=ssl.create_default_context())
         smtp.login(os.environ["SMTP_USER"], os.environ["SMTP_PASSWORD"])

@@ -21,9 +21,9 @@ from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
 
 ROOT = Path(__file__).resolve().parent
-ARCHIVE = ROOT / "data" / "articles.json"
-STATUS = ROOT / "data" / "status.json"
-SITE = ROOT / "site"
+ARCHIVE = ROOT / "articles.json"
+STATUS = ROOT / "status.json"
+SITE = ROOT
 UTC = dt.timezone.utc
 NOW = dt.datetime.now(UTC).replace(microsecond=0)
 KEEP_DAYS = 7
@@ -387,7 +387,7 @@ def write_newsletter(articles, updated):
     folder = SITE / "newsletter"
     folder.mkdir(parents=True, exist_ok=True)
     (folder / "latest.html").write_text(body, encoding="utf-8")
-    (ROOT / "data" / "newsletter.json").write_text(
+    (ROOT / "newsletter.json").write_text(
         json.dumps({"subject": subject, "text": "\n".join(text), "week": f"{year}-S{number:02d}", "count": len(week)}, ensure_ascii=False), encoding="utf-8"
     )
 
@@ -395,7 +395,7 @@ def write_newsletter(articles, updated):
 def notification_brief(articles):
     """Contenu de la notification : les articles arrivés depuis la précédente, les plus marquants d'abord, sans IA."""
     since = NOW - dt.timedelta(hours=24)
-    marker = ROOT / "data" / "last_push.txt"
+    marker = ROOT / "last_push.txt"
     if marker.exists():
         since = max(since, parse_date(marker.read_text()))
     # "added" : une date de publication peut être antérieure à l'arrivée de l'article dans la veille
@@ -406,7 +406,7 @@ def notification_brief(articles):
         body = "\n".join("• " + clean(a["title"], 62) for a in varied(recent, 3))
     else:
         title, body = "Vigie", "Pas de nouvelle actualité depuis la dernière notification."
-    (ROOT / "data" / "brief.json").write_text(json.dumps({"title": title, "body": body, "count": count}, ensure_ascii=False), encoding="utf-8")
+    (ROOT / "brief.json").write_text(json.dumps({"title": title, "body": body, "count": count}, ensure_ascii=False), encoding="utf-8")
 
 
 def write_feed(articles, updated):
@@ -425,7 +425,6 @@ def write_feed(articles, updated):
 
 
 def build(articles, statuses):
-    SITE.mkdir(exist_ok=True)
     updated = NOW.isoformat()
     payload = json.dumps(
         {"updated": updated, "articles": articles, "sources": statuses, "labels": TOPIC_LABELS, "vapid": os.environ.get("VAPID_PUBLIC_KEY", "")}, ensure_ascii=False, separators=(",", ":")
@@ -448,7 +447,6 @@ def main():
         statuses, added = collect(archive, config)
     cutoff = NOW - dt.timedelta(days=KEEP_DAYS)
     archive = sorted((a for a in archive if parse_date(a["date"]) >= cutoff), key=lambda a: a["date"], reverse=True)
-    ARCHIVE.parent.mkdir(exist_ok=True)
     ARCHIVE.write_text(json.dumps(archive, ensure_ascii=False, indent=0), encoding="utf-8")
     STATUS.write_text(json.dumps(statuses, ensure_ascii=False, indent=0), encoding="utf-8")
     build(archive, statuses)

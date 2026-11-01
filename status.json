@@ -3,7 +3,7 @@
 "name": "CNIL",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "CEPD (EDPB)",
@@ -15,13 +15,13 @@
 "name": "LINC (CNIL)",
 "ok": true,
 "items": 10,
-"new": 5
+"new": 0
 },
 {
 "name": "Commission européenne – Numérique",
 "ok": true,
 "items": 10,
-"new": 2
+"new": 0
 },
 {
 "name": "Arcom",
@@ -45,25 +45,25 @@
 "name": "CERT-FR – Actualités",
 "ok": true,
 "items": 40,
-"new": 1
+"new": 0
 },
 {
 "name": "Cybermalveillance.gouv.fr",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Conseil national de l'Ordre des médecins",
 "ok": true,
 "items": 10,
-"new": 3
+"new": 0
 },
 {
 "name": "noyb",
 "ok": true,
 "items": 294,
-"new": 2
+"new": 0
 },
 {
 "name": "Lexing Alain Bensoussan",
@@ -75,7 +75,7 @@
 "name": "DSIH",
 "ok": true,
 "items": 30,
-"new": 1
+"new": 0
 },
 {
 "name": "Legalis",
@@ -87,7 +87,7 @@
 "name": "Village de la Justice",
 "ok": true,
 "items": 3,
-"new": 1
+"new": 0
 },
 {
 "name": "France Assos Santé",
@@ -117,37 +117,37 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 2
+"new": 0
 },
 {
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 4
+"new": 0
 },
 {
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 3
+"new": 0
 },
 {
 "name": "Silicon.fr",
 "ok": true,
 "items": 50,
-"new": 4
+"new": 0
 },
 {
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 6
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
 "ok": true,
 "items": 20,
-"new": 10
+"new": 0
 },
 {
 "name": "ZATAZ",
@@ -159,7 +159,7 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 6
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -176,13 +176,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 100,
-"new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 20,
+"items": 35,
 "new": 0
 },
 {
@@ -194,7 +188,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 29,
+"items": 1,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 38,
 "new": 0
 },
 {
@@ -207,12 +207,12 @@
 "name": "Google Actualités",
 "ok": true,
 "items": 10,
-"new": 2
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 16,
 "new": 0
 }
 ]
