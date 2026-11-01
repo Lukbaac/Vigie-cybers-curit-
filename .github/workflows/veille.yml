@@ -1,0 +1,80 @@
+name: Mise √† jour de la veille
+
+on:
+  schedule:
+    - cron: "45 5 * * *"        # 7 h 45 √† Paris en √©t√© : collecte puis notification √† 8 h
+    - cron: "45 6 * * *"        # 7 h 45 √† Paris en hiver
+    - cron: "0 11 * * *"        # collecte de la mi-journ√©e (UTC)
+    - cron: "45 15 * * *"       # 17 h 45 √† Paris en √©t√© : collecte puis notification √† 18 h
+    - cron: "45 16 * * *"       # 17 h 45 √† Paris en hiver
+    - cron: "30 6 * * 1"        # collecte et envoi de la lettre le lundi matin
+  workflow_dispatch:
+    inputs:
+      envoyer:
+        description: "Envoyer la lettre maintenant"
+        type: boolean
+        default: false
+      notifier:
+        description: "Envoyer la notification maintenant"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python veille.py
+        env:
+          VAPID_PUBLIC_KEY: ${{ secrets.VAPID_PUBLIC_KEY }}
+      - name: Envoyer la lettre
+        if: github.event.schedule == '30 6 * * 1' || inputs.envoyer
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          NEWSLETTER_TO: ${{ secrets.NEWSLETTER_TO }}
+        run: python send_newsletter.py
+      - name: Sauvegarder l'archive
+        run: |
+          git config user.name "vigie[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Mise √† jour de la veille"
+          git push
+      - name: Pr√©parer le site
+        run: |
+          mkdir _site
+          cp -R index.html sw.js manifest.webmanifest icon.svg icon-180.png icon-512.png feed.xml newsletter _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - uses: actions/deploy-pages@v4
+      - name: Envoyer la notification du matin ou du soir
+        if: github.event.schedule == '45 5 * * *' || github.event.schedule == '45 6 * * *' || github.event.schedule == '45 15 * * *' || github.event.schedule == '45 16 * * *' || inputs.notifier
+        env:
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
+          NOTIF_FORCE: ${{ inputs.notifier && '1' || '' }}
+        run: |
+          pip install pywebpush
+          python send_push.py
+          git add -A
+          git diff --cached --quiet || git commit -m "Notification envoy√©e"
+          git push
