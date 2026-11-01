@@ -1,0 +1,218 @@
+[
+{
+"name": "CNIL",
+"ok": true,
+"items": 10,
+"new": 1
+},
+{
+"name": "CEPD (EDPB)",
+"ok": true,
+"items": 10,
+"new": 0
+},
+{
+"name": "LINC (CNIL)",
+"ok": true,
+"items": 10,
+"new": 5
+},
+{
+"name": "Commission européenne – Numérique",
+"ok": true,
+"items": 10,
+"new": 2
+},
+{
+"name": "Arcom",
+"ok": true,
+"items": 10,
+"new": 0
+},
+{
+"name": "Sénat – Textes",
+"ok": true,
+"items": 60,
+"new": 0
+},
+{
+"name": "CERT-FR – Alertes",
+"ok": true,
+"items": 40,
+"new": 0
+},
+{
+"name": "CERT-FR – Actualités",
+"ok": true,
+"items": 40,
+"new": 1
+},
+{
+"name": "Cybermalveillance.gouv.fr",
+"ok": true,
+"items": 20,
+"new": 1
+},
+{
+"name": "Conseil national de l'Ordre des médecins",
+"ok": true,
+"items": 10,
+"new": 3
+},
+{
+"name": "noyb",
+"ok": true,
+"items": 294,
+"new": 2
+},
+{
+"name": "Lexing Alain Bensoussan",
+"ok": true,
+"items": 20,
+"new": 0
+},
+{
+"name": "DSIH",
+"ok": true,
+"items": 30,
+"new": 1
+},
+{
+"name": "Legalis",
+"ok": true,
+"items": 10,
+"new": 0
+},
+{
+"name": "Village de la Justice",
+"ok": true,
+"items": 3,
+"new": 1
+},
+{
+"name": "France Assos Santé",
+"ok": true,
+"items": 10,
+"new": 0
+},
+{
+"name": "Le Quotidien du médecin",
+"ok": true,
+"items": 50,
+"new": 0
+},
+{
+"name": "What's up Doc",
+"ok": true,
+"items": 10,
+"new": 0
+},
+{
+"name": "Egora",
+"ok": true,
+"items": 10,
+"new": 0
+},
+{
+"name": "Le Monde – Pixels",
+"ok": true,
+"items": 20,
+"new": 2
+},
+{
+"name": "Next",
+"ok": true,
+"items": 50,
+"new": 4
+},
+{
+"name": "LeMagIT",
+"ok": true,
+"items": 20,
+"new": 3
+},
+{
+"name": "Silicon.fr",
+"ok": true,
+"items": 50,
+"new": 4
+},
+{
+"name": "ZDNet France",
+"ok": true,
+"items": 50,
+"new": 6
+},
+{
+"name": "Le Monde Informatique – Sécurité",
+"ok": true,
+"items": 20,
+"new": 10
+},
+{
+"name": "ZATAZ",
+"ok": true,
+"items": 10,
+"new": 0
+},
+{
+"name": "BleepingComputer",
+"ok": true,
+"items": 15,
+"new": 6
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 100,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 12,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 100,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 20,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 20,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 29,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 3,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 10,
+"new": 2
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 10,
+"new": 0
+}
+]

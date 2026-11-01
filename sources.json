@@ -1,0 +1,534 @@
+{
+ "_aide": "topics : rubriques attribuées d'office. filter:true : l'article n'est gardé que s'il contient un mot-clé de keywords. official : source institutionnelle. exclude : mots qui écartent un article, sauf source officielle. cyber_companies + cyber_context : une grande entreprise citée avec un mot de sécurité va en cybersécurité. trusted_publishers : seuls ces médias sont gardés dans les résultats de Google Actualités.",
+ "sources": [
+  {
+   "name": "CNIL",
+   "url": "https://www.cnil.fr/fr/rss.xml",
+   "topics": [
+    "rgpd"
+   ],
+   "official": true
+  },
+  {
+   "name": "CEPD (EDPB)",
+   "url": "https://www.edpb.europa.eu/feed/news_en",
+   "topics": [
+    "rgpd"
+   ],
+   "official": true,
+   "lang": "en"
+  },
+  {
+   "name": "LINC (CNIL)",
+   "url": "https://linc.cnil.fr/rss.xml",
+   "topics": [
+    "rgpd"
+   ],
+   "official": true,
+   "skip_url": [
+    "/en/",
+    "accessibilit"
+   ]
+  },
+  {
+   "name": "Commission européenne – Numérique",
+   "url": "https://digital-strategy.ec.europa.eu/en/rss.xml",
+   "topics": [
+    "numerique"
+   ],
+   "official": true,
+   "lang": "en"
+  },
+  {
+   "name": "Arcom",
+   "url": "https://www.arcom.fr/rss.xml",
+   "topics": [
+    "numerique"
+   ],
+   "official": true
+  },
+  {
+   "name": "Sénat – Textes",
+   "url": "https://www.senat.fr/rss/textes.rss",
+   "filter": true,
+   "official": true
+  },
+  {
+   "name": "CERT-FR – Alertes",
+   "url": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+   "topics": [
+    "cyber"
+   ],
+   "official": true,
+   "alert": true
+  },
+  {
+   "name": "CERT-FR – Actualités",
+   "url": "https://www.cert.ssi.gouv.fr/actualite/feed/",
+   "topics": [
+    "cyber"
+   ],
+   "official": true
+  },
+  {
+   "name": "Cybermalveillance.gouv.fr",
+   "url": "https://www.cybermalveillance.gouv.fr/feed/atom-flux-actualites",
+   "official": true,
+   "filter": true
+  },
+  {
+   "name": "Conseil national de l'Ordre des médecins",
+   "url": "https://www.conseil-national.medecin.fr/rss.xml",
+   "topics": [
+    "sante"
+   ],
+   "official": true
+  },
+  {
+   "name": "noyb",
+   "url": "https://noyb.eu/en/rss",
+   "topics": [
+    "rgpd"
+   ],
+   "lang": "en"
+  },
+  {
+   "name": "Lexing Alain Bensoussan",
+   "url": "https://www.lexing.law/feed/",
+   "filter": true
+  },
+  {
+   "name": "DSIH",
+   "url": "https://dsih.fr/rss/",
+   "filter": true
+  },
+  {
+   "name": "Legalis",
+   "url": "https://www.legalis.net/feed/",
+   "topics": [
+    "numerique"
+   ]
+  },
+  {
+   "name": "Village de la Justice",
+   "url": "https://www.village-justice.com/articles/backend.php",
+   "filter": true
+  },
+  {
+   "name": "France Assos Santé",
+   "url": "https://www.france-assos-sante.org/feed/",
+   "filter": true
+  },
+  {
+   "name": "Le Quotidien du médecin",
+   "url": "https://www.lequotidiendumedecin.fr/rss.xml",
+   "filter": true
+  },
+  {
+   "name": "What's up Doc",
+   "url": "https://www.whatsupdoc-lemag.fr/rss.xml",
+   "filter": true
+  },
+  {
+   "name": "Egora",
+   "url": "https://www.egora.fr/rss.xml",
+   "filter": true
+  },
+  {
+   "name": "Le Monde – Pixels",
+   "url": "https://www.lemonde.fr/pixels/rss_full.xml",
+   "filter": true
+  },
+  {
+   "name": "Next",
+   "url": "https://next.ink/feed/",
+   "filter": true
+  },
+  {
+   "name": "LeMagIT",
+   "url": "https://www.lemagit.fr/rss/ContentSyndication.xml",
+   "filter": true
+  },
+  {
+   "name": "Silicon.fr",
+   "url": "https://www.silicon.fr/feed",
+   "filter": true
+  },
+  {
+   "name": "ZDNet France",
+   "url": "https://www.zdnet.fr/feeds/rss/actualites/",
+   "filter": true
+  },
+  {
+   "name": "Le Monde Informatique – Sécurité",
+   "url": "https://www.lemondeinformatique.fr/flux-rss/thematique/securite/rss.xml",
+   "topics": [
+    "cyber"
+   ]
+  },
+  {
+   "name": "ZATAZ",
+   "url": "https://www.zataz.com/feed/",
+   "filter": true
+  },
+  {
+   "name": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/feed/",
+   "filter": true,
+   "lang": "en"
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=%22droit%20de%20la%20sant%C3%A9%22&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=responsabilit%C3%A9%20m%C3%A9dicale%20arr%C3%AAt%20OR%20jurisprudence&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=donn%C3%A9es%20de%20sant%C3%A9%20(RGPD%20OR%20CNIL%20OR%20EHDS%20OR%20HDS)&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=(%22AI%20Act%22%20OR%20%22DSA%22%20OR%20%22DMA%22%20OR%20%22NIS%202%22%20OR%20%22DORA%22)%20droit&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=%22d%C3%A9l%C3%A9gu%C3%A9%20%C3%A0%20la%20protection%20des%20donn%C3%A9es%22%20when:7d&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=CNIL%20sanction%20OR%20amende%20OR%20%22mise%20en%20demeure%22%20when:7d&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=CJUE%20%22donn%C3%A9es%20personnelles%22%20when:7d&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=%22violation%20de%20donn%C3%A9es%22%20OR%20%22fuite%20de%20donn%C3%A9es%22%20CNIL%20when:7d&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=RGPD%20intelligence%20artificielle%20CNIL%20when:7d&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  }
+ ],
+ "keywords": {
+  "rgpd": [
+   "rgpd",
+   "gdpr",
+   "cnil",
+   "edpb",
+   "cepd",
+   "données personnelles",
+   "protection des données",
+   "data protection",
+   "délégué à la protection",
+   "DPO",
+   "vie privée",
+   "privacy",
+   "cookies",
+   "droit à l'oubli",
+   "violation de données",
+   "AIPD",
+   "data privacy framework",
+   "noyb",
+   "transfert de données",
+   "omnibus numérique",
+   "digital omnibus",
+   "délégué à la protection des données",
+   "délégués à la protection",
+   "responsable de traitement",
+   "responsables de traitement",
+   "sous-traitant",
+   "registre des traitements",
+   "analyse d'impact",
+   "base légale",
+   "droit d'accès",
+   "traceurs",
+   "vidéosurveillance",
+   "reconnaissance faciale",
+   "données biométriques",
+   "fuite de données",
+   "violation de données"
+  ],
+  "numerique": [
+   "droit du numérique",
+   "ai act",
+   "règlement ia",
+   "règlement sur l'ia",
+   "règlement européen sur l'intelligence artificielle",
+   "DSA",
+   "DMA",
+   "digital services act",
+   "digital markets act",
+   "data act",
+   "data governance act",
+   "arcom",
+   "cloud act",
+   "secnumcloud",
+   "eidas",
+   "identité numérique",
+   "souveraineté numérique",
+   "régulation du numérique",
+   "neutralité du net",
+   "cyber resilience act",
+   "omnibus numérique",
+   "digital omnibus",
+   "droit d'auteur",
+   "loi numérique",
+   "majorité numérique"
+  ],
+  "sante": [
+   "droit de la santé",
+   "responsabilité médicale",
+   "faute médicale",
+   "erreur médicale",
+   "secret médical",
+   "données de santé",
+   "health data",
+   "EHDS",
+   "espace européen des données de santé",
+   "HDS",
+   "hébergeur de données de santé",
+   "hébergement de données de santé",
+   "mon espace santé",
+   "dossier médical",
+   "télésanté",
+   "télémédecine",
+   "téléconsultation",
+   "ONIAM",
+   "droit des patients",
+   "droits des patients",
+   "loi santé",
+   "PLFSS",
+   "fin de vie",
+   "aide à mourir",
+   "bioéthique",
+   "ordre des médecins",
+   "dispositif médical",
+   "dispositifs médicaux",
+   "code de la santé publique",
+   "agence du numérique en santé",
+   "health data hub",
+   "plateforme des données de santé",
+   "ségur du numérique",
+   "exercice illégal de la médecine"
+  ],
+  "cyber": [
+   "fuite de données",
+   "vol de données",
+   "données volées",
+   "data breach",
+   "violation de données",
+   "cyberattaque",
+   "cyber-attaque",
+   "rançongiciel",
+   "ransomware",
+   "anssi",
+   "cert-fr",
+   "NIS 2",
+   "nis2",
+   "DORA",
+   "cyber resilience act",
+   "enisa",
+   "cybersécurité",
+   "cybercriminalité",
+   "cybercriminels",
+   "piratage",
+   "pirate",
+   "pirates",
+   "hackers",
+   "hameçonnage",
+   "phishing",
+   "malware",
+   "zero-day",
+   "zero day",
+   "orange cyberdefense"
+  ]
+ },
+ "natures": {
+  "Sanction": [
+   "amende",
+   "sanction",
+   "sanctionne",
+   "sanctionnée",
+   "mise en demeure",
+   "fined",
+   "fine of"
+  ],
+  "Jurisprudence": [
+   "cjue",
+   "cour de cassation",
+   "conseil d'état",
+   "cour d'appel",
+   "tribunal",
+   "jugement",
+   "condamné",
+   "condamnée",
+   "jurisprudence",
+   "court of justice"
+  ],
+  "Texte": [
+   "décret",
+   "arrêté",
+   "projet de loi",
+   "proposition de loi",
+   "directive",
+   "règlement (ue)",
+   "ordonnance",
+   "transposition",
+   "plfss",
+   "journal officiel"
+  ],
+  "Doctrine": [
+   "lignes directrices",
+   "guidelines",
+   "recommandation",
+   "consultation publique",
+   "public consultation",
+   "guide pratique",
+   "référentiel",
+   "délibération",
+   "avis de la cnil",
+   "guide de la cnil"
+  ],
+  "Fuite de données": [
+   "fuite de données",
+   "vol de données",
+   "data breach",
+   "violation de données",
+   "données volées"
+  ]
+ },
+ "exclude": [
+  "antivirus",
+  "iphone duo",
+  "zdnet morning"
+ ],
+ "cyber_companies": [
+  "anthropic",
+  "openai",
+  "mistral",
+  "google",
+  "microsoft",
+  "meta",
+  "amazon",
+  "apple",
+  "nvidia"
+ ],
+ "cyber_context": [
+  "sécurité",
+  "faille",
+  "failles",
+  "vulnérabilité",
+  "vulnérabilités",
+  "attaque",
+  "attaques",
+  "code malveillant",
+  "security",
+  "breach",
+  "backdoor",
+  "vulnerability",
+  "hacked",
+  "intrusion",
+  "confinement"
+ ],
+ "trusted_publishers": [
+  "Le Monde",
+  "Les Echos",
+  "Le Figaro",
+  "Libération",
+  "La Croix",
+  "L'Express",
+  "Le Point",
+  "L'Obs",
+  "Le Nouvel Obs",
+  "Mediapart",
+  "Ouest-France",
+  "Sud Ouest",
+  "La Tribune",
+  "Capital",
+  "Challenges",
+  "L'Agefi",
+  "AFP",
+  "franceinfo",
+  "France Info",
+  "France 24",
+  "RFI",
+  "France Culture",
+  "France Inter",
+  "BFM",
+  "BFMTV",
+  "BFM Business",
+  "TF1 Info",
+  "L'Usine Digitale",
+  "L'Usine Nouvelle",
+  "L'Informé",
+  "Contexte",
+  "Dalloz",
+  "Dalloz Actualité",
+  "Lexbase",
+  "Actu-Juridique",
+  "Le Monde du Droit",
+  "Village de la Justice",
+  "Légifrance",
+  "Lexing Alain Bensoussan",
+  "Archimag",
+  "L'Informaticien",
+  "Numerama",
+  "01net",
+  "CIO Online",
+  "Le Monde Informatique",
+  "LeMagIT",
+  "Silicon.fr",
+  "Next",
+  "ZDNet France",
+  "ZDNET",
+  "Alliancy",
+  "Hospimedia",
+  "TICsanté",
+  "TICpharma",
+  "APMnews",
+  "Le Quotidien du Médecin",
+  "Le Quotidien du médecin",
+  "DSIH",
+  "Egora",
+  "vie-publique.fr",
+  "Reuters",
+  "Bloomberg",
+  "Financial Times",
+  "The Wall Street Journal",
+  "The New York Times",
+  "The Guardian",
+  "BBC",
+  "Politico",
+  "POLITICO",
+  "Politico Europe",
+  "Euractiv",
+  "EURACTIV",
+  "IAPP",
+  "The Record",
+  "The Register",
+  "TechCrunch",
+  "WIRED",
+  "Wired",
+  "Ars Technica",
+  "The Verge",
+  "BleepingComputer",
+  "CyberScoop",
+  "Dark Reading",
+  "SecurityWeek",
+  "Help Net Security"
+ ]
+}
