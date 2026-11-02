@@ -1,5 +1,65 @@
 [
 {
+"id": "e52f7534557dbc27",
+"title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+"link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+"summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks.",
+"source": "BleepingComputer",
+"date": "2026-11-02T11:28:42+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-02T11:39:37+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "b4a2e5033bef5125",
+"title": "Votre routeur Netgear est peut-être vulnérable à une faille de sécurité, comment vérifier et corriger le problème",
+"link": "https://www.zdnet.fr/actualites/votre-routeur-netgear-est-peut-etre-vulnerable-a-une-faille-de-securite-comment-verifier-et-corriger-le-probleme-507091.htm#xtor=RSS-1",
+"summary": "Une faille de sécurité présente dans certains routeurs Netgear pourrait permettre à un pirate ayant accès à votre réseau d'exécuter des commandes malveillantes sur l'appareil.",
+"source": "ZDNet France",
+"date": "2026-11-02T11:11:32+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-02T11:39:37+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "f2a08d623b4d2973",
+"title": "Binance victime d'un vol de cryptomonnaies de 6,3 Md$",
+"link": "https://www.lemondeinformatique.fr/actualites/lire-binance-victime-d-un-vol-de-cryptomonnaies-de-6-3-md$-100895.html",
+"summary": "Le secteur des cryptomonnaies fait face à l'une des plus importantes crises de sécurité de son histoire. Binance, l'une des principales plateformes mondiales d'échange de monnaies numériques, a été ciblée par une cyberattaque ayant entraîné le détournement d'environ 6,3 Md$ d'actifs numériques.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-02T11:11:20+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-02T11:39:37+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "357136bfe66d6a92",
+"title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+"link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+"summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1.",
+"source": "BleepingComputer",
+"date": "2026-11-02T09:33:26+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-02T11:39:37+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "521d52da29be233d",
 "title": "ZD Tech : Octave Klaba attaque Mistral AI et annonce l'IA souveraine d'OVHcloud",
 "link": "https://www.zdnet.fr/actualites/zd-tech-octave-klaba-attaque-mistral-ai-et-annonce-lia-souveraine-dovhcloud-506584.htm#xtor=RSS-1",
@@ -780,68 +840,5 @@
 "added": "2026-11-01T21:18:39+00:00",
 "official": false,
 "lang": "fr"
-},
-{
-"id": "1d88bab6da163c1f",
-"title": "Cloudflare secoué, Quad9 dit stop : les DNS sous pression judiciaire en France",
-"link": "https://www.silicon.fr/business-1367/dns-justice-france-229919",
-"summary": "Enjoint de bloquer l'accès à des sites pirates en France, Quad9 préfère fermer son DNS récursif sur place, comme Cisco l'a fait en 2024.",
-"source": "Silicon.fr",
-"date": "2026-10-26T10:44:52+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "c4fc1011be4ed4ff",
-"title": "Le Parti communiste français victime d’une fuite de données, 183 000 personnes seraient concernées selon le hacker",
-"link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNbUtoSkpWLXFjS1lEUm5NUDlhNi1qY08yaGExN05kRTdVYmhHOHd5empac1BONkJNcDFVcmRJdFBsaFBIZXB2Z29aWnp0bDBuQmp5S3ZtbUFUX3dHTGhlNF9CS0Z1T2JWa0FfZlMyUzE1TERhcDRJZG1TcXM4ajg0YU9FemxzZXFRT1dUNU84RzBJcUtSZGRIWmJPM3FBX3NsMjk3VTBhcHF6cDViQkcyY2Vvbk91UU5CQlhZb2FPVkpYSFpvQUlxWG1XQ1QyWGhUVHhlbU1pQWN4Qm5PQ2MwdGhxeW5SdXBXUHZLY3p5Ym5ROHEybmlXeGtZb0dyR0FQcWMxRGh2dnBIRzhGVXV5ZDRad29LWnNheFVqUGxSZEVZZHlDdVc3STBEX2k?oc=5",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-10-26T10:18:08+00:00",
-"topics": [
-"rgpd",
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "fea76eb6ffa1b4a2",
-"title": "Dette technique et cybersécurité : le coût croissant de l’inaction",
-"link": "https://www.silicon.fr/cybersecurite-1371/dette-technique-et-cybersecurite-le-cout-croissant-de-linaction-229891",
-"summary": "{ Tribune Expert } - La dette technique relie les faiblesses opérationnelles actuelles, les cybermenaces amplifiées par l’IA et l’exposition cryptographique future.",
-"source": "Silicon.fr",
-"date": "2026-10-26T10:03:45+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "8add27f14e1adc0e",
-"title": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act",
-"link": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act",
-"summary": "The European Commission has accepted Temu's action plan to comply with the Digital Services Act (DSA) and tackle the availability of illegal products online.",
-"source": "Commission européenne – Numérique",
-"date": "2026-10-26T09:28:00+00:00",
-"topics": [
-"numerique"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": true,
-"lang": "en"
 }
 ]
