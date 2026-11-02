@@ -1,5 +1,65 @@
 [
 {
+"id": "be1d39eaf1aa1ffc",
+"title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+"link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+"summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions.",
+"source": "BleepingComputer",
+"date": "2026-11-02T15:03:07+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-02T16:42:41+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "5ea1d647d0056480",
+"title": "Your Mobile Carrier Stores Your Call Logs for Years",
+"link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+"summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached.",
+"source": "BleepingComputer",
+"date": "2026-11-02T15:01:11+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-02T16:42:41+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "cab04cab3c6673df",
+"title": "Hackers disrupt refrigeration systems at European supermarkets",
+"link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+"summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems.",
+"source": "BleepingComputer",
+"date": "2026-11-02T14:28:39+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-02T16:42:41+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "f2b81eda1fad38dd",
+"title": "Après la France, des pannes de frigos dans plusieurs enseignes en Europe",
+"link": "https://next.ink/265228/apres-la-france-des-pannes-de-frigos-dans-plusieurs-enseignes-en-europe/",
+"summary": "Une épidémie de frigos en panne : après la France mi-octobre, des systèmes de réfrigération dans plusieurs enseignes en Europe ont été victimes d’un piratage.",
+"source": "Next",
+"date": "2026-11-02T13:41:08+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-02T16:42:41+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "e52f7534557dbc27",
 "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
 "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
@@ -45,6 +105,21 @@
 "lang": "fr"
 },
 {
+"id": "5f16eacba49e893e",
+"title": "Droit et IT : 5 problématiques légales que la DSI doit impérativement maîtriser",
+"link": "https://www.lemagit.fr/essentialguide/Droit-et-IT-5-problematiques-legales-que-la-DSI-doit-imperativement-maitriser",
+"summary": "Dans ce dossier, des juristes et des avocats spécialistes explicitent cinq grandes problématiques actuelles que les DSI vont devoir – ou doivent déjà – prendre en compte, de DORA aux clauses limitatives et aux obligations de délivrance.",
+"source": "LeMagIT",
+"date": "2026-11-02T09:45:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-02T16:42:41+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "357136bfe66d6a92",
 "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
 "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
@@ -72,6 +147,36 @@
 "natures": [],
 "added": "2026-11-02T07:52:36+00:00",
 "official": false,
+"lang": "fr"
+},
+{
+"id": "a0dd4cd13581f799",
+"title": "Piratage des applications d'alerte en Ukraine et en Russie : de fausses alertes nucléaires diffusées",
+"link": "https://www.zdnet.fr/actualites/piratage-des-applications-dalerte-en-ukraine-et-en-russie-de-fausses-alertes-nucleaires-diffusees-507108.htm#xtor=RSS-1",
+"summary": "Les applications officielles d'alerte aérienne en Ukraine et en Russie ont été compromises dimanche soir par des cyberattaques simultanées.",
+"source": "ZDNet France",
+"date": "2026-11-02T04:11:05+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-02T16:42:41+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "258b15ab8eb17dfb",
+"title": "Bulletin d'actualité CERTFR-2026-ACT-046 (02 novembre 2026)",
+"link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-046/",
+"summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités.",
+"source": "CERT-FR – Actualités",
+"date": "2026-11-02T00:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-02T16:42:41+00:00",
+"official": true,
 "lang": "fr"
 },
 {
@@ -820,21 +925,6 @@
 "date": "2026-10-27T00:00:00+00:00",
 "topics": [
 "sante"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "f166ecaa3012a7d5",
-"title": "WhatsApp a-t-il laissé traîner des instructions LLM « anti-RGPD » ?",
-"link": "https://www.silicon.fr/data-ia-1372/whatsapp-instructions-llm-cachees-229939",
-"summary": "WhatsApp invoque une erreur après la découverte, dans son aide en ligne, d'instructions cachées invitant notamment à ne pas mentionner le RGPD et les autorités de protection des données.",
-"source": "Silicon.fr",
-"date": "2026-10-26T14:44:18+00:00",
-"topics": [
-"rgpd"
 ],
 "natures": [],
 "added": "2026-11-01T21:18:39+00:00",
