@@ -103,9 +103,8 @@
 },
 {
 "name": "What's up Doc",
-"ok": true,
-"items": 10,
-"new": 0
+"ok": false,
+"error": "HTTP Error 403: Forbidden"
 },
 {
 "name": "Egora",
@@ -141,7 +140,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -170,13 +169,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 78,
+"items": 77,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 100,
+"items": 35,
 "new": 0
 },
 {
@@ -188,13 +187,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 23,
+"items": 3,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 28,
+"items": 30,
 "new": 0
 },
 {
@@ -206,7 +205,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 9,
+"items": 10,
 "new": 0
 },
 {
