@@ -45,7 +45,7 @@
 "name": "CERT-FR – Actualités",
 "ok": true,
 "items": 40,
-"new": 1
+"new": 0
 },
 {
 "name": "Cybermalveillance.gouv.fr",
@@ -123,13 +123,13 @@
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Silicon.fr",
@@ -141,7 +141,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -159,12 +159,12 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 3
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 100,
+"items": 11,
 "new": 0
 },
 {
@@ -188,13 +188,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 12,
+"items": 7,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 31,
+"items": 42,
 "new": 0
 },
 {
