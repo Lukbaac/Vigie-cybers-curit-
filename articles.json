@@ -828,20 +828,5 @@
 "added": "2026-11-01T21:18:39+00:00",
 "official": true,
 "lang": "en"
-},
-{
-"id": "a3354384527e74c8",
-"title": "Bulletin d'actualité CERTFR-2026-ACT-045 (26 octobre 2026)",
-"link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-045/",
-"summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités.",
-"source": "CERT-FR – Actualités",
-"date": "2026-10-26T00:00:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": true,
-"lang": "fr"
 }
 ]
