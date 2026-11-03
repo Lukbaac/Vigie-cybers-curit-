@@ -21,7 +21,7 @@
 "name": "Commission européenne – Numérique",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "Arcom",
@@ -75,7 +75,7 @@
 "name": "DSIH",
 "ok": true,
 "items": 30,
-"new": 1
+"new": 0
 },
 {
 "name": "Legalis",
@@ -87,7 +87,7 @@
 "name": "Village de la Justice",
 "ok": true,
 "items": 3,
-"new": 1
+"new": 0
 },
 {
 "name": "France Assos Santé",
@@ -129,7 +129,7 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 2
 },
 {
 "name": "Silicon.fr",
@@ -147,7 +147,7 @@
 "name": "Le Monde Informatique – Sécurité",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 2
 },
 {
 "name": "ZATAZ",
@@ -159,7 +159,7 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
+"new": 2
 },
 {
 "name": "Google Actualités",
@@ -170,19 +170,19 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 75,
+"items": 77,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 44,
+"items": 100,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 83,
+"items": 20,
 "new": 0
 },
 {
@@ -194,7 +194,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 43,
+"items": 32,
 "new": 0
 },
 {
@@ -206,13 +206,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 8,
+"items": 9,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 12,
+"items": 11,
 "new": 0
 }
 ]

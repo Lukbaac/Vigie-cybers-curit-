@@ -1,5 +1,65 @@
 [
 {
+"id": "46e3ceaf4efa1625",
+"title": "BlackLine se déploie sur S3NS",
+"link": "https://www.lemondeinformatique.fr/actualites/lire-blackline-se-deploie-sur-s3ns-100897.html",
+"summary": "Le cloud de confiance français continue d'attirer les éditeurs américains. BlackLine, spécialiste des logiciels d'automatisation des processus financiers et comptables, annonce avoir choisi S3NS pour déployer sa plateforme sur PREMI3NS.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-03T16:16:03+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T16:16:03+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "347d19675178ce20",
+"title": "Les frigos des supermarchés européens victimes d'une nouvelle vague de cyberattaques",
+"link": "https://www.lemondeinformatique.fr/actualites/lire-les-frigos-des-supermarches-europeens-victimes-d-une-nouvelle-vague-de-cyberattaques-100899.html",
+"summary": "Lundi 2 novembre, les installations frigorifiques de plusieurs supermarchés européens ont été manipulées à distance, provoquant des pertes de marchandises et des perturbations opérationnelles.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-03T16:16:03+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T16:16:03+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "c136875d05ca548e",
+"title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+"link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+"summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host.",
+"source": "BleepingComputer",
+"date": "2026-11-03T14:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T16:16:03+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "8ede56d402c1a1b9",
+"title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+"link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+"summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws.",
+"source": "BleepingComputer",
+"date": "2026-11-03T12:05:52+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T16:16:03+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "ddf65c1e0b5c1ac2",
 "title": "Écrit électronique : les deux conditions de l'article 1366 du Code civil, et ce que le règlement eIDAS fait présumer. Par Laurent Souhy.",
 "link": "https://www.village-justice.com/articles/ecrit-electronique-les-deux-conditions-article-1366-code-civil-que-reglement,59772.html?utm_source=backend&utm_medium=RSS&utm_campaign=RSS_Reseaux",
@@ -47,6 +107,21 @@
 "lang": "en"
 },
 {
+"id": "97eb34359d193605",
+"title": "CI/CD : GitHub décline son arsenal pour limiter les attaques de type « Pwn Request »",
+"link": "https://www.lemagit.fr/actualites/366653454/CI-CD-GitHub-decline-son-arsenal-pour-limiter-les-attaques-de-type-Pwn-Request",
+"summary": "Face à la multiplication des attaques exploitant des défauts de configuration de GitHub Actions, la filiale de Microsoft renforce chaque maillon de sa chaîne CI/CD.",
+"source": "LeMagIT",
+"date": "2026-11-03T10:30:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T16:16:03+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "703f483c7d0fa887",
 "title": "Web Summit 2026",
 "link": "https://digital-strategy.ec.europa.eu/en/events/web-summit-2026",
@@ -60,6 +135,37 @@
 "added": "2026-11-03T11:39:04+00:00",
 "official": true,
 "lang": "en"
+},
+{
+"id": "eb9be55c606811d5",
+"title": "Visio : Tixeo passe au chiffrement post-quantique",
+"link": "https://www.lemagit.fr/actualites/366653396/Visio-Tixeo-passe-au-chiffrement-post-quantique",
+"summary": "L’éditeur français de visioconférence Tixeo annonce l’arrivée d’une protection post-quantique hybride pour se conformer aux exigences de l’ANSSI.",
+"source": "LeMagIT",
+"date": "2026-11-03T09:34:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T16:16:03+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "807a06601baf0447",
+"title": "Piratage en ligne : Starlink, plus fort que la Hadopi ?",
+"link": "https://www.zdnet.fr/actualites/piratage-en-ligne-starlink-plus-fort-que-la-hadopi-507175.htm#xtor=RSS-1",
+"summary": "Deux jours après avoir téléchargé illégalement un épisode d’une série TV, un utilisateur néerlandais a reçu un avis de violation du droit d’auteur de la part de Starlink.",
+"source": "ZDNet France",
+"date": "2026-11-03T04:11:52+00:00",
+"topics": [
+"numerique",
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T16:16:03+00:00",
+"official": false,
+"lang": "fr"
 },
 {
 "id": "78b9e9b11535de31",
@@ -973,51 +1079,6 @@
 "date": "2026-10-28T05:10:41+00:00",
 "topics": [
 "numerique"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "7d02e278f85eecaf",
-"title": "Travail du clic : Scale AI poursuivie en justice dans quatre pays européens",
-"link": "https://next.ink/264263/travail-du-clic-scale-ai-poursuivie-en-justice-dans-quatre-pays-europeens/",
-"summary": "Quatre organisations européennes déposent cinq plaintes contre la société états-unienne Scale AI. Par l’intermédiaire de sa plateforme Outlier, celle-ci déploie en effet une quinzaine de traçeurs sur les ordinateurs des annotatrices et annotateurs qui lui prêtent leurs service.",
-"source": "Next",
-"date": "2026-10-27T16:06:19+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "4fe0520d0aa3e22a",
-"title": "Médecins n°106",
-"link": "https://www.conseil-national.medecin.fr/publications/bulletins-lordre-medecins/medecins-ndeg106",
-"summary": "Bulletin de l'Ordre des médecins de septembre-octobre 2026",
-"source": "Conseil national de l'Ordre des médecins",
-"date": "2026-10-27T14:00:43+00:00",
-"topics": [
-"sante"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "0b2da36d8425b599",
-"title": "Un pirate affirme avoir récupéré des données de trois partis politiques",
-"link": "https://next.ink/264085/un-pirate-affirme-avoir-recupere-des-donnees-de-trois-partis-politiques/",
-"summary": "Fuites de données en série, chez les partis en campagne pour l’élection présidentielle ? En un week-end, un même pirate affirme avoir récupéré des données du Parti communiste français, de La France Insoumise et de Renaissance.",
-"source": "Next",
-"date": "2026-10-27T13:01:00+00:00",
-"topics": [
-"cyber"
 ],
 "natures": [],
 "added": "2026-11-01T21:18:39+00:00",
