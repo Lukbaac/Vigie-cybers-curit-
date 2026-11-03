@@ -1,5 +1,83 @@
 [
 {
+"id": "ddf65c1e0b5c1ac2",
+"title": "Écrit électronique : les deux conditions de l'article 1366 du Code civil, et ce que le règlement eIDAS fait présumer. Par Laurent Souhy.",
+"link": "https://www.village-justice.com/articles/ecrit-electronique-les-deux-conditions-article-1366-code-civil-que-reglement,59772.html?utm_source=backend&utm_medium=RSS&utm_campaign=RSS_Reseaux",
+"summary": "L'article 1366 du Code civil donne à l'écrit électronique la même force probante que l'écrit papier, sous deux conditions jointes par une conjonction : que puisse être dûment identifiée la personne dont il émane, et qu'il soit établi et conservé dans des conditions de nature à en garantir l'intégrité.",
+"source": "Village de la Justice",
+"date": "2026-11-03T11:39:04+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-03T11:39:04+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "141e96df4fb84c74",
+"title": "L'écran « Privacy Display » de Samsung pourrait être étendu à d'autres modèles Galaxy, ce que l'on sait",
+"link": "https://www.zdnet.fr/actualites/lecran-privacy-display-de-samsung-pourrait-etre-etendu-a-dautres-modeles-galaxy-ce-que-lon-sait-507166.htm#xtor=RSS-1",
+"summary": "La fonction « Privacy Display » du Galaxy S26 Ultra pourrait désormais être proposé sur d’autres modèles Galaxy.",
+"source": "ZDNet France",
+"date": "2026-11-03T11:11:39+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-03T11:39:04+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "8491f2b2e05466df",
+"title": "Harvard University data breach exposed info of 851,000 accounts",
+"link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+"summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned.",
+"source": "BleepingComputer",
+"date": "2026-11-03T10:53:25+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-03T11:39:04+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "703f483c7d0fa887",
+"title": "Web Summit 2026",
+"link": "https://digital-strategy.ec.europa.eu/en/events/web-summit-2026",
+"summary": "This year, DG Connect will be at Web Summit in Lisbon from 10 to 12 November, with two Masterclasses focusing on EU support for businesses working with AI and on how Europe’s data spaces can help SMEs grow and innovate.",
+"source": "Commission européenne – Numérique",
+"date": "2026-11-03T10:13:35+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-03T11:39:04+00:00",
+"official": true,
+"lang": "en"
+},
+{
+"id": "78b9e9b11535de31",
+"title": "Anonymisation imparfaite et entrepôts de données de santé sauvages, l’engrenage",
+"link": "https://dsih.fr/articles/6455/anonymisation-imparfaite-et-entrepots-de-donnees-de-sante-sauvages-lengrenage",
+"summary": "Depuis 2024, la formation restreinte de la CNIL a prononcé une série de sanctions visant des sociétés qui collectent, à partir des logiciels des médecins et des pharmaciens, des données de santé destinées à une utilisation secondaire (études, statistiques, recherche).",
+"source": "DSIH",
+"date": "2026-11-03T00:00:00+00:00",
+"topics": [
+"rgpd",
+"sante"
+],
+"natures": [],
+"added": "2026-11-03T11:39:04+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "f6edbcaffade5370",
 "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
 "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
@@ -938,21 +1016,6 @@
 "summary": "Fuites de données en série, chez les partis en campagne pour l’élection présidentielle ? En un week-end, un même pirate affirme avoir récupéré des données du Parti communiste français, de La France Insoumise et de Renaissance.",
 "source": "Next",
 "date": "2026-10-27T13:01:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "2bb1ca66c95df1ab",
-"title": "Sécurité des applications web : le constats de terrain du CERT-FR",
-"link": "https://www.silicon.fr/cybersecurite-1371/anssi-cert-fr-retex-applications-web-229950",
-"summary": "Le CERT-FR communique des préconisations pour la sécurité des applications web et les agrémente de quelques observations de terrain.",
-"source": "Silicon.fr",
-"date": "2026-10-27T08:56:34+00:00",
 "topics": [
 "cyber"
 ],
