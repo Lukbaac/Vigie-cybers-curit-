@@ -1,5 +1,50 @@
 [
 {
+"id": "f6edbcaffade5370",
+"title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+"link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+"summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries.",
+"source": "BleepingComputer",
+"date": "2026-11-02T21:40:14+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T06:40:01+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "1d00b73909e20808",
+"title": "Binance piraté : ce qu’on sait sur l’origine de l’attaque et ses conséquences",
+"link": "https://www.silicon.fr/cybersecurite-1371/binance-hack-230058",
+"summary": "Le scénario du hack à 6,3 milliards $ contre Binance se dessine, tandis que l'écosystème accompagne la gestion de la crise.",
+"source": "Silicon.fr",
+"date": "2026-11-02T18:29:33+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T06:40:01+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "f8e64d371b0e6032",
+"title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+"link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+"summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities.",
+"source": "BleepingComputer",
+"date": "2026-11-02T18:16:34+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T06:40:01+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "be1d39eaf1aa1ffc",
 "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
 "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
@@ -43,6 +88,21 @@
 "added": "2026-11-02T16:42:41+00:00",
 "official": false,
 "lang": "en"
+},
+{
+"id": "ca61260b6a454d06",
+"title": "Gemini 4 Carbon : Google troque l’efficience contre la première place du classement",
+"link": "https://www.lemagit.fr/actualites/366653377/Gemini-4-Carbon-Google-troque-lefficience-contre-la-premiere-place-du-classement",
+"summary": "Avec Gemini 4 Carbon, Google met l’accent sur la cybersécurité. Une qualité difficilement appréciable tant que le fournisseur restreint l’accès à son modèle.",
+"source": "LeMagIT",
+"date": "2026-11-02T13:49:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-03T06:40:01+00:00",
+"official": false,
+"lang": "fr"
 },
 {
 "id": "f2b81eda1fad38dd",
@@ -895,36 +955,6 @@
 "date": "2026-10-27T08:56:34+00:00",
 "topics": [
 "cyber"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "f722e4fbc3155f58",
-"title": "AI training platform Outlier illegally surveils European platform workers",
-"link": "https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers",
-"summary": "Online & Mobile tracking Today, noyb (in collaboration with Intérêt à Agir , DIPLab and Reversing.Works ) has filed 5 complaints against Scale AI in France, Italy, the Netherlands and Austria.",
-"source": "noyb",
-"date": "2026-10-27T06:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "ce872aef6b5c685c",
-"title": "Unicancer met en service Harmonie, un entrepôt de données de santé unique pour accélérer la recherche en cancérologie",
-"link": "https://dsih.fr/articles/6446/unicancer-met-en-service-harmonie-un-entrepot-de-donnees-de-sante-unique-pour-accelerer-la-recherche-en-cancerologie",
-"summary": "Harmonie rassemble les données du Système national des données de santé (SNDS) et celles des grandes cohortes de patients que la fédération suit en oncologie.",
-"source": "DSIH",
-"date": "2026-10-27T00:00:00+00:00",
-"topics": [
-"sante"
 ],
 "natures": [],
 "added": "2026-11-01T21:18:39+00:00",

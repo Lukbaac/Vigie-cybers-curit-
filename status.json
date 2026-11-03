@@ -32,7 +32,7 @@
 {
 "name": "Sénat – Textes",
 "ok": true,
-"items": 60,
+"items": 63,
 "new": 0
 },
 {
@@ -85,9 +85,8 @@
 },
 {
 "name": "Village de la Justice",
-"ok": true,
-"items": 3,
-"new": 0
+"ok": false,
+"error": "The read operation timed out"
 },
 {
 "name": "France Assos Santé",
@@ -129,13 +128,13 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Silicon.fr",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "ZDNet France",
@@ -159,18 +158,18 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
+"new": 2
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 100,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 11,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 79,
+"items": 75,
 "new": 0
 },
 {
@@ -182,13 +181,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 84,
+"items": 20,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 7,
+"items": 27,
 "new": 0
 },
 {
@@ -200,7 +199,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 2,
+"items": 3,
 "new": 0
 },
 {
@@ -212,7 +211,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 12,
+"items": 16,
 "new": 0
 }
 ]
