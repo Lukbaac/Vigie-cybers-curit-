@@ -85,8 +85,9 @@
 },
 {
 "name": "Village de la Justice",
-"ok": false,
-"error": "The read operation timed out"
+"ok": true,
+"items": 3,
+"new": 0
 },
 {
 "name": "France Assos Santé",
@@ -128,13 +129,13 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Silicon.fr",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "ZDNet France",
@@ -158,12 +159,12 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 2
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 100,
+"items": 11,
 "new": 0
 },
 {
@@ -175,7 +176,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 100,
+"items": 39,
 "new": 0
 },
 {
@@ -187,13 +188,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 27,
+"items": 20,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 42,
+"items": 43,
 "new": 0
 },
 {
