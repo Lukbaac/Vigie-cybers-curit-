@@ -1,5 +1,20 @@
 [
 {
+"id": "589bde0ff1897b73",
+"title": "Aide à mourir : Stéphanie Rist confirme une entrée en vigueur en janvier 2027",
+"link": "http://www.lequotidiendumedecin.fr/sante-societe/aide-mourir-stephanie-rist-confirme-une-entree-en-vigueur-en-janvier-2027",
+"summary": "La loi instaurant un droit à l’aide à mourir sous conditions entrera bien en application en janvier 2027, a confirmé mardi la ministre de la Santé, Stéphanie Rist, sur Franceinfo.",
+"source": "Le Quotidien du médecin",
+"date": "2026-11-03T16:30:32+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-03T16:33:01+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "46e3ceaf4efa1625",
 "title": "BlackLine se déploie sur S3NS",
 "link": "https://www.lemondeinformatique.fr/actualites/lire-blackline-se-deploie-sur-s3ns-100897.html",
@@ -104,6 +119,21 @@
 ],
 "added": "2026-11-03T11:39:04+00:00",
 "official": false,
+"lang": "en"
+},
+{
+"id": "880e8265fe564af7",
+"title": "Call for proposals: EU AI Media Platform – Modular multilingual public-interest infrastructure for European news and audiovisual media (IA) - Apply AI",
+"link": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-eu-ai-media-platform-modular-multilingual-public-interest-infrastructure-european",
+"summary": "",
+"source": "Commission européenne – Numérique",
+"date": "2026-11-03T10:49:00+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-03T16:33:01+00:00",
+"official": true,
 "lang": "en"
 },
 {
