@@ -1,5 +1,20 @@
 [
 {
+"id": "bca9610738127000",
+"title": "ZD Tech : Cybersécurité : comment des agents IA contournent vos pare-feux pour 50 dollars",
+"link": "https://www.zdnet.fr/actualites/zd-tech-cybersecurite-comment-des-agents-ia-contournent-vos-pare-feux-pour-50-dollars-506827.htm#xtor=RSS-1",
+"summary": "Révélée par les chercheurs de NorForge, une attaque inédite a mobilisé la plateforme open source Cairn pour orchestrer des agents IA autonomes.",
+"source": "ZDNet France",
+"date": "2026-11-04T07:59:31+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-04T07:59:31+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "b0a8ea5b69867de6",
 "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
 "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
@@ -1126,21 +1141,6 @@
 "date": "2026-10-28T11:41:05+00:00",
 "topics": [
 "cyber"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "286c6aa6d5541416",
-"title": "Face au durcissement de la CNIL, PKF Arsilon lance son audit express RGPD et défie les ténors du conseil IT",
-"link": "https://www.zdnet.fr/actualites/face-au-durcissement-de-la-cnil-pkf-arsilon-lance-son-audit-express-rgpd-et-defie-les-tenors-du-conseil-it-506730.htm#xtor=RSS-1",
-"summary": "Alors que le régulateur multiplie les amendes record, PKF Arsilon étoffe son pôle de gestion des risques IT avec un « Diagnostic Flash RGPD ».",
-"source": "ZDNet France",
-"date": "2026-10-28T07:10:37+00:00",
-"topics": [
-"rgpd"
 ],
 "natures": [],
 "added": "2026-11-01T21:18:39+00:00",
