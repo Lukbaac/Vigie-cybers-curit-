@@ -1,5 +1,67 @@
 [
 {
+"id": "2883b8d83253ab82",
+"title": "Call for evidence on advertising repositories",
+"link": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
+"summary": "The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA).",
+"source": "Commission européenne – Numérique",
+"date": "2026-11-04T10:10:00+00:00",
+"topics": [
+"numerique"
+],
+"natures": [
+"Doctrine"
+],
+"added": "2026-11-04T11:43:19+00:00",
+"official": true,
+"lang": "en"
+},
+{
+"id": "ba9c54617372e1cc",
+"title": "Cyberattaque au Crédit mutuel Arkéa : le détournement est évalué à 118 millions d’euros",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/04/le-credit-mutuel-arkea-confirme-avoir-ete-victime-d-une-cyberattaque-le-detournement-est-evalue-a-118-millions-d-euros_6806141_4408996.html",
+"summary": "La caisse fédérale bretonne n’a pas communiqué le montant du préjudice, déclarant mercredi que l’incident était désormais « maîtrisé ».",
+"source": "Le Monde – Pixels",
+"date": "2026-11-04T10:08:38+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-04T11:43:19+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "93d9d93d839fe41d",
+"title": "LLMJacking : comment les pirates détournent les accès aux modèles d’IA",
+"link": "https://www.silicon.fr/cybersecurite-1371/llmjacking-comment-les-pirates-detournent-les-acces-aux-modeles-ia-230098",
+"summary": "Une activité criminelle en pleine structuration vise les accès cloud et les clés d'API donnant accès aux LLM avec des factures frauduleuses qui peuvent atteindre le million de dollars.",
+"source": "Silicon.fr",
+"date": "2026-11-04T09:53:31+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-04T11:43:19+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "ff5597d5da61be0c",
+"title": "☕️ L’Établissement français du sang touché par le piratage de certaines chambres froides",
+"link": "https://next.ink/brief-article/letablissement-francais-du-sang-touche-par-le-piratage-de-certaines-chambres-froides/",
+"summary": "Après les frigos de plusieurs enseignes de supermarché en France puis en Europe, c’est maintenant les chambres froides de l’Établissement français du sang (EFS) qui ont été visées par un piratage.",
+"source": "Next",
+"date": "2026-11-04T09:42:14+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-04T11:43:19+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "bca9610738127000",
 "title": "ZD Tech : Cybersécurité : comment des agents IA contournent vos pare-feux pour 50 dollars",
 "link": "https://www.zdnet.fr/actualites/zd-tech-cybersecurite-comment-des-agents-ia-contournent-vos-pare-feux-pour-50-dollars-506827.htm#xtor=RSS-1",
@@ -1058,6 +1120,21 @@
 "lang": "fr"
 },
 {
+"id": "06dc013b822d9a48",
+"title": "Face au durcissement de la CNIL, PKF Arsilon lance son audit express RGPD et défie les ténors du conseil IT",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOei0zMEpvN3BKZ3AzMkFqWVgtQXRpS2picDYzRmNyblN1T2dPeVRuU0lodW12WmY5OGptTGRWdmltTGRGUDRCb0xTTERJczljYTd0VjhjM2NwWVh3N0JPbWFTY2tmX0JMRHhaVlNJeDJ2eVhQRjhlcmpmWThaSG9FdzdBaFB6S1NrQkhKdXZyYlFhUTNiYUtqMXRIVG1qZ1RYZnJGS1phOE9ZaGdpb2RWX2plNDFfMXo0ejFFVnBnMm5zSkdsOFhfRDVseDE5eVoxQWh1T1RVVGF4R1UteWFUSEFoaw?oc=5",
+"summary": "",
+"source": "ZDNET",
+"date": "2026-10-28T17:37:37+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-04T11:43:19+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "14a23a7a8041286c",
 "title": "Formation interne à la cybersécurité : cinq erreurs à ne plus commettre",
 "link": "https://www.lemagit.fr/conseil/Formation-interne-a-la-cybersecurite-cinq-erreurs-a-ne-plus-commettre",
@@ -1109,36 +1186,6 @@
 "summary": "Les agents IA accélèrent aussi bien la recherche de vulnérabilités que les capacités d’attaque. Une démonstration en a été faite chez Anthropic, l’éditeur du modèle Claude.",
 "source": "Le Monde Informatique – Sécurité",
 "date": "2026-10-28T11:47:15+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "7002ede075dd4500",
-"title": "Sortie d'environnement : OpenAI met ses agents hors ligne après plusieurs failles de confinement",
-"link": "https://www.lemondeinformatique.fr/actualites/lire-sortie-d-environnement-openai-met-ses-agents-hors-ligne-apres-plusieurs-failles-de-confinement-100876.html",
-"summary": "Le confinement des agents IA devient un enjeu majeur de cybersécurité pour OpenAI. Dans une mise à jour publiée le 23 octobre 2026, le groupe américain OpenAI explique avoir renforcé son infrastructure d’entraînement après plusieurs tentatives de contournement de ses protections.",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-10-28T11:42:07+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "487557130c381b27",
-"title": "Alcatel-Lucent Enterprise intègre une IA souveraine à Rainbow pour séduire le secteur public",
-"link": "https://www.lemondeinformatique.fr/actualites/lire-alcatel-lucent-enterprise-integre-une-ia-souveraine-a-rainbow-pour-seduire-le-secteur-public-100875.html",
-"summary": "Annoncée le 22 octobre 2026, Rainbow Premium entend répondre à un problème désormais bien identifié par les directions informatiques; permettre aux collaborateurs d’utiliser l’IA sans multiplier les services externes susceptibles de traiter des informations confidentielles.",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-10-28T11:41:05+00:00",
 "topics": [
 "cyber"
 ],
