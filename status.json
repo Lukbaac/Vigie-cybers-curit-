@@ -3,7 +3,7 @@
 "name": "CNIL",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "CEPD (EDPB)",
@@ -20,7 +20,7 @@
 "name": "Commission européenne – Numérique",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "Arcom",
@@ -122,31 +122,31 @@
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 3
+"new": 0
 },
 {
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Silicon.fr",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "Le Monde Informatique – Sécurité",
 "ok": true,
 "items": 20,
-"new": 2
+"new": 0
 },
 {
 "name": "ZATAZ",
@@ -169,7 +169,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 21,
+"items": 22,
 "new": 0
 },
 {
@@ -187,7 +187,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 18,
+"items": 7,
 "new": 0
 },
 {

@@ -1,5 +1,20 @@
 [
 {
+"id": "9c8bdd95a7d55ce7",
+"title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+"link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+"summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data.",
+"source": "BleepingComputer",
+"date": "2026-11-04T16:58:46+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-04T17:48:35+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "fa9737a7f8a57ee4",
 "title": "Avast lance un VPN gratuit et illimité pour concurrencer les offres payantes",
 "link": "https://www.lemondeinformatique.fr/actualites/lire-avast-lance-un-vpn-gratuit-et-illimite-pour-concurrencer-les-offres-payantes-100912.html",
@@ -223,6 +238,21 @@
 ],
 "natures": [],
 "added": "2026-11-04T07:59:31+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "84706de5d82b5ac5",
+"title": "Comment la vigilance d'un technicien a sauvé les frigos de l'EFS",
+"link": "https://www.zdnet.fr/actualites/comment-la-vigilance-dun-technicien-a-sauve-les-frigos-de-lefs-507303.htm#xtor=RSS-1",
+"summary": "L’Établissement Français du Sang explique que ses réfrigérateurs utilisés pour stocker les poches de sang ont été visés par une cyberattaque.",
+"source": "ZDNet France",
+"date": "2026-11-04T07:11:08+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-04T17:48:35+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1266,21 +1296,6 @@
 ],
 "natures": [],
 "added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "06dc013b822d9a48",
-"title": "Face au durcissement de la CNIL, PKF Arsilon lance son audit express RGPD et défie les ténors du conseil IT",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOei0zMEpvN3BKZ3AzMkFqWVgtQXRpS2picDYzRmNyblN1T2dPeVRuU0lodW12WmY5OGptTGRWdmltTGRGUDRCb0xTTERJczljYTd0VjhjM2NwWVh3N0JPbWFTY2tmX0JMRHhaVlNJeDJ2eVhQRjhlcmpmWThaSG9FdzdBaFB6S1NrQkhKdXZyYlFhUTNiYUtqMXRIVG1qZ1RYZnJGS1phOE9ZaGdpb2RWX2plNDFfMXo0ejFFVnBnMm5zSkdsOFhfRDVseDE5eVoxQWh1T1RVVGF4R1UteWFUSEFoaw?oc=5",
-"summary": "",
-"source": "ZDNET",
-"date": "2026-10-28T17:37:37+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-04T11:43:19+00:00",
 "official": false,
 "lang": "fr"
 }
