@@ -3,12 +3,12 @@
 "name": "CNIL",
 "ok": true,
 "items": 10,
-"new": 0
+"new": 1
 },
 {
 "name": "CEPD (EDPB)",
 "ok": false,
-"error": "HTTP Error 503: Backend fetch failed"
+"error": "HTTP Error 500: Internal Server Error"
 },
 {
 "name": "LINC (CNIL)",
@@ -116,19 +116,19 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 3
 },
 {
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Silicon.fr",
@@ -146,7 +146,7 @@
 "name": "Le Monde Informatique – Sécurité",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 2
 },
 {
 "name": "ZATAZ",
@@ -158,36 +158,18 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 12,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 11,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 79,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 88,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 54,
+"items": 21,
 "new": 0
 },
 {
@@ -199,19 +181,37 @@
 {
 "name": "Google Actualités",
 "ok": true,
+"items": 21,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 18,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 34,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
 "items": 3,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 8,
+"items": 9,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 15,
-"new": 1
+"items": 10,
+"new": 0
 }
 ]
