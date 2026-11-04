@@ -1,5 +1,37 @@
 [
 {
+"id": "b0a8ea5b69867de6",
+"title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+"link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+"summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script.",
+"source": "BleepingComputer",
+"date": "2026-11-03T22:18:50+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-04T06:45:23+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "27b11b6379190f00",
+"title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+"link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+"summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications.",
+"source": "BleepingComputer",
+"date": "2026-11-03T21:28:44+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-04T06:45:23+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "617025cca0176efb",
 "title": "Midterms : l’agence US chargée de la cybersécurité n’en a plus rien à carrer des élections",
 "link": "https://next.ink/265398/midterms-lagence-us-chargee-de-la-cybersecurite-nen-a-plus-rien-a-carrer-des-elections/",
@@ -1109,21 +1141,6 @@
 "date": "2026-10-28T07:10:37+00:00",
 "topics": [
 "rgpd"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "2fe644398658fcce",
-"title": "Philippe Peter, Sprinklr : Les entreprises européennes se trompent de débat sur l'AI Act - mais aussi d'échéance",
-"link": "https://www.zdnet.fr/tribune/philippe-peter-senior-director-emea-chez-sprinklr-les-entreprises-europeennes-se-trompent-de-debat-sur-lai-act-mais-aussi-decheance-506506.htm#xtor=RSS-1",
-"summary": "Philippe Peter, Senior Director EMEA chez Sprinklr, invite les entreprises européennes à dépasser deux faux débats autour de l’AI Act, le contrôle humain systématique et la nationalité du fournisseur, pour se concentrer sur une gouvernance modulable et une véritable autonomie technique des données.",
-"source": "ZDNet France",
-"date": "2026-10-28T05:10:41+00:00",
-"topics": [
-"numerique"
 ],
 "natures": [],
 "added": "2026-11-01T21:18:39+00:00",
