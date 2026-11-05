@@ -1,5 +1,20 @@
 [
 {
+"id": "0fd87eaf33b4e085",
+"title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+"link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+"summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials.",
+"source": "BleepingComputer",
+"date": "2026-11-04T20:58:19+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-05T06:45:00+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "9c8bdd95a7d55ce7",
 "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
 "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
@@ -118,6 +133,21 @@
 "added": "2026-11-04T16:36:14+00:00",
 "official": true,
 "lang": "en"
+},
+{
+"id": "1a733d9748b7718a",
+"title": "IA en entreprise : l’industrialisation reste marginale (étude)",
+"link": "https://www.lemagit.fr/actualites/366653539/IA-en-entreprise-lindustrialisation-reste-marginale-etude",
+"summary": "D’après TCS, le pourcentage d’entreprise qui a fait passer l’IA et l’IA agentique à l’échelle est inférieur à 10 %.",
+"source": "LeMagIT",
+"date": "2026-11-04T13:01:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-05T06:45:00+00:00",
+"official": false,
+"lang": "fr"
 },
 {
 "id": "6224ddebaa462b35",
@@ -1267,36 +1297,6 @@
 "natures": [],
 "added": "2026-11-01T21:18:39+00:00",
 "official": true,
-"lang": "fr"
-},
-{
-"id": "5d218edd41ea7d24",
-"title": "Lunettes connectées : comment respecter la vie privée ?",
-"link": "https://www.zdnet.fr/actualites/lunettes-connectees-comment-respecter-la-vie-privee-506787.htm#xtor=RSS-1",
-"summary": "Les lunettes connectées menacent la vie privée en facilitant les enregistrements à l’insu des personnes. Les associations européennes de consommateurs réclament un encadrement renforcé, en conformité avec le RGPD.",
-"source": "ZDNet France",
-"date": "2026-10-29T01:10:05+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "0f6e932c4bf3f13a",
-"title": "IoT : les vulnérabilités persistent sur les équipements connectés",
-"link": "https://www.lemondeinformatique.fr/actualites/lire-iot-les-vulnerabilites-persistent-sur-les-equipements-connectes-100884.html",
-"summary": "Les objets connectés ne sont plus seulement des cibles potentielles pour les cybercriminels. Ils peuvent aussi servir de relais à des trafics tiers, collecter des informations sur leur environnement ou fournir un point d’entrée vers d’autres équipements du réseau.",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-10-28T22:37:24+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
 "lang": "fr"
 }
 ]

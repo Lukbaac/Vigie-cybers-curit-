@@ -31,7 +31,7 @@
 {
 "name": "Sénat – Textes",
 "ok": true,
-"items": 66,
+"items": 68,
 "new": 0
 },
 {
@@ -128,7 +128,7 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Silicon.fr",
@@ -140,7 +140,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -163,19 +163,19 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 12,
+"items": 13,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 22,
+"items": 19,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 44,
+"items": 40,
 "new": 0
 },
 {
@@ -187,13 +187,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 7,
+"items": 31,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 34,
+"items": 35,
 "new": 0
 },
 {
@@ -205,7 +205,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 9,
+"items": 10,
 "new": 0
 },
 {
