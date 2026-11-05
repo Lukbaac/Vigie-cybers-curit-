@@ -1,5 +1,20 @@
 [
 {
+"id": "9488524d9690d589",
+"title": "Soutenir les médecins plutôt que les mettre sous pression avec la MSO",
+"link": "https://www.conseil-national.medecin.fr/publications/communiques-presse/soutenir-medecins-mettre-pression-mso",
+"summary": "Alors que l’arrivée des premiers docteurs juniors en médecine générale dans les territoires constitue une réalité palpable pour l’accès aux soins, la nouvelle campagne de mise sous objectifs menée par la CNAM à l’encontre de 650 médecins généralistes apparaît particulièrement décalée.",
+"source": "Conseil national de l'Ordre des médecins",
+"date": "2026-11-05T09:39:10+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-05T11:43:19+00:00",
+"official": true,
+"lang": "fr"
+},
+{
 "id": "bb08a49d7fcf1753",
 "title": "ZD Tech : Piratage Auto Planning, 18 millions de dossiers clients vendus sur le dark web",
 "link": "https://www.zdnet.fr/actualites/zd-tech-piratage-auto-planning-18-millions-de-dossiers-clients-vendus-sur-le-dark-web-507299.htm#xtor=RSS-1",
@@ -11,6 +26,22 @@
 ],
 "natures": [],
 "added": "2026-11-05T07:59:11+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "4e9930632b3b4bbe",
+"title": "STMicroelectronics face aux défis de la conformité CRA",
+"link": "https://www.lemagit.fr/etude/STMicroelectronics-face-aux-defis-de-la-conformite-CRA",
+"summary": "L’industriel franco-italien a créé une Task force afin d’assurer sa mise en conformité avec le Cyber Resilience Act (CRA) européen.",
+"source": "LeMagIT",
+"date": "2026-11-05T03:08:00+00:00",
+"topics": [
+"numerique",
+"cyber"
+],
+"natures": [],
+"added": "2026-11-05T11:43:19+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1266,37 +1297,5 @@
 "added": "2026-11-01T21:18:39+00:00",
 "official": true,
 "lang": "fr"
-},
-{
-"id": "c699e2cecab92b1b",
-"title": "noyb win: French electronics retailer Fnac Darty fined €7 million",
-"link": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
-"summary": "Online & Mobile tracking Today, the French data protection authority has fined Fnac Darty (one of the largest electronics retailers in France) €7 million for illegally using third-party trackers on its mobile app without consent.",
-"source": "noyb",
-"date": "2026-10-29T10:47:23+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [
-"Sanction"
-],
-"added": "2026-11-01T21:18:39+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "550ba14f570b4778",
-"title": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026",
-"link": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026",
-"summary": "Explore human-centric AI solutions for smart cities with the LDT CiTiVERSE EDIC at Smart City Expo World Congress 2026.",
-"source": "Commission européenne – Numérique",
-"date": "2026-10-29T08:12:20+00:00",
-"topics": [
-"numerique"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": true,
-"lang": "en"
 }
 ]

@@ -56,7 +56,7 @@
 "name": "Conseil national de l'Ordre des médecins",
 "ok": true,
 "items": 10,
-"new": 0
+"new": 1
 },
 {
 "name": "noyb",
@@ -128,7 +128,7 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Silicon.fr",
@@ -140,7 +140,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -169,13 +169,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 18,
+"items": 21,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 40,
+"items": 41,
 "new": 0
 },
 {
@@ -187,13 +187,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 23,
+"items": 14,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 35,
+"items": 30,
 "new": 0
 },
 {
@@ -211,7 +211,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 11,
 "new": 0
 }
 ]
