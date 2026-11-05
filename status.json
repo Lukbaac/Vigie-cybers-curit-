@@ -128,7 +128,7 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Silicon.fr",
@@ -140,7 +140,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -158,7 +158,7 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -169,7 +169,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 19,
+"items": 18,
 "new": 0
 },
 {
@@ -187,7 +187,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 31,
+"items": 23,
 "new": 0
 },
 {

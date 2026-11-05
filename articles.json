@@ -1,5 +1,20 @@
 [
 {
+"id": "bb08a49d7fcf1753",
+"title": "ZD Tech : Piratage Auto Planning, 18 millions de dossiers clients vendus sur le dark web",
+"link": "https://www.zdnet.fr/actualites/zd-tech-piratage-auto-planning-18-millions-de-dossiers-clients-vendus-sur-le-dark-web-507299.htm#xtor=RSS-1",
+"summary": "Les plateformes Auto Planning et Auto Contrôle Paris ont subi une cyberattaque. Près de 18 millions de dossiers, incluant des plaques d'immatriculation et des RIB, sont en vente, exposant les automobilistes au risque de phishing.",
+"source": "ZDNet France",
+"date": "2026-11-05T07:59:11+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-05T07:59:11+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "0fd87eaf33b4e085",
 "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
 "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
@@ -1283,20 +1298,5 @@
 "added": "2026-11-01T21:18:39+00:00",
 "official": true,
 "lang": "en"
-},
-{
-"id": "aa4527d4aca051a4",
-"title": "Newsletter d'octobre 2026",
-"link": "https://www.conseil-national.medecin.fr/publications/newsletter/newsletter-doctobre-2026",
-"summary": "L’Association médicale mondiale (AMM), qui rassemble 118 associations médicales et au sein de laquelle siège le Cnom, a adopté la première résolution mondiale visant à lutter contre les fausses informations en matière de santé, le 10 octobre.",
-"source": "Conseil national de l'Ordre des médecins",
-"date": "2026-10-29T07:23:19+00:00",
-"topics": [
-"sante"
-],
-"natures": [],
-"added": "2026-11-01T21:18:39+00:00",
-"official": true,
-"lang": "fr"
 }
 ]
