@@ -14,7 +14,7 @@
 "name": "LINC (CNIL)",
 "ok": true,
 "items": 10,
-"new": 5
+"new": 0
 },
 {
 "name": "Commission européenne – Numérique",
@@ -68,7 +68,7 @@
 "name": "Lexing Alain Bensoussan",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "DSIH",
@@ -116,7 +116,7 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Next",
@@ -134,7 +134,7 @@
 "name": "Silicon.fr",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "ZDNet France",
@@ -158,12 +158,12 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 3
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 13,
+"items": 12,
 "new": 0
 },
 {
