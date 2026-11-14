@@ -1,5 +1,37 @@
 [
 {
+"id": "925a1aa3da215b57",
+"title": "Lunettes connectées : « Où est donc l’Europe, qui aime tant se présenter comme la championne mondiale de la protection de la vie privée ? »",
+"link": "https://www.lemonde.fr/idees/article/2026/11/14/lunettes-connectees-ou-est-donc-l-europe-qui-aime-tant-se-presenter-comme-la-championne-mondiale-de-la-protection-de-la-vie-privee_6810448_3232.html",
+"summary": "Les usages prétendument récréatifs des lunettes munies de caméras et de microphones ne justifient pas de faire peser sur l’ensemble de la population le risque d’une surveillance diffuse, dénonce un collectif de chercheurs dans une tribune au « Monde ».",
+"source": "Le Monde – Pixels",
+"date": "2026-11-14T16:00:18+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-14T16:19:56+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "7b4dfceac511fd08",
+"title": "La maison mère de Facebook, Meta, écope d’une lourde amende en Italie pour avoir accédé à des photos sans consentement « spécifique »",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/14/la-maison-mere-de-facebook-meta-ecope-d-une-lourde-amende-en-italie-pour-avoir-accede-a-des-photos-sans-consentement-specifique_6810412_4408996.html",
+"summary": "L’amende de 805 millions d’euros annoncée samedi figure parmi les plus importantes jamais prononcées par l’Autorité italienne de protection des données personnelles contre un géant technologique.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-14T15:22:27+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [
+"Sanction"
+],
+"added": "2026-11-14T16:19:56+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "5426ef989597f3ab",
 "title": "Convaincre ou manipuler ? L'éthique du numérique à l'épreuve des urnes, le 16 novembre à la CNIL",
 "link": "https://linc.cnil.fr/convaincre-ou-manipuler-lethique-du-numerique-lepreuve-des-urnes-le-16-novembre-la-cnil",
