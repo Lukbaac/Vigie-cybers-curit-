@@ -24,13 +24,10 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: veille
-  cancel-in-progress: false
-
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 30  # une exécution bloquée est arrêtée au lieu de durer des heures
     environment:
       name: github-pages
     steps:
@@ -57,7 +54,8 @@ jobs:
           git rm -r -q --cached --ignore-unmatch _site
           git add -A -- . ':(exclude)_site'
           git diff --cached --quiet || git commit -m "Mise à jour de la veille"
-          git push
+          git pull --rebase -X theirs -q || true
+          git push || echo "Archive non enregistrée cette fois, la prochaine exécution la rattrapera"
       - name: Préparer le site
         run: |
           rm -rf _site && mkdir _site
@@ -79,4 +77,5 @@ jobs:
           python send_push.py
           git add -A -- . ':(exclude)_site'
           git diff --cached --quiet || git commit -m "Notification envoyée"
-          git push
+          git pull --rebase -X theirs -q || true
+          git push || echo "Repère de notification non enregistré"
