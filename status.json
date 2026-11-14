@@ -3,7 +3,7 @@
 "name": "CNIL",
 "ok": true,
 "items": 10,
-"new": 3
+"new": 0
 },
 {
 "name": "CEPD (EDPB)",
@@ -14,7 +14,7 @@
 "name": "LINC (CNIL)",
 "ok": true,
 "items": 10,
-"new": 0
+"new": 5
 },
 {
 "name": "Commission européenne – Numérique",
@@ -44,19 +44,19 @@
 "name": "CERT-FR – Actualités",
 "ok": true,
 "items": 40,
-"new": 1
+"new": 0
 },
 {
 "name": "Cybermalveillance.gouv.fr",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Conseil national de l'Ordre des médecins",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "noyb",
@@ -68,13 +68,13 @@
 "name": "Lexing Alain Bensoussan",
 "ok": true,
 "items": 20,
-"new": 3
+"new": 1
 },
 {
 "name": "DSIH",
 "ok": true,
 "items": 30,
-"new": 3
+"new": 0
 },
 {
 "name": "Legalis",
@@ -98,7 +98,7 @@
 "name": "Le Quotidien du médecin",
 "ok": true,
 "items": 50,
-"new": 2
+"new": 0
 },
 {
 "name": "What's up Doc",
@@ -122,43 +122,43 @@
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 8
+"new": 0
 },
 {
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 3
+"new": 0
 },
 {
 "name": "Silicon.fr",
 "ok": true,
 "items": 50,
-"new": 4
+"new": 1
 },
 {
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 10
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
 "ok": true,
 "items": 8,
-"new": 8
+"new": 0
 },
 {
 "name": "ZATAZ",
 "ok": true,
 "items": 10,
-"new": 5
+"new": 0
 },
 {
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 4
+"new": 3
 },
 {
 "name": "Google Actualités",
