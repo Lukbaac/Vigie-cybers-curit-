@@ -116,7 +116,7 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 2
+"new": 0
 },
 {
 "name": "Next",
@@ -158,7 +158,7 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -169,7 +169,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 16,
+"items": 15,
 "new": 0
 },
 {
@@ -187,13 +187,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 28,
+"items": 23,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 15,
+"items": 14,
 "new": 0
 },
 {
