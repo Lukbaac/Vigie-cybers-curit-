@@ -1,5 +1,52 @@
 [
 {
+"id": "42232d511050c243",
+"title": "Sur les traces de « ChatNoir » et « Casquette », le duo d’adolescents soupçonnés d’avoir piraté le site des impôts",
+"link": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
+"summary": "Ces deux jeunes Français de 18 et 16 ans sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-15T05:15:09+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-15T06:37:54+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "25eb228499e2ee44",
+"title": "Cyberattaque : Maileva, filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/14/cyberattaque-maileva-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_6810545_4408996.html",
+"summary": "Le groupe a annoncé avoir déposé plainte après cette cyberattaque qui s’est produite mi-septembre. Une enquête judiciaire est en cours.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-14T20:05:18+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-15T06:37:54+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "403e4bdfaeb6831b",
+"title": "Cursor confirms security breach led to malicious Claude Code extension",
+"link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+"summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.",
+"source": "BleepingComputer",
+"date": "2026-11-14T17:27:25+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-15T06:37:54+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "925a1aa3da215b57",
 "title": "Lunettes connectées : « Où est donc l’Europe, qui aime tant se présenter comme la championne mondiale de la protection de la vie privée ? »",
 "link": "https://www.lemonde.fr/idees/article/2026/11/14/lunettes-connectees-ou-est-donc-l-europe-qui-aime-tant-se-presenter-comme-la-championne-mondiale-de-la-protection-de-la-vie-privee_6810448_3232.html",
