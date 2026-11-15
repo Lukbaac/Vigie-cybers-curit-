@@ -56,7 +56,7 @@
 "name": "Conseil national de l'Ordre des médecins",
 "ok": true,
 "items": 10,
-"new": 0
+"new": 1
 },
 {
 "name": "noyb",
@@ -152,13 +152,13 @@
 "name": "ZATAZ",
 "ok": true,
 "items": 10,
-"new": 4
+"new": 0
 },
 {
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -187,13 +187,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 27,
+"items": 14,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 15,
+"items": 14,
 "new": 0
 },
 {
