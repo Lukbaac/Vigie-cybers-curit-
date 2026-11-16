@@ -44,7 +44,7 @@
 "name": "CERT-FR – Actualités",
 "ok": true,
 "items": 40,
-"new": 1
+"new": 0
 },
 {
 "name": "Cybermalveillance.gouv.fr",
@@ -122,13 +122,13 @@
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Silicon.fr",
@@ -158,7 +158,7 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 3
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -169,7 +169,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 14,
+"items": 13,
 "new": 0
 },
 {
@@ -187,7 +187,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 19,
+"items": 11,
 "new": 0
 },
 {
@@ -205,13 +205,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 15,
+"items": 16,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 9,
+"items": 10,
 "new": 0
 }
 ]

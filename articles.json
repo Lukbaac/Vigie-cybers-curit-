@@ -1,5 +1,20 @@
 [
 {
+"id": "bbd8832f61387cff",
+"title": "Expedia : un pirate revendique un vol massif de données",
+"link": "https://www.zataz.com/expedia-un-pirate-revendique-un-vol-massif-de-donnees/",
+"summary": "Expedia confirme une intrusion via un prestataire. Un pirate revendique un vol massif de données de voyageurs.",
+"source": "ZATAZ",
+"date": "2026-11-16T16:57:49+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T17:45:35+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "818c060af42855ab",
 "title": "☕️ Reconnaissance faciale : des millions de photos de Palestiniens stockées par Israël chez AWS",
 "link": "https://next.ink/brief-article/reconnaissance-faciale-des-millions-de-photos-de-palestiniens-stockees-par-israel-chez-aws/",
@@ -905,6 +920,22 @@
 "Texte"
 ],
 "added": "2026-11-14T10:44:37+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "242e506ccfccf877",
+"title": "Cyber : les collectivités territoriales ont un long chemin à parcourir",
+"link": "https://www.zdnet.fr/actualites/cyber-les-collectivites-territoriales-ont-un-long-chemin-a-parcourir-507767.htm#xtor=RSS-1",
+"summary": "Priorité de la Cnil sur les contrôles, la cybersécurité des collectivités territoriales leur vaut 10 sanctions financières en raison de leurs manquements.",
+"source": "ZDNet France",
+"date": "2026-11-12T02:11:29+00:00",
+"topics": [
+"rgpd",
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T17:45:35+00:00",
 "official": false,
 "lang": "fr"
 },
