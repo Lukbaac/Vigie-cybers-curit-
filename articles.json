@@ -1,5 +1,23 @@
 [
 {
+"id": "bc64708b2da27508",
+"title": "22 millions de personnes concernées, une nouvelle fuite de données XXL en France",
+"link": "https://www.zdnet.fr/actualites/22-millions-de-personnes-concernees-une-nouvelle-fuite-de-donnees-xxl-en-france-507901.htm#xtor=RSS-1",
+"summary": "Le groupe « La Poste » vient de confirmer le piratage d’une de ses filiales à mi-septembre, un incident qui se solde par une fuite de données relative à 22 millions de personnes.",
+"source": "ZDNet France",
+"date": "2026-11-16T11:54:33+00:00",
+"topics": [
+"rgpd",
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-16T11:54:33+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "5c89d43def699b6f",
 "title": "Les bons réflexes à avoir en cas de fuite de données",
 "link": "https://www.lemonde.fr/pixels/article/2026/11/16/les-bons-reflexes-a-avoir-en-cas-de-fuite-de-donnees_6691437_4408997.html",
@@ -1149,23 +1167,6 @@
 "natures": [],
 "added": "2026-11-14T10:44:37+00:00",
 "official": true,
-"lang": "fr"
-},
-{
-"id": "dcb69572966db56e",
-"title": "IA et droit d’auteur : Mistral et les industriels du numérique accentuent le lobbying",
-"link": "https://next.ink/266327/ia-et-droit-dauteur-mistral-et-les-industriels-du-numerique-accentuent-le-lobbying/",
-"summary": "La proposition de loi instaurant une présomption d’utilisation des contenus par les fournisseurs d’intelligence artificielle de Laure Darcos arrive bientôt devant l’Assemblée nationale.",
-"source": "Next",
-"date": "2026-11-09T11:13:23+00:00",
-"topics": [
-"numerique"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
 "lang": "fr"
 }
 ]
