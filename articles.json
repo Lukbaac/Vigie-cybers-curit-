@@ -1,5 +1,82 @@
 [
 {
+"id": "818c060af42855ab",
+"title": "☕️ Reconnaissance faciale : des millions de photos de Palestiniens stockées par Israël chez AWS",
+"link": "https://next.ink/brief-article/reconnaissance-faciale-des-millions-de-photos-de-palestiniens-stockees-par-israel-chez-aws/",
+"summary": "Dès mai 2023, Amnesty International dénonçait la mise en place par Israël d’un énorme système de reconnaissance faciale pour surveiller la population palestinienne.",
+"source": "Next",
+"date": "2026-11-16T16:50:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-16T16:57:40+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "c55d641da89b7429",
+"title": "Quantum Systems : une cyberattaque inquiète l’armée allemande",
+"link": "https://www.zataz.com/quantum-systems-une-cyberattaque-inquiete-larmee-allemande/",
+"summary": "Quantum Systems confirme une cyberattaque. Une possible compromission des mises à jour de drones inquiète l'Allemagne.",
+"source": "ZATAZ",
+"date": "2026-11-16T16:48:18+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T16:57:40+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "d29e040f404457ab",
+"title": "Fandango says hackers stole payment card details from checkout pages",
+"link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+"summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages.",
+"source": "BleepingComputer",
+"date": "2026-11-16T15:44:21+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-16T16:57:40+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "2e40619c86da1dec",
+"title": "Google warns that fully-automated AI attacks are coming soon",
+"link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+"summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed.",
+"source": "BleepingComputer",
+"date": "2026-11-16T14:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T16:57:40+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "a1dd8f56b81d84a7",
+"title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+"link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+"summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months.",
+"source": "BleepingComputer",
+"date": "2026-11-16T12:53:18+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T16:57:40+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "bc64708b2da27508",
 "title": "22 millions de personnes concernées, une nouvelle fuite de données XXL en France",
 "link": "https://www.zdnet.fr/actualites/22-millions-de-personnes-concernees-une-nouvelle-fuite-de-donnees-xxl-en-france-507901.htm#xtor=RSS-1",
@@ -36,6 +113,21 @@
 "lang": "fr"
 },
 {
+"id": "36cf08428f5e5c67",
+"title": "Test d’intrusion : ces frameworks agentiques détournés à des fins malveillantes",
+"link": "https://www.lemagit.fr/actualites/366654832/Test-dintrusion-ces-framework-agentiques-detournes-a-des-fins-malveillantes",
+"summary": "Rendu public en juillet, Artex, un framework de test d’intrusion ouvert, agentique et multi-agents, ne cesse de faire de parler de lui, ayant même fait réagir le RSSI monde de Microsoft.",
+"source": "LeMagIT",
+"date": "2026-11-16T08:37:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T16:57:40+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "ce0564a7af282b06",
 "title": "Cursor : une clé volée chez Fireworks AI à l’origine d’une cyberattaque",
 "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cursor-une-cle-volee-chez-fireworks-ai-a-l-origine",
@@ -63,6 +155,36 @@
 "natures": [],
 "added": "2026-11-16T09:15:58+00:00",
 "official": false,
+"lang": "fr"
+},
+{
+"id": "6e75cbfe4f620a2c",
+"title": "Tous vos appareils Apple doivent être mis à jour dès que possible, voici pourquoi",
+"link": "https://www.zdnet.fr/actualites/tous-vos-appareils-apple-doivent-etre-mis-a-jour-des-que-possible-voici-pourquoi-507927.htm#xtor=RSS-1",
+"summary": "Des mises à jour de sécurité pour les iPhone, iPad, Mac, Apple Watch et Vision Pro viennent d'être déployées.",
+"source": "ZDNet France",
+"date": "2026-11-16T01:11:57+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T16:57:40+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "7d8681a3bdbf7fde",
+"title": "Bulletin d'actualité CERTFR-2026-ACT-048 (16 novembre 2026)",
+"link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-048/",
+"summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités.",
+"source": "CERT-FR – Actualités",
+"date": "2026-11-16T00:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T16:57:40+00:00",
+"official": true,
 "lang": "fr"
 },
 {
@@ -1075,98 +1197,6 @@
 "natures": [],
 "added": "2026-11-14T10:44:37+00:00",
 "official": false,
-"lang": "fr"
-},
-{
-"id": "83c125a28e2a5aeb",
-"title": "Cyberattaque des frigos : la piste iranienne se précise",
-"link": "https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/",
-"summary": "Le 9 novembre 2026, le parquet de Paris annonce l’ouverture d’une information judiciaire concernant les cyberattaques ayant touché environ 700 sites de la grande distribution française en octobre.",
-"source": "ZATAZ",
-"date": "2026-11-09T16:28:21+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "bdd1f9dadff426b9",
-"title": "☕️ Manquements relatifs à la cybersécurité : des services publics sanctionnés par la CNIL",
-"link": "https://next.ink/brief-article/manquements-relatifs-a-la-cybersecurite-des-services-publics-sanctionnes-par-la-cnil/",
-"summary": "La CNIL a annoncé avoir prononcé dix sanctions simplifiées contre des collectivités territoriales et un établissement public, pour des manquements relatifs à la cybersécurité en ce mois de novembre.",
-"source": "Next",
-"date": "2026-11-09T15:46:07+00:00",
-"topics": [
-"rgpd",
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "efdacab6f46ef599",
-"title": "L’UE met (doucement) en action sa réserve de cybersécurité",
-"link": "https://www.silicon.fr/cybersecurite-1371/reserve-cybersecurite-ue-mise-action-230175",
-"summary": "Malgré les obstacles à sa bonne mise en œuvre, la réserve cyber de l’UE monte en capacité et connaît ses premiers déploiements.",
-"source": "Silicon.fr",
-"date": "2026-11-09T15:41:45+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "f1a1f095e66ba160",
-"title": "☕️ Anthropic récupère des générateurs d’électricité au gaz pour 3,4 milliards de dollars",
-"link": "https://next.ink/brief-article/datacenters-anthropic-recupere-des-generateurs-delectricite-au-gaz-pour-3-milliards-deuros/",
-"summary": "Au lieu d’acheter l’énergie chez un sous-traitant, pourquoi ne pas acheter directement les générateurs ? C’est ce que s’est dit Anthropic, qui vient de conclure un accord pour acquérir, selon le Financial Times, deux générateurs au gaz pour faire tourner ses datacenters.",
-"source": "Next",
-"date": "2026-11-09T14:39:22+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "2d4ce852097195d0",
-"title": "Cybermois 2026 : près d’un Français sur deux désormais notifié suite à une violation de ses données",
-"link": "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/cp-cybermois-2026",
-"summary": "À l’occasion du lancement de la 14ème édition du Cybermois, Cybermalveillance.gouv.fr, le dispositif national d’assistance et de prévention en cybersécurité, dévoile les résultats de son 3ème baromètre sur la perception cyber des Français, réalisé avec Ipsos Digital.",
-"source": "Cybermalveillance.gouv.fr",
-"date": "2026-11-09T13:44:20+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "fde66d4097759f41",
-"title": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
-"link": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
-"summary": "En novembre 2026, la CNIL a prononcé dix sanctions simplifiées à l’encontre de collectivités territoriales et d’un établissement public, pour des manquements relatifs à la cybersécurité.",
-"source": "CNIL",
-"date": "2026-11-09T12:00:00+00:00",
-"topics": [
-"rgpd",
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": true,
 "lang": "fr"
 }
 ]

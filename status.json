@@ -31,7 +31,7 @@
 {
 "name": "Sénat – Textes",
 "ok": true,
-"items": 54,
+"items": 56,
 "new": 0
 },
 {
@@ -44,7 +44,7 @@
 "name": "CERT-FR – Actualités",
 "ok": true,
 "items": 40,
-"new": 0
+"new": 1
 },
 {
 "name": "Cybermalveillance.gouv.fr",
@@ -122,13 +122,13 @@
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Silicon.fr",
@@ -152,24 +152,24 @@
 "name": "ZATAZ",
 "ok": true,
 "items": 10,
-"new": 0
+"new": 1
 },
 {
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
+"new": 3
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 12,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 11,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 13,
+"items": 14,
 "new": 0
 },
 {
@@ -187,19 +187,19 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 24,
+"items": 19,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 15,
+"items": 17,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 6,
+"items": 5,
 "new": 0
 },
 {
