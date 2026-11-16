@@ -1,5 +1,20 @@
 [
 {
+"id": "4201db3ac6828cb2",
+"title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+"link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+"summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.",
+"source": "BleepingComputer",
+"date": "2026-11-15T18:29:53+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T07:21:22+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "bbb8a67270856461",
 "title": "TSMC employee data breach linked to cloud provider",
 "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
@@ -1132,68 +1147,6 @@
 ],
 "natures": [],
 "added": "2026-11-14T10:47:11+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "7ad68b589b788d15",
-"title": "Un pirate revendique le vol de millions de données d’automobilistes français",
-"link": "https://www.zataz.com/sgs-un-pirate-revendique-259-millions-de-lignes-volees/",
-"summary": "Un pirate revendique une base SGS concernant 22 millions d'automobilistes : des données voitures et clients volées ?",
-"source": "ZATAZ",
-"date": "2026-11-09T00:30:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "7e90778697767cdf",
-"title": "Bulletin d'actualité CERTFR-2026-ACT-047 (09 novembre 2026)",
-"link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-047/",
-"summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités.",
-"source": "CERT-FR – Actualités",
-"date": "2026-11-09T00:00:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "0a175a74e4d7fb1c",
-"title": "Un géant de l’informatique visé par une revendication de vol de données",
-"link": "https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/",
-"summary": "Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.",
-"source": "ZATAZ",
-"date": "2026-11-08T23:36:38+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "b460fe1d81cc9bdc",
-"title": "Alain Afflelou : des données clients et bancaires exposées ?",
-"link": "https://www.zataz.com/alain-afflelou-des-donnees-clients-et-bancaires-exposees/",
-"summary": "Alain Afflelou visé par Emperador : les pirates mettent à execution leur menace aprés une demande de rançon qui a échouée.",
-"source": "ZATAZ",
-"date": "2026-11-08T23:03:54+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
 "official": false,
 "lang": "fr"
 }

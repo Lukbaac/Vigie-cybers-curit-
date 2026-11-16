@@ -31,7 +31,7 @@
 {
 "name": "Sénat – Textes",
 "ok": true,
-"items": 57,
+"items": 54,
 "new": 0
 },
 {
@@ -56,7 +56,7 @@
 "name": "Conseil national de l'Ordre des médecins",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "noyb",
@@ -158,6 +158,12 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 10,
 "new": 0
 },
 {
@@ -169,31 +175,25 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 14,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
 "items": 35,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 22,
+"items": 23,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 14,
+"items": 23,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 14,
+"items": 17,
 "new": 0
 },
 {
@@ -211,7 +211,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 9,
+"items": 10,
 "new": 0
 }
 ]
