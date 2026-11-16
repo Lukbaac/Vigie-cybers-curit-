@@ -1,5 +1,53 @@
 [
 {
+"id": "5c89d43def699b6f",
+"title": "Les bons réflexes à avoir en cas de fuite de données",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/16/les-bons-reflexes-a-avoir-en-cas-de-fuite-de-donnees_6691437_4408997.html",
+"summary": "« Données personnelles, la grande fuite » (4/9). Impossible d’empêcher les fuites lorsque l’on confie ses données à des administrations ou à des entreprises.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-16T09:00:50+00:00",
+"topics": [
+"rgpd",
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-16T09:15:58+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "ce0564a7af282b06",
+"title": "Cursor : une clé volée chez Fireworks AI à l’origine d’une cyberattaque",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cursor-une-cle-volee-chez-fireworks-ai-a-l-origine",
+"summary": "Cursor a détaillé les circonstances de la cyberattaque ayant permis la diffusion d’une version malveillante de l’extension Claude Code sur sa marketplace.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-16T07:39:57+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T09:15:58+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "07ffd638182c3f0e",
+"title": "PostgreSQL corrige 52 failles, dont une vieille de 22 ans",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/postgresql-corrige-52-failles-dont-une-vieille-de-",
+"summary": "Le PostgreSQL Global Development Group a publié, le 12 novembre 2026, des mises à jour corrigeant 52 vulnérabilités de sécurité, dont 32 affichent un score CVSS de 8,8.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-16T07:38:50+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-16T09:15:58+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "4201db3ac6828cb2",
 "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
 "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
@@ -584,6 +632,21 @@
 "lang": "fr"
 },
 {
+"id": "beede1688ca155a8",
+"title": "Ordre du jour de la séance plénière du 12 novembre 2026",
+"link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
+"summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 novembre 2026 à 9 h 30 avec l’ordre du jour suivant :",
+"source": "CNIL",
+"date": "2026-11-12T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-16T09:15:58+00:00",
+"official": true,
+"lang": "fr"
+},
+{
 "id": "046df091d715f71a",
 "title": "Nvidia : les trois failles qui fragilisent Jensen Huang",
 "link": "https://www.silicon.fr/business-1367/nvidia-les-trois-failles-qui-fragilisent-jensen-huang-230236",
@@ -1102,51 +1165,6 @@
 "Texte"
 ],
 "added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "fc5156da771e2621",
-"title": "Fusion Free et Free Mobile : transfert des données de 15,8 millions d'abonnés",
-"link": "https://www.zdnet.fr/actualites/fusion-free-et-free-mobile-transfert-des-donnees-de-158-millions-dabonnes-507614.htm#xtor=RSS-1",
-"summary": "La société Free Mobile sera juridiquement absorbée par Free le 1er décembre 2026. Cette réorganisation interne enclenche la migration automatique des données personnelles de près de 16 millions de clients, sans modifier les conditions contractuelles en cours.",
-"source": "ZDNet France",
-"date": "2026-11-09T08:11:13+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "57f190ee9e00eec6",
-"title": "Cyberattaques contre la DGFiP : les enseignements du rapport de l’ANSSI",
-"link": "https://www.lexing.law/avocats/cyberattaques-contre-la-dgfip-les-enseignements-du-rapport-de-lanssi/2026/11/09/?utm_source=rss&utm_medium=rss&utm_campaign=cyberattaques-contre-la-dgfip-les-enseignements-du-rapport-de-lanssi",
-"summary": "Le rapport d’incident publié par l’ANSSI sur les fuites de données de la DGFiP ne se limite pas à un constat technique.",
-"source": "Lexing Alain Bensoussan",
-"date": "2026-11-09T08:09:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "799d3441f1012f98",
-"title": "Le 13 janvier 2027 – IA et RGPD appliqués aux RH : sécuriser les usages et prévenir les risques",
-"link": "https://www.lexing.law/avocats/le-13-janvier-2027-ia-et-rgpd-appliques-aux-rh/2026/11/09/?utm_source=rss&utm_medium=rss&utm_campaign=le-13-janvier-2027-ia-et-rgpd-appliques-aux-rh",
-"summary": "La Conférence Lexing : « IA et RGPD appliqués aux RH », de Virginie Bensoussan-Brulé et Alexandra Guermonprez a lieu mercredi 13 janvier 2027 L’article Le 13 janvier 2027 – IA et RGPD appliqués aux RH : sécuriser les usages et prévenir les risques est apparu en premier sur Lexing Avocats .",
-"source": "Lexing Alain Bensoussan",
-"date": "2026-11-09T08:09:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:47:11+00:00",
 "official": false,
 "lang": "fr"
 }
