@@ -1,5 +1,67 @@
 [
 {
+"id": "976e83af613c79ba",
+"title": "La Californie attaque OpenAI après l’incident Hugging Face",
+"link": "https://www.silicon.fr/cybersecurite-1371/la-californie-attaque-openai-apres-lincident-hugging-face-230444",
+"summary": "La Californie a déposé une plainte contre OpenAI après une série d’incidents incluant une attaque de plusieurs centaines d’agents autonomes contre Hugging Face.",
+"source": "Silicon.fr",
+"date": "2026-11-17T10:57:48+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T11:37:42+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "89e6da2aeb9f74e4",
+"title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products",
+"link": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
+"summary": "The European Commission preliminarily found Temu in breach of the Digital Services Act (DSA) obligation to put in place reasonable, proportionate and effective measures to mitigate the risk of illegal products being offered on its platform.",
+"source": "Commission européenne – Numérique",
+"date": "2026-11-17T10:11:00+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-17T11:37:42+00:00",
+"official": true,
+"lang": "en"
+},
+{
+"id": "4db9d5e6619d3c49",
+"title": "Présidentielle 2027, désinformation profonde et réseaux sociaux : le trio de la peur",
+"link": "https://next.ink/267864/presidentielle-2027-desinformation-profonde-et-reseaux-sociaux-le-trio-de-la-peur/",
+"summary": "À cinq mois du premier tour de l’élection présidentielle, la CNIL organisait une nouvelle conférence Air, pour Avenirs, innovations et révolutions.",
+"source": "Next",
+"date": "2026-11-17T09:09:12+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-17T11:37:42+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "3ad387c63ed54320",
+"title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+"link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+"summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October.",
+"source": "BleepingComputer",
+"date": "2026-11-17T08:35:42+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-17T11:37:42+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "8093d6fa14bc1f20",
 "title": "Cyberattaque : 765 000 euros d’or dérobés à des clients",
 "link": "https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/",
@@ -1231,51 +1293,6 @@
 "natures": [],
 "added": "2026-11-14T10:44:37+00:00",
 "official": true,
-"lang": "fr"
-},
-{
-"id": "32ea60d58e8200ec",
-"title": "Cisco et IBM vont intégrer Mythos à leurs outils de cybersécurité",
-"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cisco-et-ibm-vont-integrer-mythos-a-leurs-outils-d",
-"summary": "Cisco et IBM préparent l’intégration de Claude Mythos dans leurs produits de sécurité. Le premier utilisera le modèle d’Anthropic pour renforcer les tests offensifs des systèmes d’IA.",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-11-10T10:58:58+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "029dd575b1e2830a",
-"title": "☕️ IA : submergées par les cyberattaques, les pontes de la cybersécurité refusent des clients",
-"link": "https://next.ink/brief-article/ia-submergees-par-les-cyberattaques-les-pontes-de-la-cybersecurite-refusent-des-clients/",
-"summary": "La vague récente de cyberattaques menées à l’aide de l’IA a pris une telle ampleur que certaines des plus grandes entreprises états-uniennes de cybersécurité refusent désormais de prendre en charge de nouveaux clients qui sollicitent une aide d’urgence, révèle NBC News.",
-"source": "Next",
-"date": "2026-11-10T10:02:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "dc736d470d9605d6",
-"title": "Agents IA : Google muscle sa huitième génération de TPU avec une puce à sécurité matérielle et une autre à mémoire élargie",
-"link": "https://www.zdnet.fr/actualites/agents-ia-google-muscle-sa-huitieme-generation-de-tpu-avec-une-puce-a-securite-materielle-et-une-autre-a-memoire-elargie-507641.htm#xtor=RSS-1",
-"summary": "Google ajoute deux systèmes à sa huitième génération de TPU : le TPU 8tx, qui protège données et poids des modèles pendant l’inférence grâce à une sécurité intégrée au matériel, et le TPU 8i Max, qui double sur un même boîtier la puissance du TPU 8i pour les agents IA.",
-"source": "ZDNet France",
-"date": "2026-11-10T08:11:54+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
 "lang": "fr"
 }
 ]

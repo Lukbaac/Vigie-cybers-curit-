@@ -30,9 +30,8 @@
 },
 {
 "name": "Sénat – Textes",
-"ok": true,
-"items": 56,
-"new": 0
+"ok": false,
+"error": "<urlopen error [Errno 101] Network is unreachable>"
 },
 {
 "name": "CERT-FR – Alertes",
@@ -122,7 +121,7 @@
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "LeMagIT",
@@ -134,7 +133,7 @@
 "name": "Silicon.fr",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "ZDNet France",
@@ -152,7 +151,7 @@
 "name": "ZATAZ",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "BleepingComputer",
@@ -168,8 +167,9 @@
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
+"ok": true,
+"items": 16,
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -185,19 +185,20 @@
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
-},
-{
-"name": "Google Actualités",
 "ok": true,
-"items": 16,
+"items": 18,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 4,
+"items": 15,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 5,
 "new": 0
 },
 {
@@ -208,7 +209,8 @@
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
+"ok": true,
+"items": 10,
+"new": 0
 }
 ]
