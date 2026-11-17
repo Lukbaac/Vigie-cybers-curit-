@@ -1,5 +1,80 @@
 [
 {
+"id": "beab35504d1db430",
+"title": "Journée de l'Ordre : le Cnom réaffirme son engagement total dans la lutte contre les VSS",
+"link": "http://www.lequotidiendumedecin.fr/sante-societe/journee-de-lordre-le-cnom-reaffirme-son-engagement-total-dans-la-lutte-contre-les-vss",
+"summary": "Le Conseil national de l'Ordre des médecins tenait ce mardi 17 novembre une de ses traditionnelles Journées de réflexion.",
+"source": "Le Quotidien du médecin",
+"date": "2026-11-17T16:31:15+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-17T16:43:33+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "86cd6a8c5d2a71f2",
+"title": "☕️ Vente de produits illégaux : Bruxelles menace Temu de nouvelles sanctions",
+"link": "https://next.ink/brief-article/vente-de-produits-illegaux-bruxelles-menace-temu-de-nouvelles-sanctions/",
+"summary": "La Commission européenne a averti mardi 17 novembre que le géant chinois du e-commerce Temu s’exposait à de nouvelles sanctions en vertu du règlement sur les services numériques (DSA).",
+"source": "Next",
+"date": "2026-11-17T15:07:00+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-17T16:43:33+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "148f7e8fc320b8f8",
+"title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+"link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+"summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.",
+"source": "BleepingComputer",
+"date": "2026-11-17T15:01:11+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T16:43:33+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "dd2e9811b89f9ce2",
+"title": "Orange Ventures lève 250 millions € pour l’IA et la cybersécurité",
+"link": "https://www.silicon.fr/business-1367/orange-ventures-leve-250-millions-e-pour-lia-et-la-cybersecurite-230452",
+"summary": "Orange Ventures reçoit 250 millions € supplémentaires pour accélérer ses investissements dans les startups de l’IA et de la cybersécurité d’ici 2032.",
+"source": "Silicon.fr",
+"date": "2026-11-17T12:46:23+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T16:43:33+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "1ad4a59c104b5291",
+"title": "La CNIL a prononcé 38 nouvelles sanctions en procédure simplifiée depuis juin 2026",
+"link": "https://www.cnil.fr/fr/38-sanctions-simplifiees",
+"summary": "Cookies, sécurité des données, prospection commerciale, non-coopération : entre juin et octobre 2026, la CNIL a prononcé 38 nouvelles sanctions dans le cadre de la procédure simplifiée, dont 23 ont pour origine des plaintes.",
+"source": "CNIL",
+"date": "2026-11-17T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-17T16:43:33+00:00",
+"official": true,
+"lang": "fr"
+},
+{
 "id": "976e83af613c79ba",
 "title": "La Californie attaque OpenAI après l’incident Hugging Face",
 "link": "https://www.silicon.fr/cybersecurite-1371/la-californie-attaque-openai-apres-lincident-hugging-face-230444",
@@ -125,6 +200,36 @@
 "added": "2026-11-17T06:47:09+00:00",
 "official": false,
 "lang": "en"
+},
+{
+"id": "221c463e3863738c",
+"title": "L'accès à l'IA de votre entreprise peut être vendu pour quelques centimes, méfiez-vous des « LLM Mixers »",
+"link": "https://www.zdnet.fr/actualites/lacces-a-lia-de-votre-entreprise-peut-etre-vendu-pour-quelques-centimes-mefiez-vous-des-llm-mixers-508025.htm#xtor=RSS-1",
+"summary": "Selon Google, des revendeurs clandestins vendent l'accès à des comptes d'IA d'entreprise piratés, dont les frais d'utilisation sont pris en charge par les victimes.",
+"source": "ZDNet France",
+"date": "2026-11-17T02:11:10+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T16:43:33+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "ce17885e33809cf0",
+"title": "Cyberattaque des frigos : « Quand on a des trous de ce niveau, c'est du pénal » tempête le Vice-amiral Arnaud Coustillière",
+"link": "https://www.zdnet.fr/actualites/cyberattaque-des-frigos-quand-on-a-des-trous-de-ce-niveau-cest-du-penal-tempete-le-vice-amiral-arnaud-coustilliere-508017.htm#xtor=RSS-1",
+"summary": "Le commandement de la cyberdéfense pointe l'irresponsabilité du secteur privé après le sabotage de centaines d'équipements frigorifiques.",
+"source": "ZDNet France",
+"date": "2026-11-17T01:11:32+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T16:43:33+00:00",
+"official": false,
+"lang": "fr"
 },
 {
 "id": "0651d3d1bc67342b",
@@ -1246,53 +1351,6 @@
 "natures": [],
 "added": "2026-11-14T10:44:37+00:00",
 "official": false,
-"lang": "fr"
-},
-{
-"id": "6b3d4e2c3f3ad735",
-"title": "[MàJ] NIS2 arrive à l’Assemblée, qui vote la suppression de l’article 16 bis",
-"link": "https://next.ink/266473/ouf-enfin-nis2-arrive-a-lassemblee-le-chiffrement-deja-au-coeur-des-debats/",
-"summary": "« Ouf ! Enfin ! C’est pas trop tôt ». Ce sont les mots de Philippe Latombe, président de la Commission spéciale sur la transposition de NIS2.",
-"source": "Next",
-"date": "2026-11-10T16:28:26+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "be3f2811b30a966b",
-"title": "Scality devient autorité de numérotation CVE sous l’égide de l’ENISA",
-"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/scality-devient-autorite-de-numerotation-cve-sous-",
-"summary": "Scality a annoncé le 10 novembre 2026 son entrée dans le programme CVE en tant qu’autorité de numérotation, ou CNA (CVE Numbering Authority).",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-11-10T14:56:07+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "177625716c87ab4e",
-"title": "La CNIL sera présente au Salon des maires et des collectivités locales 2026",
-"link": "https://www.cnil.fr/fr/salon-maires-collectivites-2026",
-"summary": "Du 24 au 26 novembre 2026, la CNIL sera présente au Salon des maires et des collectivités locales pour échanger avec les élus et agents territoriaux et répondre à leurs questions.",
-"source": "CNIL",
-"date": "2026-11-10T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": true,
 "lang": "fr"
 }
 ]

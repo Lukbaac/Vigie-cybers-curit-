@@ -3,7 +3,7 @@
 "name": "CNIL",
 "ok": true,
 "items": 10,
-"new": 0
+"new": 1
 },
 {
 "name": "CEPD (EDPB)",
@@ -20,7 +20,7 @@
 "name": "Commission européenne – Numérique",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "Arcom",
@@ -30,8 +30,9 @@
 },
 {
 "name": "Sénat – Textes",
-"ok": false,
-"error": "<urlopen error [Errno 101] Network is unreachable>"
+"ok": true,
+"items": 56,
+"new": 0
 },
 {
 "name": "CERT-FR – Alertes",
@@ -97,7 +98,7 @@
 "name": "Le Quotidien du médecin",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "What's up Doc",
@@ -139,7 +140,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 2
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -162,25 +163,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 12,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 16,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 35,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 23,
+"items": 13,
 "new": 0
 },
 {
@@ -192,25 +175,43 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 15,
+"items": 36,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 5,
+"items": 22,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 17,
+"items": 22,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 18,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 4,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 20,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 9,
 "new": 0
 }
 ]
