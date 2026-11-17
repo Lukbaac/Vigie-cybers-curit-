@@ -1,5 +1,130 @@
 [
 {
+"id": "53f800bdf7a6bcfa",
+"title": "Rassemblement National : une seconde fuite de données ?",
+"link": "https://www.zataz.com/rassemblement-national-une-seconde-fuite-de-donnees/",
+"summary": "Un pirate revendique 500 782 nouvelles données du RN à vendre. Il affiche aussi un accés informatique interne.",
+"source": "ZATAZ",
+"date": "2026-11-17T06:29:20+00:00",
+"topics": [
+"rgpd",
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-17T06:47:09+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "50204565d4ff3ec5",
+"title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+"link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+"summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices.",
+"source": "BleepingComputer",
+"date": "2026-11-17T02:12:17+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T06:47:09+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "0651d3d1bc67342b",
+"title": "Transparence de l’IA : les obligations précisées",
+"link": "https://dsih.fr/articles/6467/transparence-de-lia-les-obligations-precisees",
+"summary": "Applicables depuis le 2 août 2026, les obligations de transparence de l’article 50 du règlement (UE) 2024/1689 (« règlement sur l’IA » ou « RIA ») visent les systèmes d’IA interactive, les systèmes générant des contenus de synthèse, les systèmes de reconnaissance des émotions et de catégorisation biométrique, ainsi…",
+"source": "DSIH",
+"date": "2026-11-17T00:00:00+00:00",
+"topics": [
+"numerique"
+],
+"natures": [
+"Texte"
+],
+"added": "2026-11-17T06:47:09+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "60f99194645fc286",
+"title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+"link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+"summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems.",
+"source": "BleepingComputer",
+"date": "2026-11-16T22:54:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T06:47:09+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "6cd4bc50c4facab1",
+"title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+"link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+"summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation.",
+"source": "BleepingComputer",
+"date": "2026-11-16T21:31:44+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T06:47:09+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "f7229d91014fb235",
+"title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+"link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+"summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations.",
+"source": "BleepingComputer",
+"date": "2026-11-16T20:59:44+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T06:47:09+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "7c8cad55f9e0356f",
+"title": "Quelle riposte pour la France après la cyberattaque contre les réfrigérateurs de supermarché attribuée à l’Iran ?",
+"link": "https://www.lemonde.fr/international/article/2026/11/16/quelle-riposte-pour-la-france-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-attribuee-a-l-iran_6812232_3210.html",
+"summary": "La décision d’imputer à l’Iran la cyberattaque de près de 700 grandes surfaces dans la nuit du 11 au 12 octobre s’inscrit dans une stratégie précise de Paris.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-16T17:52:41+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T06:47:09+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "526d02bb6dcc0a44",
+"title": "Maersk : un pirate réclame 5 millions de dollars",
+"link": "https://www.zataz.com/maersk-un-pirate-reclame-5-millions-de-dollars/",
+"summary": "WhiteArmor exige 5 millions de dollars après une intrusion chez Maersk. Le groupe confirme un incident... limité.",
+"source": "ZATAZ",
+"date": "2026-11-16T17:50:58+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T06:47:09+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "bbd8832f61387cff",
 "title": "Expedia : un pirate revendique un vol massif de données",
 "link": "https://www.zataz.com/expedia-un-pirate-revendique-un-vol-massif-de-donnees/",
@@ -169,6 +294,21 @@
 ],
 "natures": [],
 "added": "2026-11-16T09:15:58+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "924abb973d908a2a",
+"title": "Android pratique : utilisez le mode réparation ou maintenance… mais avec certains smartphones",
+"link": "https://www.zdnet.fr/pratique/android-pratique-utilisez-le-mode-reparation-ou-maintenance-mais-avec-certains-smartphones-507846.htm#xtor=RSS-1",
+"summary": "Cette fonctionnalité protège vos données personnelles et applications lorsque votre mobile, Pixel ou Samsung, doit passer par le service après-vente.",
+"source": "ZDNet France",
+"date": "2026-11-16T07:11:54+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-17T06:47:09+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1121,113 +1261,6 @@
 "natures": [],
 "added": "2026-11-14T10:44:37+00:00",
 "official": true,
-"lang": "fr"
-},
-{
-"id": "92d127bdae1e18f3",
-"title": "NIS 2 : la loi Résilience arrive enfin à l’Assemblée",
-"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/nis-2-la-loi-resilience-arrive-enfin-a-l-assemblee",
-"summary": "Le projet de loi Résilience est examiné en séance publique après plusieurs reports. Son adoption doit permettre de préciser le cadre réglementaire applicable aux milliers d’organisations concernées.",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-11-10T06:30:04+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "26c9a3a940a76852",
-"title": "Cybersécurité : faut-il vraiment combattre l'IA par l'IA ?",
-"link": "https://www.zdnet.fr/publicite/cybersecurite-faut-il-vraiment-combattre-lia-par-lia-507479.htm#xtor=RSS-1",
-"summary": "L'intelligence artificielle renforce les capacités des cybercriminels, mais ne révolutionne pas nécessairement leurs méthodes.",
-"source": "ZDNet France",
-"date": "2026-11-10T04:11:32+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "2650dd3eaf069760",
-"title": "Peut-on encore faire confiance à Proton ?",
-"link": "https://www.zdnet.fr/actualites/peut-on-encore-faire-confiance-a-proton-507684.htm#xtor=RSS-1",
-"summary": "Cette entreprise suisse de logiciels a bâti sa réputation sur son engagement en faveur de la protection de la vie privée.",
-"source": "ZDNet France",
-"date": "2026-11-10T03:11:40+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "1198d2feeeb038bf",
-"title": "Implants cérébraux : comment respecter le droit à la vie privée ?",
-"link": "https://www.zdnet.fr/actualites/implants-cerebraux-comment-respecter-le-droit-a-la-vie-privee-507659.htm#xtor=RSS-1",
-"summary": "En analysant voire en modifiant l’activité cérébrale, les interfaces homme-cerveau soulèvent des questions éthiques sur la confidentialité et l’intégrité des données neuronales.",
-"source": "ZDNet France",
-"date": "2026-11-10T02:11:15+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "19fd1d7242216baf",
-"title": "DPI et logiciels métiers : où réside l’information de référence ?",
-"link": "https://dsih.fr/articles/6461/dpi-et-logiciels-metiers-ou-reside-linformation-de-reference",
-"summary": "Un même parcours mobilise aujourd’hui le DPI, les logiciels métiers, les plateformes territoriales, Mon espace santé, des applications spécialisées et parfois des entrepôts de données ou des outils d’IA.",
-"source": "DSIH",
-"date": "2026-11-10T00:00:00+00:00",
-"topics": [
-"sante"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "a687938b0758a7e7",
-"title": "IA médicale : des modèles performants, mais pour quelle prédiction ?",
-"link": "https://dsih.fr/articles/6459/ia-medicale-des-modeles-performants-mais-pour-quelle-prediction",
-"summary": "Dossiers patients informatisés, entrepôts de données de santé hospitaliers et Système national des données de santé fournissent des données permettant de repérer des patients à risque ou d’anticiper une complication.",
-"source": "DSIH",
-"date": "2026-11-10T00:00:00+00:00",
-"topics": [
-"sante"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "dd37d7d6ad0ceb2d",
-"title": "Nouvelle-Aquitaine : Égide Santé Réseau, un réseau régional pour sécuriser les échanges de données de santé",
-"link": "https://dsih.fr/articles/6458/nouvelle-aquitaine-egide-sante-reseau-un-reseau-regional-pour-securiser-les-echanges-de-donnees-de-sante",
-"summary": "Actuellement en expérimentation auprès de sept centres hospitaliers, Égide Santé Réseau a vocation à être étendu jusqu’à cinquante établissements sanitaires et médico-sociaux d’ici 2028.",
-"source": "DSIH",
-"date": "2026-11-10T00:00:00+00:00",
-"topics": [
-"sante"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
 "lang": "fr"
 }
 ]

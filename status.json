@@ -24,15 +24,13 @@
 },
 {
 "name": "Arcom",
-"ok": true,
-"items": 10,
-"new": 0
+"ok": false,
+"error": "<urlopen error timed out>"
 },
 {
 "name": "Sénat – Textes",
-"ok": true,
-"items": 56,
-"new": 0
+"ok": false,
+"error": "<urlopen error [Errno 101] Network is unreachable>"
 },
 {
 "name": "CERT-FR – Alertes",
@@ -74,7 +72,7 @@
 "name": "DSIH",
 "ok": true,
 "items": 30,
-"new": 0
+"new": 1
 },
 {
 "name": "Legalis",
@@ -102,9 +100,8 @@
 },
 {
 "name": "What's up Doc",
-"ok": true,
-"items": 10,
-"new": 0
+"ok": false,
+"error": "<urlopen error timed out>"
 },
 {
 "name": "Egora",
@@ -116,7 +113,7 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Next",
@@ -152,13 +149,13 @@
 "name": "ZATAZ",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 2
 },
 {
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 0
+"new": 4
 },
 {
 "name": "Google Actualités",
@@ -168,15 +165,13 @@
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 13,
-"new": 0
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 35,
-"new": 0
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
 },
 {
 "name": "Google Actualités",
@@ -187,7 +182,18 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 11,
+"items": 24,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 4,
 "new": 0
 },
 {
@@ -199,19 +205,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 5,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 16,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 10,
+"items": 9,
 "new": 0
 }
 ]
