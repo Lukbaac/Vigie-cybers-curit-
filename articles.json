@@ -1,5 +1,37 @@
 [
 {
+"id": "8093d6fa14bc1f20",
+"title": "Cyberattaque : 765 000 euros d’or dérobés à des clients",
+"link": "https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/",
+"summary": "Une entreprise parisienne spécialisée dans l’achat et la vente d’or a subi une cyberattaque ayant exposé les informations personnelles et commerciales de nombreux clients.",
+"source": "ZATAZ",
+"date": "2026-11-17T07:47:16+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-17T07:59:51+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "d51a92f2bc9a5405",
+"title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+"link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+"summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks.",
+"source": "BleepingComputer",
+"date": "2026-11-17T07:25:44+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-17T07:59:51+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "53f800bdf7a6bcfa",
 "title": "Rassemblement National : une seconde fuite de données ?",
 "link": "https://www.zataz.com/rassemblement-national-une-seconde-fuite-de-donnees/",
@@ -214,6 +246,21 @@
 "natures": [],
 "added": "2026-11-16T16:57:40+00:00",
 "official": false,
+"lang": "en"
+},
+{
+"id": "9fa1e59308087ce3",
+"title": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
+"link": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
+"summary": "Nearly 1,000 high-level policymakers, start-ups, industry leaders and researchers will take part in the Apply AI Summit in Brussels tomorrow.",
+"source": "Commission européenne – Numérique",
+"date": "2026-11-16T12:43:38+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-17T07:59:51+00:00",
+"official": true,
 "lang": "en"
 },
 {
@@ -1229,38 +1276,6 @@
 "natures": [],
 "added": "2026-11-14T10:44:37+00:00",
 "official": false,
-"lang": "fr"
-},
-{
-"id": "3586fac739cca83c",
-"title": "Qubole : des accès cloud oubliés exposent les entreprises au vol de données",
-"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/qubole-des-acces-cloud-oublies-exposent-les-entrep",
-"summary": "Des attaquants ont détourné les accès AWS de Qubole pour voler des secrets et des données chez plusieurs entreprises clientes.",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-11-10T07:47:39+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "887f035d4a9d9959",
-"title": "Respectons les compétences du médecin au bénéfice des patients",
-"link": "https://www.conseil-national.medecin.fr/publications/communiques-presse/respectons-competences-medecin-benefice-patients",
-"summary": "La qualité et la sécurité des soins reposent sur une articulation claire des compétences et des responsabilités de chaque professionnel de santé.",
-"source": "Conseil national de l'Ordre des médecins",
-"date": "2026-11-10T07:11:53+00:00",
-"topics": [
-"sante"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": true,
 "lang": "fr"
 }
 ]

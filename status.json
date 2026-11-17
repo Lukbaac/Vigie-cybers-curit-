@@ -20,17 +20,19 @@
 "name": "Commission européenne – Numérique",
 "ok": true,
 "items": 10,
-"new": 0
+"new": 1
 },
 {
 "name": "Arcom",
-"ok": false,
-"error": "<urlopen error timed out>"
+"ok": true,
+"items": 10,
+"new": 0
 },
 {
 "name": "Sénat – Textes",
-"ok": false,
-"error": "<urlopen error [Errno 101] Network is unreachable>"
+"ok": true,
+"items": 56,
+"new": 0
 },
 {
 "name": "CERT-FR – Alertes",
@@ -72,7 +74,7 @@
 "name": "DSIH",
 "ok": true,
 "items": 30,
-"new": 1
+"new": 0
 },
 {
 "name": "Legalis",
@@ -100,8 +102,9 @@
 },
 {
 "name": "What's up Doc",
-"ok": false,
-"error": "<urlopen error timed out>"
+"ok": true,
+"items": 10,
+"new": 0
 },
 {
 "name": "Egora",
@@ -113,7 +116,7 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Next",
@@ -137,7 +140,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -149,13 +152,13 @@
 "name": "ZATAZ",
 "ok": true,
 "items": 10,
-"new": 2
+"new": 1
 },
 {
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 4
+"new": 1
 },
 {
 "name": "Google Actualités",
@@ -170,8 +173,9 @@
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
+"ok": true,
+"items": 35,
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -181,14 +185,14 @@
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 24,
-"new": 0
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
+"ok": true,
+"items": 16,
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -204,8 +208,7 @@
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 9,
-"new": 0
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
 }
 ]
