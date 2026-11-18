@@ -1,9 +1,8 @@
 [
 {
 "name": "CNIL",
-"ok": true,
-"items": 10,
-"new": 1
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "CEPD (EDPB)",
@@ -12,9 +11,8 @@
 },
 {
 "name": "LINC (CNIL)",
-"ok": true,
-"items": 10,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Commission européenne – Numérique",
@@ -31,14 +29,14 @@
 {
 "name": "Sénat – Textes",
 "ok": true,
-"items": 57,
+"items": 60,
 "new": 0
 },
 {
 "name": "CERT-FR – Alertes",
 "ok": true,
 "items": 40,
-"new": 0
+"new": 1
 },
 {
 "name": "CERT-FR – Actualités",
@@ -98,7 +96,7 @@
 "name": "Le Quotidien du médecin",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "What's up Doc",
@@ -116,7 +114,7 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Next",
@@ -128,7 +126,7 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Silicon.fr",
@@ -152,10 +150,16 @@
 "name": "ZATAZ",
 "ok": true,
 "items": 10,
-"new": 4
+"new": 0
 },
 {
 "name": "BleepingComputer",
+"ok": true,
+"items": 15,
+"new": 0
+},
+{
+"name": "Google Actualités",
 "ok": true,
 "items": 15,
 "new": 0
@@ -169,25 +173,19 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 17,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
 "items": 36,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 23,
+"items": 22,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 14,
+"items": 25,
 "new": 0
 },
 {
@@ -211,7 +209,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 11,
 "new": 0
 }
 ]

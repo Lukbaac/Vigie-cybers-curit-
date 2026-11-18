@@ -1,5 +1,57 @@
 [
 {
+"id": "2a52192c30c1db4f",
+"title": "Données personnelles : la Macif condamnée par la CNIL à une amende de 5 millions d’euros pour des manquements à la sécurité",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/18/donnees-personnelles-la-macif-condamnee-par-la-cnil-a-une-amende-de-5-millions-d-euros-pour-des-manquements-a-la-securite_6813157_4408996.html",
+"summary": "L’autorité de protection des données a relevé des manquements à la sécurité des données personnelles de ses clients, dont la conservation de mots de passe en clair et des durées excessives de stockage de certaines données.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-18T15:47:11+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [
+"Sanction",
+"Jurisprudence"
+],
+"added": "2026-11-18T16:44:37+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "70787e161942fbeb",
+"title": "PLFSS 2027 : Le Sénat ressort la « taxe lapin » de son terrier, y survivra-t-elle ?",
+"link": "http://www.lequotidiendumedecin.fr/sante-societe/plfss-2027-le-senat-ressort-la-taxe-lapin-de-son-terrier-y-survivra-t-elle",
+"summary": "Le Sénat a adopté en début de semaine le principe d'une « taxe lapin » visant à responsabiliser les patients qui n'honorent pas leurs rendez-vous médicaux.",
+"source": "Le Quotidien du médecin",
+"date": "2026-11-18T14:32:46+00:00",
+"topics": [
+"sante"
+],
+"natures": [
+"Texte"
+],
+"added": "2026-11-18T16:44:37+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "7b056027c5bf1469",
+"title": "La Cnil inflige une amende de 5 millions d'euros à l'assureur Macif Vie \"en raison de l'insuffisance des mesures prises pour la sécurité des données\"",
+"link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSFV6Y3V0YlpWX2d4TWJoandyZXhleU5iNHo4ME1QWmZ6cW8tYXRicEZ4cS1uaWlpZWh3R0d0SmZRMXJFOExFNlBIb3hVTGtjb3h2TThBRXZCWTNERGFPOVZzYVNmNjgtX2t6VV9TYjVzeTFqS1lOZlZGN3ByeUlUNDdoMXBLR0Z6Z05SeVZKT3lkTVJ0WU9HY2NWTDR2aFNaUEp3a3NOOU8yNGNhMWNvaVVsTzZ0SXJRWnR5OG5oX3B1eGNLcGlZMGRCZ1k2Z1QxYU5sRElQelNHR1hCVUlYb1hYalhIanNBN2RGZlNPNzJINms3OXc2cGRUTGQxdmd1U192N05xbU9ndS1CYXdRY21oVmgzOGpQNm1ZaVdaeXpHZkNHUjhxVzJ3WVBPUmRzWWQzcF81RlVWVDVnVm1KU1IwUWV1cVVTZ0ppQ0JqTEQ?oc=5",
+"summary": "",
+"source": "franceinfo",
+"date": "2026-11-18T13:00:32+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [
+"Sanction"
+],
+"added": "2026-11-18T16:44:37+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "dfbf1b88b06c6818",
 "title": "Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d’euros",
 "link": "https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros",
@@ -94,6 +146,23 @@
 "lang": "fr"
 },
 {
+"id": "ee42aee2d0b3ce4d",
+"title": "GTA 6 : celui qui avait piraté Rockstar a plaidé coupable",
+"link": "https://www.lemagit.fr/actualites/366654894/GTA-6-celui-qui-avait-pirate-Rockstar-a-plaide-coupable",
+"summary": "Arion Kurtaj avait piraté le studio de développement Rockstar Games en septembre 2022, en divulguant de premières vidéos.",
+"source": "LeMagIT",
+"date": "2026-11-18T10:17:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Jurisprudence"
+],
+"added": "2026-11-18T16:44:37+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "a03f1c620d3474b7",
 "title": "Scattered Spider : un pirate britannique condamné à six ans",
 "link": "https://www.zataz.com/scattered-spider-un-pirate-britannique-condamne-a-six-ans/",
@@ -123,6 +192,38 @@
 "natures": [],
 "added": "2026-11-18T11:48:06+00:00",
 "official": false,
+"lang": "fr"
+},
+{
+"id": "c0c70d832de9a46a",
+"title": "Yohan Bernardin, The Gratin : comptes publicitaires piratés, cinq précautions à prendre sur Meta et TikTok avant l’incident",
+"link": "https://www.zdnet.fr/tribune/yohan-bernardin-the-gratin-comptes-publicitaires-pirates-cinq-precautions-a-prendre-sur-meta-et-tiktok-avant-lincident-508007.htm#xtor=RSS-1",
+"summary": "Double authentification, rôles minimaux, accès partenaire pour les agences : Yohan Bernardin, fondateur de l’agence montpelliéraine The Gratin, détaille les réglages Meta Business et TikTok Business Center qui limitent les dégâts d’un piratage de compte publicitaire, devenu en 2025 le premier motif de demande…",
+"source": "ZDNet France",
+"date": "2026-11-18T05:11:22+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-18T16:44:37+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "1164ea4e3313fd62",
+"title": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
+"link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
+"summary": "Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64 supportant AVX-512 VBMI.",
+"source": "CERT-FR – Alertes",
+"date": "2026-11-18T00:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Alerte"
+],
+"added": "2026-11-18T16:44:37+00:00",
+"official": true,
 "lang": "fr"
 },
 {
@@ -171,6 +272,21 @@
 ],
 "natures": [],
 "added": "2026-11-17T16:43:33+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "7aef45b088c702ac",
+"title": "Sécurité : Google et Anthropic vont dévoiler les détails des failles après 30 jours",
+"link": "https://next.ink/268034/securite-google-et-anthropic-vont-devoiler-les-details-des-failles-apres-30-jours/",
+"summary": "À quelques jours d’intervalle, Google Project Zero et Anthropic ont annoncé un raccourcissement net de leurs délais de divulgation coordonnée.",
+"source": "Next",
+"date": "2026-11-17T16:23:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-18T16:44:37+00:00",
 "official": false,
 "lang": "fr"
 },
