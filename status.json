@@ -31,7 +31,7 @@
 {
 "name": "Sénat – Textes",
 "ok": true,
-"items": 56,
+"items": 57,
 "new": 0
 },
 {
@@ -98,7 +98,7 @@
 "name": "Le Quotidien du médecin",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "What's up Doc",
@@ -134,7 +134,7 @@
 "name": "Silicon.fr",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "ZDNet France",
@@ -163,13 +163,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 13,
+"items": 16,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 17,
+"items": 15,
 "new": 0
 },
 {
@@ -187,25 +187,25 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 8,
+"items": 19,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 18,
+"items": 16,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 4,
+"items": 5,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 20,
+"items": 21,
 "new": 0
 },
 {
