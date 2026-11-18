@@ -22,9 +22,8 @@
 },
 {
 "name": "Arcom",
-"ok": true,
-"items": 10,
-"new": 0
+"ok": false,
+"error": "mismatched tag: line 37, column 2"
 },
 {
 "name": "Sénat – Textes",
@@ -36,7 +35,7 @@
 "name": "CERT-FR – Alertes",
 "ok": true,
 "items": 40,
-"new": 1
+"new": 0
 },
 {
 "name": "CERT-FR – Actualités",
@@ -96,7 +95,7 @@
 "name": "Le Quotidien du médecin",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "What's up Doc",
@@ -114,7 +113,7 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Next",
@@ -126,7 +125,7 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Silicon.fr",
@@ -138,7 +137,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -161,13 +160,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 15,
+"items": 14,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 16,
+"items": 15,
 "new": 0
 },
 {
@@ -185,14 +184,14 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 25,
+"items": 16,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 20,
-"new": 1
+"items": 25,
+"new": 0
 },
 {
 "name": "Google Actualités",

@@ -1,5 +1,23 @@
 [
 {
+"id": "6f28fc75fce272a9",
+"title": "☕️ Chargemap signale un vol de données suite à une attaque informatique",
+"link": "https://next.ink/brief-article/chargemap-signale-un-vol-de-donnees-suite-a-une-attaque-informatique/",
+"summary": "Chargemap, éditeur d’un service de planification d’itinéraires pour véhicules électriques et d’un pass dédié au paiement des recharges, a signalé mercredi 18 novembre avoir été victime d’une cyberattaque ayant entraîné l’accès à des données personnelles de ses utilisateurs et clients.",
+"source": "Next",
+"date": "2026-11-18T16:54:01+00:00",
+"topics": [
+"rgpd",
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-18T17:39:28+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "2a52192c30c1db4f",
 "title": "Données personnelles : la Macif condamnée par la CNIL à une amende de 5 millions d’euros pour des manquements à la sécurité",
 "link": "https://www.lemonde.fr/pixels/article/2026/11/18/donnees-personnelles-la-macif-condamnee-par-la-cnil-a-une-amende-de-5-millions-d-euros-pour-des-manquements-a-la-securite_6813157_4408996.html",
