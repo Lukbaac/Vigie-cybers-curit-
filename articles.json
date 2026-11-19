@@ -1,5 +1,115 @@
 [
 {
+"id": "b5214b53b356c85f",
+"title": "Soumission chimique : mieux repérer, prendre en charge et accompagner les victimes",
+"link": "http://www.lequotidiendumedecin.fr/sante-societe/soumission-chimique-mieux-reperer-prendre-en-charge-et-accompagner-les-victimes",
+"summary": "À l’occasion de ses Journées de réflexion, le Conseil national de l’Ordre des médecins a rappelé le rôle essentiel des professionnels de santé dans le repérage et l’accompagnement des victimes de soumission chimique, alors que plusieurs dispositifs se mettent en place pour améliorer leur prise en charge.",
+"source": "Le Quotidien du médecin",
+"date": "2026-11-19T16:41:41+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-19T16:44:56+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "fe39f71101c6e103",
+"title": "Substances létales dans l’aide à mourir : le respect de la personne au cœur des recos de la HAS",
+"link": "http://www.lequotidiendumedecin.fr/actu-medicale/substances-letales-dans-laide-mourir-le-respect-de-la-personne-au-coeur-des-recos-de-la-has",
+"summary": "La Haute Autorité de Santé (HAS) dévoile aujourd’hui ses recommandations portant sur les substances létales, leurs conditions de prescription, la posologie et le mode d’administration, dans le cadre de l’aide à mourir.",
+"source": "Le Quotidien du médecin",
+"date": "2026-11-19T16:37:19+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-19T16:44:56+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "b497415f2ca3ddba",
+"title": "Bitget : 1 052 bitcoins déplacés après le piratage",
+"link": "https://www.zataz.com/bitget-1-052-bitcoins-deplaces-apres-le-piratage/",
+"summary": "Une nouvelle phase du piratage de la plateforme d’échange Bitget se déroule désormais sur la blockchain Bitcoin.",
+"source": "ZATAZ",
+"date": "2026-11-19T15:42:35+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T16:44:56+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "48e3516b4bddc2a8",
+"title": "Pour une conseillère de la CJUE, Facebook n’est plus gratuit car on paie avec ses données",
+"link": "https://next.ink/268491/pour-une-conseillere-de-la-cjue-facebook-nest-plus-gratuit-car-on-paie-avec-ses-donnees/",
+"summary": "Dans un avis, l’avocate générale à la CJUE Laila Medina affirme qu’un service ne peut être qualifié de « gratuit » lorsque les consommateurs sont tenus de fournir des données personnelles à des fins commerciales.",
+"source": "Next",
+"date": "2026-11-19T14:55:28+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [
+"Jurisprudence"
+],
+"added": "2026-11-19T16:44:56+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "42844d89734a576f",
+"title": "Une cyberattaque assistée par l’IA a ciblé la Commission européenne en octobre",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/19/une-cyberattaque-assistee-par-l-ia-a-cible-la-commission-europeenne-en-octobre_6813314_4408996.html",
+"summary": "L’exécutif européen a dit avoir été victime d’une « cyber campagne générée par l’IA », liée à un « usage abusif d’un outil d’IA » et détectée le 22 octobre.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-19T14:27:52+00:00",
+"topics": [
+"rgpd",
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-19T16:44:56+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "5f79e3924efb9033",
+"title": "« L’IA redessine les règles du jeu à une vitesse que nous n’avions jamais connue » : des responsables de la cybersécurité de l’Etat sonnent l’alarme",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/19/l-ia-redessine-les-regles-du-jeu-a-une-vitesse-que-nous-n-avions-jamais-connue-des-responsables-de-la-cybersecurite-de-l-etat-sonnent-l-alarme_6813298_4408996.html",
+"summary": "A Rennes, les plus hauts responsables français ont diffusé un message inédit sur les dangers de l’intelligence artificielle, alors que Sébastien Lecornu a convoqué jeudi une réunion interministérielle classifiée sur la cybersécurité.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-19T12:30:07+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T16:44:56+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "937f390d6b182cf8",
+"title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+"link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+"summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs.",
+"source": "BleepingComputer",
+"date": "2026-11-19T11:46:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T16:44:56+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "b07024ade141ef03",
 "title": "Responsabilité des systèmes d'IA : le droit européen a-t-il vraiment désigné un coupable ? Par Koné Abdoulaye, Docteur en Droit.",
 "link": "https://www.village-justice.com/articles/responsabilite-des-systemes-droit-europeen-vraiment-designe-coupable,60100.html?utm_source=backend&utm_medium=RSS&utm_campaign=RSS_Reseaux",
@@ -29,6 +139,21 @@
 "natures": [],
 "added": "2026-11-19T11:45:16+00:00",
 "official": false,
+"lang": "fr"
+},
+{
+"id": "2af074cb314a4001",
+"title": "Lancement de l’enquête Mobilis sur les lieux et modes d’exercice des médecins généralistes",
+"link": "https://www.conseil-national.medecin.fr/publications/communiques-presse/lancement-lenquete-mobilis-lieux-modes-dexercice-medecins",
+"summary": "Le Conseil national de l’Ordre des médecins (Cnom) et l’Institut de recherche et documentation en économie de la santé (Irdes) lancent une enquête auprès de 20 443 médecins généralistes.",
+"source": "Conseil national de l'Ordre des médecins",
+"date": "2026-11-19T10:35:32+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-19T16:44:56+00:00",
+"official": true,
 "lang": "fr"
 },
 {
@@ -77,6 +202,36 @@
 "added": "2026-11-19T11:45:16+00:00",
 "official": false,
 "lang": "en"
+},
+{
+"id": "29a275b8eff840c8",
+"title": "Ransomware : que sait-on des quatre affidés de Chaos interpellés ?",
+"link": "https://www.lemagit.fr/actualites/366654933/Ransomware-que-sait-on-des-quatre-affides-de-Chaos-interpeles",
+"summary": "Les quatre cybercriminels sont en détention provisoire depuis le 3 novembre. Ils ont participé ensemble à au moins 4 cyberattaques majeures, dont certaines sous la bannière de Chaos.",
+"source": "LeMagIT",
+"date": "2026-11-19T09:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T16:44:56+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "6205a911ca7aeda2",
+"title": "Procès pour obsolescence : Apple justifie sa politique par le besoin de sécurité",
+"link": "https://www.zdnet.fr/actualites/proces-pour-obsolescence-apple-justifie-sa-politique-par-le-besoin-de-securite-508223.htm#xtor=RSS-1",
+"summary": "Visé par un procès pour entrave à la réparation prévu en juin à Paris, Apple conteste les accusations de l'association HOP.",
+"source": "ZDNet France",
+"date": "2026-11-19T03:11:25+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T16:44:56+00:00",
+"official": false,
+"lang": "fr"
 },
 {
 "id": "b326b8531a9216c7",
@@ -191,6 +346,21 @@
 "natures": [],
 "added": "2026-11-19T06:43:10+00:00",
 "official": false,
+"lang": "fr"
+},
+{
+"id": "3898d22047068d2e",
+"title": "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
+"link": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
+"summary": "Alors que près d’un jeune sur deux se confie à une IA sur des sujets intimes, avec le livret « La Voix des jeunesses », le Groupe VYV, premier acteur mutualiste de santé et de protection sociale en France, et la CNIL croisent enquête européenne, témoignages, et expertises pour éclairer les enjeux de santé mentale et…",
+"source": "CNIL",
+"date": "2026-11-18T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-19T16:44:56+00:00",
+"official": true,
 "lang": "fr"
 },
 {
@@ -446,6 +616,21 @@
 ],
 "natures": [],
 "added": "2026-11-18T16:44:37+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "4441fcdd8b45931f",
+"title": "[MàJ] NVIDIA prépare l’après-Jensen Huang et renforce ses contrôles",
+"link": "https://next.ink/268087/nvidia-prepare-lapres-jensen-huang-et-renforce-ses-controles/",
+"summary": "Alors que se profilent les résultats de son troisième trimestre, le conseil d’administration de NVIDIA n’aurait aucunement l’intention de faire revenir Jensen Huang au poste de directeur général.",
+"source": "Next",
+"date": "2026-11-17T15:30:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T16:44:56+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1482,112 +1667,5 @@
 "added": "2026-11-14T10:47:11+00:00",
 "official": false,
 "lang": "en"
-},
-{
-"id": "a7c7c23161ac193f",
-"title": "Compétences accrues des pharmaciens : l’Ordre des médecins menace d'engager des recours",
-"link": "http://www.lequotidiendumedecin.fr/liberal-soins-de-ville/competences-accrues-des-pharmaciens-lordre-des-medecins-menace-dengager-des-recours",
-"summary": "En réaction aux propositions de l’Ordre des pharmaciens pour 2027, le Conseil national de l’Ordre des médecins (Cnom) réaffirme ses lignes rouges.",
-"source": "Le Quotidien du médecin",
-"date": "2026-11-12T16:04:34+00:00",
-"topics": [
-"sante"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "ad9757975fce9e1b",
-"title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-"link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-"summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges.",
-"source": "BleepingComputer",
-"date": "2026-11-12T16:04:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "62ff99ae778bcb02",
-"title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-"link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-"summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations.",
-"source": "BleepingComputer",
-"date": "2026-11-12T15:07:20+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "93cbe64db19dfe4f",
-"title": "Patch Tuesday de novembre : encore une cuvée spectaculaire",
-"link": "https://www.lemagit.fr/actualites/366654645/Patch-Tuesday-de-Novembre-encore-une-cuvee-spectaculaire",
-"summary": "Microsoft a corrigé plus d’un millier de vulnérabilités ce mois-ci. Pour la seconde fois consécutive. Un chiffre spectaculaire, mais aussi le pic d’une vague ?",
-"source": "LeMagIT",
-"date": "2026-11-12T12:38:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "416869ebe24fac01",
-"title": "NIS 2 : la situation se débloque… sur un statu quo",
-"link": "https://www.silicon.fr/cybersecurite-1371/projet-loi-resilience-nis-2-230228",
-"summary": "Les députés ont supprimé l'article qui a longtemps retardé leur examen du projet de loi « résilience », destiné à transposer la NIS 2.",
-"source": "Silicon.fr",
-"date": "2026-11-12T12:00:48+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "65f1af6bc7476a2c",
-"title": "Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA",
-"link": "https://www.cnil.fr/fr/actualite-du-cepd-adequation-de-la-coree-du-sud-versions-finales-des-bcr-st-et-action-coordonnee-sur",
-"summary": "Le 10 novembre 2026, le Comité européen de la protection des données (CEPD) a adopté une déclaration sur l’adéquation de la Corée du Sud en matière de protection des données, ses recommandations finales sur les règles d’entreprises contraignantes et le thème de la sixième action coordonnée (CEF).",
-"source": "CNIL",
-"date": "2026-11-12T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "beede1688ca155a8",
-"title": "Ordre du jour de la séance plénière du 12 novembre 2026",
-"link": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
-"summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 novembre 2026 à 9 h 30 avec l’ordre du jour suivant :",
-"source": "CNIL",
-"date": "2026-11-12T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-16T09:15:58+00:00",
-"official": true,
-"lang": "fr"
 }
 ]
