@@ -1,5 +1,84 @@
 [
 {
+"id": "b07024ade141ef03",
+"title": "Responsabilité des systèmes d'IA : le droit européen a-t-il vraiment désigné un coupable ? Par Koné Abdoulaye, Docteur en Droit.",
+"link": "https://www.village-justice.com/articles/responsabilite-des-systemes-droit-europeen-vraiment-designe-coupable,60100.html?utm_source=backend&utm_medium=RSS&utm_campaign=RSS_Reseaux",
+"summary": "L'algorithme propose, l'humain dispose. C'est sur cette promesse que repose l'exigence de contrôle humain (Human Oversight) consacrée par le Règlement européen sur l'intelligence artificielle (AI Act).",
+"source": "Village de la Justice",
+"date": "2026-11-19T11:30:00+00:00",
+"topics": [
+"numerique"
+],
+"natures": [
+"Texte"
+],
+"added": "2026-11-19T11:45:16+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "d795f561ffbfc487",
+"title": "La « vulnapocalypse » annoncée par Anthropic avec Mythos n’a pas (encore) eu lieu",
+"link": "https://next.ink/268257/la-vulnapocalypse-annoncee-par-anthropic-avec-mythos-na-pas-encore-eu-lieu/",
+"summary": "Sept mois après le retentissant lancement de Mythos, l’IA d’Anthropic dédiée à la cybersécurité, la baudruche semble se dégonfler.",
+"source": "Next",
+"date": "2026-11-19T11:00:25+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T11:45:16+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "11d88008050a8a39",
+"title": "☕️ Présidentielle : VIGINUM publie un guide à destination des équipes de campagne",
+"link": "https://next.ink/brief-article/presidentielle-viginum-publie-un-guide-a-destination-des-equipes-de-campagne/",
+"summary": "Alors que la campagne présidentielle a déjà bien commencé, VIGINUM a publié, en collaboration avec la CNIL et l’Arcom, un guide à destination des équipes des candidats pour « protéger le débat public numérique durant l’élection présidentielle 2027 ».",
+"source": "Next",
+"date": "2026-11-19T09:32:00+00:00",
+"topics": [
+"rgpd",
+"numerique"
+],
+"natures": [],
+"added": "2026-11-19T11:45:16+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "1f0604e7229fda28",
+"title": "Présidentielle 2027 : Numeum propose cinq mesures pour renforcer la souveraineté numérique française",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/presidentielle-2027-numeum-propose-cinq-mesures-pour-renforcer-la-souverainete-numerique-francaise",
+"summary": "À l’approche de l’élection présidentielle de 2027, Numeum présente cinq propositions pour faire de la France et de l’Europe une puissance industrielle numérique.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-19T09:27:33+00:00",
+"topics": [
+"numerique",
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T11:45:16+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "7aba46b2e297d42b",
+"title": "NVIDIA investigating Gentlemen ransomware breach claims",
+"link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+"summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site.",
+"source": "BleepingComputer",
+"date": "2026-11-19T09:23:21+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T11:45:16+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "b326b8531a9216c7",
 "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
 "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
@@ -1509,66 +1588,6 @@
 "natures": [],
 "added": "2026-11-16T09:15:58+00:00",
 "official": true,
-"lang": "fr"
-},
-{
-"id": "046df091d715f71a",
-"title": "Nvidia : les trois failles qui fragilisent Jensen Huang",
-"link": "https://www.silicon.fr/business-1367/nvidia-les-trois-failles-qui-fragilisent-jensen-huang-230236",
-"summary": "Deux liaisons, une enquête et une gouvernance sans filet : le patron fondateur du géant des puces d'IA joue son poste.",
-"source": "Silicon.fr",
-"date": "2026-11-12T11:25:42+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "a068c8bab0611982",
-"title": "La conservation de nombreux documents fiscaux passe à dix ans !",
-"link": "https://www.lexing.law/avocats/la-conservation-de-nombreux-documents-fiscaux-passe-a-dix-ans/2026/11/12/?utm_source=rss&utm_medium=rss&utm_campaign=la-conservation-de-nombreux-documents-fiscaux-passe-a-dix-ans",
-"summary": "La conservation des documents fiscaux passe de 6 à 10 ans dès 2027. Découvrez les impacts clés pour l'archivage et le RGPD en entreprise.",
-"source": "Lexing Alain Bensoussan",
-"date": "2026-11-12T11:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "cca92571bf24626a",
-"title": "Zoom Workplace : une faille critique et une faille élevée corrigées sous Windows",
-"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/zoom-workplace-une-faille-critique-et-une-faille-e",
-"summary": "Zoom a publié des correctifs pour deux vulnérabilités affectant Workplace sous Windows, dont une faille critique d’élévation de privilèges notée 9,6 sur l’échelle CVSS.",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-11-12T10:46:15+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "6a2197dd3b992dfe",
-"title": "Carrefour du droit 2026 : Lexing anime cinq ateliers",
-"link": "https://www.lexing.law/avocats/carrefour-du-droit-2026-lexing-anime-cinq-ateliers/2026/11/12/?utm_source=rss&utm_medium=rss&utm_campaign=carrefour-du-droit-2026-lexing-anime-cinq-ateliers",
-"summary": "Le 4 décembre 2026, quatre avocates de Lexing animent cinq ateliers lors de la 20e édition du Carrefour du droit, organisée à distance par Comundi et LexisNexis : IA, RGPD, propriété intellectuelle et droit des sociétés.",
-"source": "Lexing Alain Bensoussan",
-"date": "2026-11-12T09:33:14+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
 "lang": "fr"
 }
 ]
