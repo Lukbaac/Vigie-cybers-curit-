@@ -1,5 +1,20 @@
 [
 {
+"id": "b326b8531a9216c7",
+"title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+"link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+"summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide.",
+"source": "BleepingComputer",
+"date": "2026-11-18T23:08:33+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T06:43:10+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "6f28fc75fce272a9",
 "title": "☕️ Chargemap signale un vol de données suite à une attaque informatique",
 "link": "https://next.ink/brief-article/chargemap-signale-un-vol-de-donnees-suite-a-une-attaque-informatique/",
@@ -36,6 +51,21 @@
 "lang": "fr"
 },
 {
+"id": "18f4fb6a6a8dc835",
+"title": "Cloud « souverain » : en Europe, Google s’en remet à Thales, S3NS et ses partenaires",
+"link": "https://www.lemagit.fr/actualites/366654876/Cloud-souverain-en-Europe-Google-sen-remet-a-Thales-S3NS-et-ses-partenaires",
+"summary": "Lors de son AI Sovereign Summit, le géant du cloud américain a vanté une vision pragmatique de la souveraineté numérique.",
+"source": "LeMagIT",
+"date": "2026-11-18T14:56:00+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-19T06:43:10+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "70787e161942fbeb",
 "title": "PLFSS 2027 : Le Sénat ressort la « taxe lapin » de son terrier, y survivra-t-elle ?",
 "link": "http://www.lequotidiendumedecin.fr/sante-societe/plfss-2027-le-senat-ressort-la-taxe-lapin-de-son-terrier-y-survivra-t-elle",
@@ -66,6 +96,21 @@
 "Sanction"
 ],
 "added": "2026-11-18T16:44:37+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "4fd53e5037d21554",
+"title": "Ransomware : coup de filet contre les anciens de Conti",
+"link": "https://www.lemagit.fr/actualites/366654897/Ransomware-coup-de-filet-contre-les-anciens-de-Conti",
+"summary": "La police ukrainienne vient d’arrêter quatre cybercriminels qu’elle présente comme précédemment liés aux activités du groupe de rançongiciels Conti.",
+"source": "LeMagIT",
+"date": "2026-11-18T12:38:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-19T06:43:10+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -241,6 +286,23 @@
 "Alerte"
 ],
 "added": "2026-11-18T16:44:37+00:00",
+"official": true,
+"lang": "fr"
+},
+{
+"id": "fc9998d403ed06f8",
+"title": "Multiples vulnérabilités dans F5 NGINX (18 novembre 2026)",
+"link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/",
+"summary": "Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007.",
+"source": "CERT-FR – Alertes",
+"date": "2026-11-18T00:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Alerte"
+],
+"added": "2026-11-19T06:43:10+00:00",
 "official": true,
 "lang": "fr"
 },
@@ -1551,39 +1613,6 @@
 ],
 "natures": [],
 "added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "7db417348fe6117e",
-"title": "Comment l’Assemblée nationale a repris à sa sauce NIS 2",
-"link": "https://www.zdnet.fr/actualites/comment-lassemblee-nationale-a-repris-a-sa-sauce-nis-2-507741.htm#xtor=RSS-1",
-"summary": "Les députés viennent de boucler l’examen en séance publique de ce projet de loi très attendu dans la cybersécurité.",
-"source": "ZDNet France",
-"date": "2026-11-12T05:11:41+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "242e506ccfccf877",
-"title": "Cyber : les collectivités territoriales ont un long chemin à parcourir",
-"link": "https://www.zdnet.fr/actualites/cyber-les-collectivites-territoriales-ont-un-long-chemin-a-parcourir-507767.htm#xtor=RSS-1",
-"summary": "Priorité de la Cnil sur les contrôles, la cybersécurité des collectivités territoriales leur vaut 10 sanctions financières en raison de leurs manquements.",
-"source": "ZDNet France",
-"date": "2026-11-12T02:11:29+00:00",
-"topics": [
-"rgpd",
-"cyber"
-],
-"natures": [],
-"added": "2026-11-16T17:45:35+00:00",
 "official": false,
 "lang": "fr"
 }
