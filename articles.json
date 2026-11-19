@@ -1570,50 +1570,5 @@
 "added": "2026-11-14T10:44:37+00:00",
 "official": false,
 "lang": "fr"
-},
-{
-"id": "fbc1db628718cda4",
-"title": "Grok Build : plus de 35 000 applications IA accessibles sans authentification",
-"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/grok-build-plus-de-35-000-applications-ia-accessib",
-"summary": "Une étude de la société de cybersécurité Claroc révèle d’importants défauts de confidentialité dans des applications créées avec Grok Build, l’outil de création d’applications assistée par IA de SpaceXSI, l’éditeur de Grok anciennement appelé xAI.",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-11-12T07:45:45+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "ef405c3ebb2242fc",
-"title": "Abonnements, jeux, IA : l’Europe veut déjouer les arnaques du numérique avec le DFA",
-"link": "https://next.ink/266856/abonnements-jeux-ia-leurope-veut-dejouer-les-arnaques-du-numerique-avec-le-dfa/",
-"summary": "Vous avez aimé le règlement sur les marchés numériques (DMA) et le règlement sur les services numériques (DSA) ?",
-"source": "Next",
-"date": "2026-11-12T07:32:00+00:00",
-"topics": [
-"numerique"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "01b378664a04b71c",
-"title": "IA agentique : les sandbox de Nvidia et de Google rejoignent la CNCF",
-"link": "https://www.lemagit.fr/actualites/366654705/IA-agentique-les-sandbox-de-Nvidia-et-de-Google-rejoignent-la-CNCF",
-"summary": "OpenShell de Nvidia et Agent Substrate de Google ciblent les déploiements agentique sur site, en alliant la sécurité des agents à l’automatisation de l’infrastructure.",
-"source": "LeMagIT",
-"date": "2026-11-12T07:01:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
 }
 ]

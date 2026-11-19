@@ -36,7 +36,7 @@
 "name": "CERT-FR – Alertes",
 "ok": true,
 "items": 40,
-"new": 1
+"new": 0
 },
 {
 "name": "CERT-FR – Actualités",
@@ -126,7 +126,7 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 2
+"new": 0
 },
 {
 "name": "Silicon.fr",
@@ -156,7 +156,7 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -185,13 +185,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 21,
+"items": 19,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 28,
+"items": 29,
 "new": 0
 },
 {
