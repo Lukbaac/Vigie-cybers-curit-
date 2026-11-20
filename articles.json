@@ -1,5 +1,140 @@
 [
 {
+"id": "d7d032c66ae29f22",
+"title": "Windows 11 : une faille permet de contourner l’écran de connexion grâce au Narrateur",
+"link": "https://next.ink/268851/windows-11-une-faille-permet-de-contourner-lecran-de-connexion-grace-au-narrateur/",
+"summary": "Les détails d’une faille non corrigée de Microsoft sont apparus ce 19 novembre. Nommée FastUnlock, elle permet à une personne ayant la machine entre les mains d’exécuter du code depuis l’écran de verrouillage, sans connaître le mot de passe ni le PIN.",
+"source": "Next",
+"date": "2026-11-20T15:42:12+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "bba5164d8e6aa03d",
+"title": "Panne à la NSA, données du DoJ en vente selon un pirate",
+"link": "https://www.zataz.com/panne-a-la-nsa-donnees-du-doj-en-vente-selon-un-pirate/",
+"summary": "Le 17 novembre, CNN a révélé une panne de NSANet, le réseau sur lequel les agents de la NSA échangent des informations classifiées.",
+"source": "ZATAZ",
+"date": "2026-11-20T14:16:03+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "c9d9ffeefd95d1b2",
+"title": "NoName revendique un accès aux caméras d’une salle de jeux",
+"link": "https://www.zataz.com/noname-revendique-un-acces-aux-cameras-dune-salle-de-jeux/",
+"summary": "NoName revendique un accès aux caméras d’une salle de jeux allemande et utilise la vidéosurveillance à des fins de propagande.",
+"source": "ZATAZ",
+"date": "2026-11-20T13:39:14+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "783db2c637fa5dbf",
+"title": "Les services de renseignement russes à l’origine d’une nouvelle campagne de phishing contre des journalistes et un député français",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/20/les-services-de-renseignement-russes-a-l-origine-d-une-nouvelle-campagne-de-phishing-contre-des-journalistes-et-un-depute-francais_6813640_4408996.html",
+"summary": "Une unité du service fédéral de sécurité (FSB) multiplie depuis le début de l’année 2026 les tentatives d’hameçonnage sur les messageries Signal et Telegram, en Ukraine, aux Etats-Unis et en Europe.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-20T13:26:20+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "6147396e32a32e18",
+"title": "FAQ - Certifiction périodique des médecins",
+"link": "https://www.conseil-national.medecin.fr/medecin/carriere/faq-certifiction-periodique-medecins",
+"summary": "Retrouvez toutes les informations pratiques relatives à la certification périodique des médecins.",
+"source": "Conseil national de l'Ordre des médecins",
+"date": "2026-11-20T12:34:18+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
+"official": true,
+"lang": "fr"
+},
+{
+"id": "ab075b0f8cecd2e0",
+"title": "Accès piratés à vendre comme des pains au chocolat",
+"link": "https://www.zataz.com/acces-pirates-a-vendre-comme-des-pains-au-chocolat/",
+"summary": "ZATAZ décrypte quatre offres d’accès piratés et les risques de fraude liés aux bases de données et aux clés SMS.",
+"source": "ZATAZ",
+"date": "2026-11-20T12:30:18+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "4b9b928c39f1a392",
+"title": "Hell’s r00ts 2.0 : les vieux hackers n’ont pas dit leur dernier mot",
+"link": "https://www.zataz.com/hells-r00ts-2-0-les-vieux-hackers-nont-pas-dit-leur-dernier-mot/",
+"summary": "Avec Hell’s r00ts 2.0, Antoine Champagne ressuscite les pionniers du hacking dans un thriller cyber passionnant.",
+"source": "ZATAZ",
+"date": "2026-11-20T12:05:59+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "92b13b4229234d6d",
+"title": "IA et éducation : une résolution mondiale pour la protection des données",
+"link": "https://www.cnil.fr/fr/gpa-ia-education",
+"summary": "En novembre 2026, l’Assemblée mondiale pour la protection de la vie privée (Global Privacy Assembly) a adopté une résolution sur l’intelligence artificielle dans le secteur de l’éducation.",
+"source": "CNIL",
+"date": "2026-11-20T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
+"official": true,
+"lang": "fr"
+},
+{
+"id": "273e9c9aab7f2757",
+"title": "48e Assemblée mondiale pour la protection de la vie privée (GPA)",
+"link": "https://www.cnil.fr/fr/48e-gpa",
+"summary": "L’Assemblée mondiale pour la protection de la vie privée (ou Global Privacy Assembly), qui rassemble plus de 130 autorités de protection des données de plus de 80 pays, a adopté cinq résolutions dont deux sur l’Intelligence artificielle lors de sa réunion annuelle de novembre 2026.",
+"source": "CNIL",
+"date": "2026-11-20T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
+"official": true,
+"lang": "fr"
+},
+{
 "id": "1151306e586d0437",
 "title": "Pixels de suivi dans les courriels : la CNIL sollicite un premier retour d’expérience sur sa recommandation",
 "link": "https://www.cnil.fr/fr/recommandation-pixels-retour-dexperience",
@@ -15,6 +150,21 @@
 "added": "2026-11-20T11:45:06+00:00",
 "official": true,
 "lang": "fr"
+},
+{
+"id": "8904b4115a6688ff",
+"title": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education",
+"link": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
+"summary": "Today, the European Commission and eight Member States are launching the European Digital Infrastructure Consortium on Education (EDU-EDIC) to pool resources and develop shared, secure and interoperable digital infrastructure and services for education.",
+"source": "Commission européenne – Numérique",
+"date": "2026-11-20T10:30:00+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
+"official": true,
+"lang": "en"
 },
 {
 "id": "2b4bd7eef4160b85",
@@ -47,6 +197,38 @@
 "Sanction"
 ],
 "added": "2026-11-20T11:45:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "52859ca868b42ac5",
+"title": "Face aux cyberattaques, Sébastien Lecornu réoriente 200 millions",
+"link": "https://www.zdnet.fr/actualites/face-aux-cyberattaques-sebastien-lecornu-reoriente-200-millions-508317.htm#xtor=RSS-1",
+"summary": "Face à une vague de sabotages informatiques propulsée par l'IA, la France muscle sa défense. Le Premier ministre Sébastien Lecornu annonce 200 millions d'euros pour contrer ces menaces inédites, tandis que la directive NIS2 doit sécuriser 20 000 organisations.",
+"source": "ZDNet France",
+"date": "2026-11-20T03:11:34+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Texte"
+],
+"added": "2026-11-20T16:40:44+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "d04ec26dc2e96b5c",
+"title": "Meta Muse a réservé un logement sur Airbnb sans autorisation, et ce n'est pas le pire",
+"link": "https://www.zdnet.fr/actualites/meta-muse-a-reserve-un-logement-sur-airbnb-sans-autorisation-et-ce-nest-pas-le-pire-508306.htm#xtor=RSS-1",
+"summary": "Des employés de Meta ont signalé des atteintes alarmantes à la vie privée impliquant leur IA maison Muse, notamment des actions non autorisées.",
+"source": "ZDNet France",
+"date": "2026-11-20T01:11:11+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-20T16:40:44+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1597,97 +1779,6 @@
 ],
 "natures": [],
 "added": "2026-11-14T10:47:11+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "b297d876237ef144",
-"title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-"link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-"summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts.",
-"source": "BleepingComputer",
-"date": "2026-11-13T16:21:43+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "f0e61f2ed32e5373",
-"title": "Rennes va accueillir un centre international dédié à l’IA de défense",
-"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rennes-va-accueillir-un-centre-international-dedie",
-"summary": "Prévu pour l’été 2027, l’International Center for Artificial Intelligence in Defence (ICAID) réunira plusieurs pays alliés pour travailler sur le développement, l’évaluation et l’interopérabilité des systèmes d’IA militaires.",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-11-13T15:51:10+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "bea9703f48e24454",
-"title": "Phishing : quand un vrai faux email et un lien légitime cachent une arnaque",
-"link": "https://next.ink/266410/phishing-quand-un-vrai-faux-email-et-un-lien-legitime-cachent-une-arnaque/",
-"summary": "Dans notre boîte, nous avons reçu un email qui semble tout à fait légitime. Il est d’ailleurs arrivé directement dans la boîte principale de notre Gmail.",
-"source": "Next",
-"date": "2026-11-13T15:32:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "7c4f547b43dde71e",
-"title": "[Édito] Des plaques d’immatriculation en vente, que nous reste-t-il de privé ?",
-"link": "https://next.ink/266404/edito-des-plaques-dimmatriculation-en-vente-que-nous-reste-t-il-de-prive/",
-"summary": "Toutes les fuites de données sont importantes et renforcent les pirates. Dernier exemple en date, des plaques d’immatriculation, avec le risque de cibler toujours plus de potentielles victimes.",
-"source": "Next",
-"date": "2026-11-13T15:01:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "293c69c9ee5ba956",
-"title": "Microsoft says November security updates cause printing issues",
-"link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-"summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting.",
-"source": "BleepingComputer",
-"date": "2026-11-13T12:27:40+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:47:11+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "cac2c7dc89a1147d",
-"title": "10 critères pour assurer sa souveraineté numérique",
-"link": "https://www.lemagit.fr/conseil/10-criteres-pour-assurer-sa-souverainete-numerique",
-"summary": "Pour faire simple et pragmatique, le sujet de la souveraineté peut se représenter par un triplet d’enjeux, en cinq strates et en dix critères afin de disposer d’une grille de lecture du théâtre d’opérations.",
-"source": "LeMagIT",
-"date": "2026-11-13T12:03:00+00:00",
-"topics": [
-"rgpd",
-"numerique"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
 "official": false,
 "lang": "fr"
 }
