@@ -1,5 +1,37 @@
 [
 {
+"id": "1977168802e46550",
+"title": "Transport for London breach exposes 265,000 Oyster card users' data",
+"link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+"summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach.",
+"source": "BleepingComputer",
+"date": "2026-11-19T18:20:01+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-20T06:43:07+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "3b5dc2d1e9d952fb",
+"title": "Anne Le Hénanff, ministre déléguée au numérique au « Monde » : en matière de cybersécurité, « il y a urgence pour la résilience de la Nation »",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/19/anne-le-henanff-en-matiere-de-cybersecurite-il-y-a-urgence-pour-la-resilience-de-la-nation_6813364_4408996.html",
+"summary": "Après l’adoption à l’Assemblée d’une loi sur la cybersécurité très attendue, la ministre du numérique prévient que les 20 000 entreprises et entités publiques concernées par de nouvelles obligations en matière de sécurité auront deux ans pour les mettre en œuvre.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-19T18:00:10+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T06:43:07+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "b5214b53b356c85f",
 "title": "Soumission chimique : mieux repérer, prendre en charge et accompagner les victimes",
 "link": "http://www.lequotidiendumedecin.fr/sante-societe/soumission-chimique-mieux-reperer-prendre-en-charge-et-accompagner-les-victimes",
@@ -1575,97 +1607,5 @@
 "added": "2026-11-14T10:44:37+00:00",
 "official": false,
 "lang": "fr"
-},
-{
-"id": "27f657f0b7e135ab",
-"title": "Cybersécurité : OpenAI enrichit Daybreak de deux outils d’IA pour traquer les failles",
-"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-openai-enrichit-daybreak-de-deux-out",
-"summary": "OpenAI étoffe sa plateforme de cybersécurité Daybreak avec deux solutions reposant sur des agents d’intelligence artificielle.",
-"source": "Le Monde Informatique – Sécurité",
-"date": "2026-11-13T06:37:37+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "bbbf5d78b4771a7b",
-"title": "Guillaume Buffier, Login Sécurité : Cybersécurité : 3 prédictions pour 2027, entre accélération et pragmatisme",
-"link": "https://www.zdnet.fr/tribune/guillaume-buffier-login-securite-cybersecurite-3-predictions-pour-2027-entre-acceleration-et-pragmatisme-507712.htm#xtor=RSS-1",
-"summary": "IA offensive, SOC débordés, budgets contraints dans les PME et ETI : Guillaume Buffier, Directeur général de Login Sécurité (groupe Constellation), livre trois prédictions pour la cybersécurité en 2027, où l’enjeu ne sera plus d’accumuler les outils mais de concentrer les efforts sur les risques qui menacent…",
-"source": "ZDNet France",
-"date": "2026-11-13T05:11:37+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "ef9c90917489a708",
-"title": "Bien plus qu’une question d’argent",
-"link": "http://www.lequotidiendumedecin.fr/opinions/bien-plus-quune-question-dargent",
-"summary": "Rejeté à l’Assemblée nationale, le projet de loi de financement de la Sécurité sociale (PLFSS) 2027 poursuit son parcours au Sénat.",
-"source": "Le Quotidien du médecin",
-"date": "2026-11-13T05:00:00+00:00",
-"topics": [
-"sante"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "3b8d7732462b6761",
-"title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-"link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-"summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks.",
-"source": "BleepingComputer",
-"date": "2026-11-12T22:53:10+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "674c4b85088a00ce",
-"title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-"link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-"summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware.",
-"source": "BleepingComputer",
-"date": "2026-11-12T22:25:30+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:47:11+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "5e7c3d53ea737937",
-"title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-"link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-"summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update.",
-"source": "BleepingComputer",
-"date": "2026-11-12T19:51:16+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:47:11+00:00",
-"official": false,
-"lang": "en"
 }
 ]
