@@ -1,5 +1,56 @@
 [
 {
+"id": "1151306e586d0437",
+"title": "Pixels de suivi dans les courriels : la CNIL sollicite un premier retour d’expérience sur sa recommandation",
+"link": "https://www.cnil.fr/fr/recommandation-pixels-retour-dexperience",
+"summary": "Le 14 avril 2026, la CNIL a publié sa recommandation sur les pixels de suivi dans les courriels. Elle invite désormais les acteurs concernés, expéditeurs de messages et fournisseurs de solutions, à effectuer un retour d’expérience jusqu’au 3 décembre 2026.",
+"source": "CNIL",
+"date": "2026-11-20T11:45:06+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [
+"Doctrine"
+],
+"added": "2026-11-20T11:45:06+00:00",
+"official": true,
+"lang": "fr"
+},
+{
+"id": "2b4bd7eef4160b85",
+"title": "IA et droit d’auteur : la proposition de loi visant à protéger la création reste enlisée à l’Assemblée",
+"link": "https://www.lemonde.fr/economie/article/2026/11/20/ia-et-droit-d-auteur-la-proposition-de-loi-visant-a-proteger-la-creation-reste-enlisee-a-l-assemblee_6813614_3234.html",
+"summary": "Faute de temps, la proposition de loi de Laure Darcos n’a pas pu être examinée. Elle pourrait être à nouveau présentée aux députés le 4 février 2027 dans la niche du groupe GDR (communistes et ultramarins).",
+"source": "Le Monde – Pixels",
+"date": "2026-11-20T09:30:03+00:00",
+"topics": [
+"numerique"
+],
+"natures": [
+"Texte"
+],
+"added": "2026-11-20T11:45:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "82267ec5e04318a1",
+"title": "La Cnil inflige 5 M€ d’amende à Macif Vie",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTNjM2VPcWFFNVIzQ09EZk52ZzFybF8xMWFRaVdKcHlHbG41TkE0UEdUaEhpM0IyS3A1Yzk2TUwxa3pHZm1qMlBZUmNGMHVZVU9KMmxwLUpQRjJ1dVQ4UFJ6VGJ1Z3JWOWsxaHNVamNGX2t6emQ2LWRDN2M0aEVvQ1NVYXFrdmRQc1NLczBnTERvdXlXN1J1dTFhVWZhck8tUjRRMjNLYkduWndBUGFJd0RnWWlyUmNWOXVDNU5Cc1Rza0xB?oc=5",
+"summary": "",
+"source": "L'Informaticien",
+"date": "2026-11-20T08:42:05+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [
+"Sanction"
+],
+"added": "2026-11-20T11:45:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "c5e24a06d3952b8f",
 "title": "VMware patches vCenter zero-day exploited in attacks since September",
 "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
@@ -1634,36 +1685,6 @@
 "topics": [
 "rgpd",
 "numerique"
-],
-"natures": [],
-"added": "2026-11-14T10:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "fcbdecf6f41d109c",
-"title": "Crédit Mutuel Arkéa : le président décrit une cyberattaque inédite",
-"link": "https://www.silicon.fr/cybersecurite-1371/credit-mutuel-arkea-le-president-decrit-une-cyberattaque-inedite-230275",
-"summary": "Faux IBAN, virements instantanés, cryptos...Julien Carmona, président d’Arkéa, détaille la cyberattaque qui a coûté environ 100 millions € à la banque.",
-"source": "Silicon.fr",
-"date": "2026-11-13T11:06:39+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-14T10:47:11+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "bb537a92743637d9",
-"title": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
-"link": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
-"summary": "Plusieurs services de Microsoft, comme Outlook, Teams ou Copilot, ont connu d’importantes perturbations jeudi et vendredi, ce qui a affecté entreprises et gouvernements à travers le monde.",
-"source": "Le Monde – Pixels",
-"date": "2026-11-13T10:42:43+00:00",
-"topics": [
-"cyber"
 ],
 "natures": [],
 "added": "2026-11-14T10:44:37+00:00",
