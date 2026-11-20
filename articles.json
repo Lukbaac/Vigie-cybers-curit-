@@ -1,5 +1,35 @@
 [
 {
+"id": "c5e24a06d3952b8f",
+"title": "VMware patches vCenter zero-day exploited in attacks since September",
+"link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+"summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026.",
+"source": "BleepingComputer",
+"date": "2026-11-20T00:26:25+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T07:59:38+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "df29d71aedcbd867",
+"title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+"link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+"summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people.",
+"source": "BleepingComputer",
+"date": "2026-11-19T22:25:42+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T07:59:38+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "1977168802e46550",
 "title": "Transport for London breach exposes 265,000 Oyster card users' data",
 "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
@@ -247,6 +277,23 @@
 ],
 "natures": [],
 "added": "2026-11-19T16:44:56+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "eeea3e8611197331",
+"title": "Alexandre Diehl, avocat, Jean-Baptiste Artignan, BlueSecure : NIS2 : après deux ans d’attente, ne faisons pas de la cybersécurité une conformité de plus",
+"link": "https://www.zdnet.fr/tribune/alexandre-diehl-avocat-jean-baptiste-artignan-bluesecure-nis2-apres-deux-ans-dattente-ne-faisons-pas-de-la-cybersecurite-une-conformite-de-plus-508054.htm#xtor=RSS-1",
+"summary": "Deux ans après le délai initial de transposition, la directive NIS2 s’apprête enfin à entrer dans le droit français.",
+"source": "ZDNet France",
+"date": "2026-11-19T05:11:05+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Texte"
+],
+"added": "2026-11-20T07:59:38+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1066,6 +1113,21 @@
 "added": "2026-11-16T16:57:40+00:00",
 "official": false,
 "lang": "en"
+},
+{
+"id": "134432746fe8e237",
+"title": "Emploi IT 2027 : la cybersécurité en tête des priorités",
+"link": "https://www.silicon.fr/emploi-formation-1373/emploi-it-2027-la-cybersecurite-en-tete-des-priorites-230371",
+"summary": "La cybersécurité domine le recrutement Tech en 2027 : les entreprises doivent attirer ces profils très recherchés, mais aussi les retenir.",
+"source": "Silicon.fr",
+"date": "2026-11-16T12:43:54+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T07:59:38+00:00",
+"official": false,
+"lang": "fr"
 },
 {
 "id": "9fa1e59308087ce3",

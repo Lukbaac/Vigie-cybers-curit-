@@ -116,7 +116,7 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Next",
@@ -134,13 +134,13 @@
 "name": "Silicon.fr",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -158,51 +158,60 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
+"new": 2
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 18,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 17,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 37,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 25,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 23,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 41,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 4,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 23,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 13,
+"new": 0
 }
 ]
