@@ -1,5 +1,20 @@
 [
 {
+"id": "0abe4221510a96d0",
+"title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+"link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+"summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application.",
+"source": "BleepingComputer",
+"date": "2026-11-20T17:30:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T17:40:05+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "d7d032c66ae29f22",
 "title": "Windows 11 : une faille permet de contourner l’écran de connexion grâce au Narrateur",
 "link": "https://next.ink/268851/windows-11-une-faille-permet-de-contourner-lecran-de-connexion-grace-au-narrateur/",
@@ -75,6 +90,21 @@
 "lang": "fr"
 },
 {
+"id": "35287c5c06e51e95",
+"title": "FAQ - Certification périodique des médecins",
+"link": "https://www.conseil-national.medecin.fr/medecin/carriere/faq-certification-periodique-medecins",
+"summary": "Retrouvez toutes les informations pratiques relatives à la certification périodique des médecins.",
+"source": "Conseil national de l'Ordre des médecins",
+"date": "2026-11-20T12:34:18+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-20T17:40:05+00:00",
+"official": true,
+"lang": "fr"
+},
+{
 "id": "ab075b0f8cecd2e0",
 "title": "Accès piratés à vendre comme des pains au chocolat",
 "link": "https://www.zataz.com/acces-pirates-a-vendre-comme-des-pains-au-chocolat/",
@@ -86,6 +116,21 @@
 ],
 "natures": [],
 "added": "2026-11-20T16:40:44+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "4c7dec2cc4303190",
+"title": "Ransomware : le FBI piège un arnaqueur qui prétendait pouvoir déchiffrer",
+"link": "https://www.lemagit.fr/actualites/366655114/Ransomware-le-FBI-piege-un-arnaqueur-qui-pretendait-pouvoir-dechiffrer",
+"summary": "Le piège s’est refermé avec l’intervention de deux agents, l’un se faisant passer pour une victime de rançongiciel et l’autre… pour le cybercriminel ayant conduit la prétendue attaque.",
+"source": "LeMagIT",
+"date": "2026-11-20T12:13:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-20T17:40:05+00:00",
 "official": false,
 "lang": "fr"
 },

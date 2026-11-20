@@ -3,7 +3,7 @@
 "name": "CNIL",
 "ok": true,
 "items": 10,
-"new": 2
+"new": 0
 },
 {
 "name": "CEPD (EDPB)",
@@ -20,7 +20,7 @@
 "name": "Commission européenne – Numérique",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "Arcom",
@@ -116,19 +116,19 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Silicon.fr",
@@ -140,7 +140,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 2
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -152,13 +152,13 @@
 "name": "ZATAZ",
 "ok": true,
 "items": 10,
-"new": 4
+"new": 0
 },
 {
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 0
+"new": 1
 },
 {
 "name": "Google Actualités",
@@ -169,25 +169,24 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 69,
+"items": 22,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 100,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 37,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 25,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 26,
+"items": 19,
 "new": 0
 },
 {
@@ -199,14 +198,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 9,
 "new": 0
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 34,
-"new": 0
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
 },
 {
 "name": "Google Actualités",
