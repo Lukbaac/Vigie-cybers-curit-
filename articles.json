@@ -1,5 +1,22 @@
 [
 {
+"id": "37a26f8a998f64f4",
+"title": "Nuisances sonores d'une salle de sport : pas de carence du maire en l'absence de dépassement des seuils réglementaires. Par Christophe Sanson, Avocat.",
+"link": "https://www.village-justice.com/articles/nuisances-sonores-une-salle-sport-pas-carence-maire-absence-depassement-des,60184.html?utm_source=backend&utm_medium=RSS&utm_campaign=RSS_Reseaux",
+"summary": "Un maire saisi par une riveraine des nuisances sonores d'une salle de sport est-il tenu d'agir, lorsque deux études acoustiques concluent au respect des valeurs limites du Code de la santé publique ?",
+"source": "Village de la Justice",
+"date": "2026-11-21T11:30:00+00:00",
+"topics": [
+"sante"
+],
+"natures": [
+"Jurisprudence"
+],
+"added": "2026-11-21T11:33:50+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "0abe4221510a96d0",
 "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
 "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
@@ -1734,82 +1751,6 @@
 ],
 "added": "2026-11-14T16:19:56+00:00",
 "official": false,
-"lang": "fr"
-},
-{
-"id": "5426ef989597f3ab",
-"title": "Convaincre ou manipuler ? L'éthique du numérique à l'épreuve des urnes, le 16 novembre à la CNIL",
-"link": "https://linc.cnil.fr/convaincre-ou-manipuler-lethique-du-numerique-lepreuve-des-urnes-le-16-novembre-la-cnil",
-"summary": "Protection des droits des électeurs, ingérences étrangères… lundi 16 novembre 2026, à partir de 14 h, la CNIL vous invite à son événement dédié aux enjeux éthiques associés aux communications politiques et aux ingérences.",
-"source": "LINC (CNIL)",
-"date": "2026-11-14T10:47:11+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:47:11+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "c0cc639e2bb0d4fc",
-"title": "Ambassades numériques : de la délocalisation des coffres-forts de données souveraines",
-"link": "https://linc.cnil.fr/ambassades-numeriques-de-la-delocalisation-des-coffres-forts-de-donnees-souveraines",
-"summary": "Solutions conçues au départ pour stocker et préserver les données d’un Etat hors de ses frontières géographiques, le concept d’ambassades numériques de données se développe aujourd’hui vers des offres d’infrastructures délocalisées de calcul pour l’IA, soumises au droit local de leur client ou parties prenantes.",
-"source": "LINC (CNIL)",
-"date": "2026-11-14T10:47:11+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:47:11+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "bd22959d70e8fc43",
-"title": "Données de santé : l'analyse du modèle de la UK Biobank",
-"link": "https://linc.cnil.fr/donnees-de-sante-lanalyse-du-modele-de-la-uk-biobank",
-"summary": "Le 14 avril 2026, le Financial Times et le The Guardian révélaient que les données génétiques de plus de 500 000 citoyens britanniques avaient été mises en vente sur la plateforme chinoise Alibaba.",
-"source": "LINC (CNIL)",
-"date": "2026-11-14T10:47:11+00:00",
-"topics": [
-"rgpd",
-"sante"
-],
-"natures": [],
-"added": "2026-11-14T10:47:11+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "917ca45998ef52c9",
-"title": "Flock, l’entreprise de surveillance au cœur des controverses aux Etats-Unis",
-"link": "https://linc.cnil.fr/flock-lentreprise-de-surveillance-au-coeur-des-controverses-aux-etats-unis",
-"summary": "D'un projet d'étudiants à un réseau de 120 000 caméras aux Etats-Unis, le caractère intrusif du système de surveillance développé par Flock Safety soulève de nombreuses protestations dans la population.",
-"source": "LINC (CNIL)",
-"date": "2026-11-14T10:47:11+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:47:11+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "53752f45b2316cbd",
-"title": "IA Agentique : de quoi parle-t-on ?",
-"link": "https://linc.cnil.fr/ia-agentique-de-quoi-parle-t",
-"summary": "L’émergence de l’IA agentique pose d’abord la question de ce qu’on entend par cette terminologie qui, bien qu’ancienne, prend un sens nouveau à l’ère de l’IA générative.",
-"source": "LINC (CNIL)",
-"date": "2026-11-14T10:47:11+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-14T10:47:11+00:00",
-"official": true,
 "lang": "fr"
 }
 ]
