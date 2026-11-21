@@ -163,7 +163,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 26,
+"items": 24,
 "new": 0
 },
 {
@@ -186,9 +186,8 @@
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 22,
-"new": 0
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
 },
 {
 "name": "Google Actualités",
@@ -199,19 +198,18 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 9,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 24,
+"items": 33,
 "new": 0
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 13,
-"new": 0
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
 }
 ]
