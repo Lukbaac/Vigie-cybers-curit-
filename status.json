@@ -31,7 +31,7 @@
 {
 "name": "Sénat – Textes",
 "ok": true,
-"items": 57,
+"items": 56,
 "new": 0
 },
 {
@@ -56,7 +56,7 @@
 "name": "Conseil national de l'Ordre des médecins",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "noyb",
@@ -128,7 +128,7 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Silicon.fr",
@@ -158,12 +158,30 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 22,
+"items": 26,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 23,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 37,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 26,
 "new": 0
 },
 {
@@ -174,42 +192,26 @@
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
-},
-{
-"name": "Google Actualités",
 "ok": true,
-"items": 100,
+"items": 36,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 19,
+"items": 10,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 35,
+"items": 24,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 9,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 15,
+"items": 13,
 "new": 0
 }
 ]
