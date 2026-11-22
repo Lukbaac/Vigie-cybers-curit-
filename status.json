@@ -30,9 +30,8 @@
 },
 {
 "name": "Sénat – Textes",
-"ok": true,
-"items": 56,
-"new": 0
+"ok": false,
+"error": "<urlopen error [Errno 101] Network is unreachable>"
 },
 {
 "name": "CERT-FR – Alertes",
@@ -175,7 +174,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 38,
+"items": 100,
 "new": 0
 },
 {
@@ -187,7 +186,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 23,
+"items": 15,
 "new": 0
 },
 {
@@ -211,7 +210,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 9,
 "new": 0
 }
 ]
