@@ -140,7 +140,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -158,12 +158,12 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 25,
+"items": 24,
 "new": 0
 },
 {
@@ -205,13 +205,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 20,
+"items": 19,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 12,
+"items": 11,
 "new": 0
 }
 ]
