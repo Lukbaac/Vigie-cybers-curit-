@@ -1,5 +1,100 @@
 [
 {
+"id": "b3b24d367146db5d",
+"title": "Les faux téléchargements de GTA 6 pour PC inondent le Web, comment éviter de se faire arnaquer",
+"link": "https://www.zdnet.fr/actualites/les-faux-telechargements-de-gta-6-pour-pc-inondent-le-web-comment-eviter-de-se-faire-arnaquer-508418.htm#xtor=RSS-1",
+"summary": "Les escrocs et les pirates ont inondé Internet de faux liens de téléchargement de GTA VI pour PC. Voici comment vous protéger.",
+"source": "ZDNet France",
+"date": "2026-11-23T11:42:06+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "0904e5bc062a614a",
+"title": "Cyberattaque : la Banque Delubac & Cie déjoue une tentative de fraude mais subit une fuite de données",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-banque-delubac-cie-dejoue-une-tentative-de-fraude-mais-subit-une-fuite-de-donnees",
+"summary": "La Banque Delubac & Cie a été victime d'une intrusion dans ses systèmes d'information, détectée le vendredi 20 novembre.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-23T11:16:34+00:00",
+"topics": [
+"rgpd",
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-23T11:42:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "7e02f5c433912755",
+"title": "Cleverbridge confirme un vol de données bancaires",
+"link": "https://www.zataz.com/cleverbridge-confirme-un-vol-de-donnees-bancaires/",
+"summary": "Cleverbridge confirme un vol de données de cartes bancaires. Une notification détaille les numéros, dates et CVV.",
+"source": "ZATAZ",
+"date": "2026-11-23T10:51:12+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-23T11:42:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "e0f084bdf6edb2c2",
+"title": "Cyberattaque contre AAAEP : 585 000 personnes exposées ?",
+"link": "https://www.zataz.com/cyberattaque-contre-aaaep-585-000-personnes-exposees/",
+"summary": "AAAEP visée par BlackHatSect0r : 585 000 personnes potentiellement concernées, données psychotechniques et appels exposés.",
+"source": "ZATAZ",
+"date": "2026-11-23T10:19:58+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "a0a0e9f9d89514b7",
+"title": "BlackHatSect0r : phishing bancaire, extorsion et industrie",
+"link": "https://www.zataz.com/blackhatsect0r-phishing-bancaire-extorsion-et-industrie/",
+"summary": "BlackHatSect0r associe phishing bancaire, extorsion, destruction de sauvegardes et interfaces industrielles exposées.",
+"source": "ZATAZ",
+"date": "2026-11-23T09:51:37+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "013af1028b39e890",
+"title": "☕️ Le CHU de Guadeloupe est paralysé par une cyberattaque",
+"link": "https://next.ink/brief-article/le-chu-de-guadeloupe-est-paralyse-par-une-cyberattaque/",
+"summary": "Le centre hospitalier universitaire (CHU) de Guadeloupe a activé dimanche 22 novembre son dispositif de gestion de crise, le « plan blanc », suite à une cyberattaque survenue la veille, dans la soirée.",
+"source": "Next",
+"date": "2026-11-23T08:44:14+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "94bf862854f1916e",
 "title": "Gaspard G, youtubeur : « Les règles de la TV, sans les aides de la presse c’est le pire des deux mondes »",
 "link": "https://www.lemonde.fr/idees/article/2026/11/23/gaspard-g-youtubeur-les-regles-de-la-tv-sans-les-aides-de-la-presse-c-est-le-pire-des-deux-mondes_6814347_3232.html",
@@ -44,6 +139,21 @@
 ],
 "natures": [],
 "added": "2026-11-23T06:52:09+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "dfc7f2031a0473f8",
+"title": "SIH data centré : faire de la donnée un levier de transformation et d'innovation avec Docaposte Santé",
+"link": "https://dsih.fr/articles/6472/sih-data-centre-faire-de-la-donnee-un-levier-de-transformation-et-dinnovation-avec-docaposte-sante",
+"summary": "Les systèmes d'information hospitaliers restent souvent fragmentés. Les données de santé, dispersées entre de multiples applications et enfermées dans des environnements propriétaires, demeurent difficiles à partager et à exploiter pleinement.",
+"source": "DSIH",
+"date": "2026-11-23T00:00:00+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -668,6 +778,51 @@
 "lang": "fr"
 },
 {
+"id": "6e320c730dd2c2be",
+"title": "Norwegian DPA fines private individual for credit check and publication of personal data without a lawful basis",
+"link": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-private-individual-for-credit-check-and-publication-of-personal-data_en",
+"summary": "Background information Date of final decision: 16/10/2026 National case Controller: Private individual Legal References: Article 6(1) (Lawfulness of processing) Decision: Administrative fine Key words: Legal basis, Fines, GDPR enforcement, Basic principles Summary of the Decision Origin of the case The Data Protection…",
+"source": "CEPD (EDPB)",
+"date": "2026-11-19T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": true,
+"lang": "en"
+},
+{
+"id": "cbff67bb564b2777",
+"title": "EDPB and DPAs from countries and organisation with EU adequacy decision take stock of progress and set 2027 priorities",
+"link": "https://www.edpb.europa.eu/news/edpb-and-dpas-from-countries-and-organisation-with-eu-adequacy-decision-take-stock-of-progress_en",
+"summary": "Brussels, 19 November - The EDPB met on 17 November with Commissioners and representatives of the Data Protection Authorities (DPAs) from the countries and the international organisation with an EU adequacy decision.",
+"source": "CEPD (EDPB)",
+"date": "2026-11-19T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": true,
+"lang": "en"
+},
+{
+"id": "22caeb072bac9720",
+"title": "The Norwegian Data Protection Authority fines Social Garden AS for publishing personal data without a lawful basis",
+"link": "https://www.edpb.europa.eu/news/the-norwegian-data-protection-authority-fines-social-garden-as-for-publishing-personal-data_en",
+"summary": "Background information Date of final decision: 13/11/2026 Cross-border case One-Stop-Shop Procedure: the decision was taken by national supervisory authorities following the One-Stop-Shop cooperation procedure (OSS) If cross-border, LSA: Norway and CSAs: Sweden, Denmark Controller: Social Garden AS Legal References…",
+"source": "CEPD (EDPB)",
+"date": "2026-11-19T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": true,
+"lang": "en"
+},
+{
 "id": "937f390d6b182cf8",
 "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
 "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
@@ -952,6 +1107,67 @@
 "added": "2026-11-19T16:44:56+00:00",
 "official": true,
 "lang": "fr"
+},
+{
+"id": "2716ce3d71075fa9",
+"title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
+"link": "https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en",
+"summary": "The Italian Data Protection Authority (DPA) received a complaint from a former employee of Techpartner concerning an inadequate response to a request to access personal data processed during employment.",
+"source": "CEPD (EDPB)",
+"date": "2026-11-18T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": true,
+"lang": "en"
+},
+{
+"id": "99834fa440c11f2a",
+"title": "Italian DPA fines Meta EUR 805 million for unlawful access to Facebook users’ photo galleries",
+"link": "https://www.edpb.europa.eu/news/italian-dpa-fines-meta-eur-805-million-for-unlawful-access-to-facebook-users-photo-galleries_en",
+"summary": "Background information Date of final decision: 13/11/2026 National case Controller: Meta Platforms Ireland Limited Decision: Administrative fine, Compliance order Key words: Fines, Online platforms Summary of the Decision Origin of the case The Italian Data Protection Authority (DPA) launched an investigation…",
+"source": "CEPD (EDPB)",
+"date": "2026-11-18T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": true,
+"lang": "en"
+},
+{
+"id": "b185f59079b1fb3b",
+"title": "Italian DPA fines radiology centre and IT provider a combined EUR 28 000 for exposing patient health data",
+"link": "https://www.edpb.europa.eu/news/italian-dpa-fines-radiology-centre-and-it-provider-a-combined-eur-28-000-for-exposing-patient_en",
+"summary": "Background information Date of final decision: 07/10/2026 National case Controller: Centro Radiologico Madonna della Bruna S.r.l.",
+"source": "CEPD (EDPB)",
+"date": "2026-11-18T12:00:00+00:00",
+"topics": [
+"rgpd",
+"sante"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": true,
+"lang": "en"
+},
+{
+"id": "90375370fe14af47",
+"title": "Italian DPA fines Business School EUR 8 000 for unlawful telemarketing and failure to handle data subject request",
+"link": "https://www.edpb.europa.eu/news/italian-dpa-fines-business-school-eur-8-000-for-unlawful-telemarketing-and-failure-to-handle_en",
+"summary": "The Italian Data Protection Authority (DPA) received a report from an individual who had received an unsolicited promotional telephone call from Business School, despite having registered the number in Italy's Public Register of Objections.",
+"source": "CEPD (EDPB)",
+"date": "2026-11-18T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": true,
+"lang": "en"
 },
 {
 "id": "dfbf1b88b06c6818",
@@ -1283,6 +1499,21 @@
 "added": "2026-11-17T16:43:33+00:00",
 "official": true,
 "lang": "fr"
+},
+{
+"id": "65e9cbdf47fc9007",
+"title": "Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
+"link": "https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en",
+"summary": "Background information Date of final decision: 13/11/2026 National case Controller: MTCH Technology Services Limited (“MTCH”) Legal References: Article 15 (Right to access by the data subject) Decision: Administrative fine, Compliance order Key words: GDPR enforcement, Technology, Accountability, Data subjects rights…",
+"source": "CEPD (EDPB)",
+"date": "2026-11-17T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-23T11:42:06+00:00",
+"official": true,
+"lang": "en"
 },
 {
 "id": "976e83af613c79ba",
@@ -1687,39 +1918,6 @@
 "Fuite de données"
 ],
 "added": "2026-11-16T11:54:33+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "5c89d43def699b6f",
-"title": "Les bons réflexes à avoir en cas de fuite de données",
-"link": "https://www.lemonde.fr/pixels/article/2026/11/16/les-bons-reflexes-a-avoir-en-cas-de-fuite-de-donnees_6691437_4408997.html",
-"summary": "« Données personnelles, la grande fuite » (4/9). Impossible d’empêcher les fuites lorsque l’on confie ses données à des administrations ou à des entreprises.",
-"source": "Le Monde – Pixels",
-"date": "2026-11-16T09:00:50+00:00",
-"topics": [
-"rgpd",
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-16T09:15:58+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "36cf08428f5e5c67",
-"title": "Test d’intrusion : ces frameworks agentiques détournés à des fins malveillantes",
-"link": "https://www.lemagit.fr/actualites/366654832/Test-dintrusion-ces-framework-agentiques-detournes-a-des-fins-malveillantes",
-"summary": "Rendu public en juillet, Artex, un framework de test d’intrusion ouvert, agentique et multi-agents, ne cesse de faire de parler de lui, ayant même fait réagir le RSSI monde de Microsoft.",
-"source": "LeMagIT",
-"date": "2026-11-16T08:37:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-16T16:57:40+00:00",
 "official": false,
 "lang": "fr"
 }
