@@ -1,5 +1,83 @@
 [
 {
+"id": "94bf862854f1916e",
+"title": "Gaspard G, youtubeur : « Les règles de la TV, sans les aides de la presse c’est le pire des deux mondes »",
+"link": "https://www.lemonde.fr/idees/article/2026/11/23/gaspard-g-youtubeur-les-regles-de-la-tv-sans-les-aides-de-la-presse-c-est-le-pire-des-deux-mondes_6814347_3232.html",
+"summary": "Le youtubeur Gaspard Guermonprez déplore, dans une tribune au « Monde », le changement de réglementation de l’Arcom en vue de l’élection présidentielle pour son secteur où les algorithmes, rappelle-t-il, sont les véritables maîtres.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-23T05:20:06+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-23T06:52:09+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "6bdca88f72f1458e",
+"title": "Ledger : un pirate piège d’autres pirates avec un faux fichier",
+"link": "https://www.zataz.com/ledger-un-pirate-piege-dautres-pirates-avec-un-faux-fichier/",
+"summary": "Sur un forum pirate, une prétendue nouvelle fuite de données Ledger dissimule un piège. ZATAZ a suivi la manœuvre.",
+"source": "ZATAZ",
+"date": "2026-11-23T01:31:54+00:00",
+"topics": [
+"rgpd",
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-23T06:52:09+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "697d7aa868047634",
+"title": "Cyberattaque à Chambourcy : INC Ransom revendique l’attaque",
+"link": "https://www.zataz.com/cyberattaque-a-chambourcy-inc-ransom-revendique-lattaque/",
+"summary": "Cyberattaque à Chambourcy : INC Ransom revendique l'intrusion. ZATAZ révèle des documents de police municipale exposés.",
+"source": "ZATAZ",
+"date": "2026-11-23T00:36:24+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T06:52:09+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "df630fde76ec3faa",
+"title": "Guadeloupe : le CHU victime d’une « cyberattaque de grande ampleur », le plan blanc déclenché",
+"link": "https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html",
+"summary": "L’activité du centre hospitalier, dont le système d’information et la téléphonie sont très affectés, a été déprogrammée pour « la semaine qui vient » afin de privilégier « la prise en charge des patients déjà présents et des cas les plus urgents », a annoncé son directeur, Eric Guyader.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-22T21:54:51+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T06:52:09+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "e84afceb005f0d48",
+"title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+"link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+"summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices.",
+"source": "BleepingComputer",
+"date": "2026-11-22T18:45:37+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T06:52:09+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "9f2af01a2aa93e76",
 "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
 "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
@@ -1689,50 +1767,5 @@
 "added": "2026-11-17T06:47:09+00:00",
 "official": false,
 "lang": "fr"
-},
-{
-"id": "6e75cbfe4f620a2c",
-"title": "Tous vos appareils Apple doivent être mis à jour dès que possible, voici pourquoi",
-"link": "https://www.zdnet.fr/actualites/tous-vos-appareils-apple-doivent-etre-mis-a-jour-des-que-possible-voici-pourquoi-507927.htm#xtor=RSS-1",
-"summary": "Des mises à jour de sécurité pour les iPhone, iPad, Mac, Apple Watch et Vision Pro viennent d'être déployées.",
-"source": "ZDNet France",
-"date": "2026-11-16T01:11:57+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-16T16:57:40+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "7d8681a3bdbf7fde",
-"title": "Bulletin d'actualité CERTFR-2026-ACT-048 (16 novembre 2026)",
-"link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-048/",
-"summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités.",
-"source": "CERT-FR – Actualités",
-"date": "2026-11-16T00:00:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-16T16:57:40+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "4201db3ac6828cb2",
-"title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-"link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-"summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.",
-"source": "BleepingComputer",
-"date": "2026-11-15T18:29:53+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-16T07:21:22+00:00",
-"official": false,
-"lang": "en"
 }
 ]
