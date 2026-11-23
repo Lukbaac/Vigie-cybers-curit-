@@ -1,5 +1,65 @@
 [
 {
+"id": "f730dbab66d8e95c",
+"title": "☕️ CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+"link": "https://next.ink/brief-article/crowdstrike-va-racheter-zscaler-pour-44-milliards-de-dollars/",
+"summary": "Consolidation en marche dans le secteur de la cybersécurité : l’américain CrowdStrike vient d’annoncer son intention d’acquérir son compatriote et concurrent spécialiste des réseaux, Zscaler.",
+"source": "Next",
+"date": "2026-11-23T12:43:27+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T16:36:50+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "cc96923da82cb146",
+"title": "Courtiers en or piratés, dix personnes mises en examen",
+"link": "https://www.zataz.com/courtiers-en-or-pirates-dix-personnes-mises-en-examen/",
+"summary": "Trois courtiers en métaux précieux piratés, des clients ciblés par de faux policiers et dix personnes mises en examen.",
+"source": "ZATAZ",
+"date": "2026-11-23T12:05:22+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T16:36:50+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "d4bb98af80b2cba8",
+"title": "Trophées des classes 2027 - Ensemble, tous protégés sur Internet !",
+"link": "https://www.cnil.fr/fr/trophees-des-classes-2027",
+"summary": "Le ministère de l’Éducation nationale et la CNIL organisent le concours Trophées des classes dont la thématique, pour cette édition 2027, est : « Comment je sécurise mes données personnelles en ligne ? ».",
+"source": "CNIL",
+"date": "2026-11-23T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-23T16:36:50+00:00",
+"official": true,
+"lang": "fr"
+},
+{
+"id": "13c74830be8d6857",
+"title": "Découvrez les lauréats du concours Trophées des classes 2026 « Comment je protège ma vie privée en ligne ? »",
+"link": "https://www.cnil.fr/fr/trophees-des-classes-2026-laureats",
+"summary": "La CNIL et le ministère de l’Éducation nationale dévoilent les classes gagnantes de l’édition 2026 des « Trophées des classes », un concours pour sensibiliser les élèves à leurs droits numériques et à la citoyenneté en ligne.",
+"source": "CNIL",
+"date": "2026-11-23T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-23T16:36:50+00:00",
+"official": true,
+"lang": "fr"
+},
+{
 "id": "b3b24d367146db5d",
 "title": "Les faux téléchargements de GTA 6 pour PC inondent le Web, comment éviter de se faire arnaquer",
 "link": "https://www.zdnet.fr/actualites/les-faux-telechargements-de-gta-6-pour-pc-inondent-le-web-comment-eviter-de-se-faire-arnaquer-508418.htm#xtor=RSS-1",
@@ -29,6 +89,21 @@
 "Fuite de données"
 ],
 "added": "2026-11-23T11:42:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "1d460438657663c0",
+"title": "Ransomware : les frameworks offensifs agentiques sont entrés dans la danse",
+"link": "https://www.lemagit.fr/actualites/366655137/Ransomware-les-frameworks-offensifs-agentiques-sont-entres-dans-la-danse",
+"summary": "Les cybercriminels ne se contentent plus d’un usage superficiel des modèles d’IA générative : ils ont commencé à s’appuyer sur des frameworks offensifs agentiques tels qu’Artex.",
+"source": "LeMagIT",
+"date": "2026-11-23T10:55:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T16:36:50+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -110,6 +185,21 @@
 "lang": "fr"
 },
 {
+"id": "20330b30a07c4245",
+"title": "Cybersécurité et IA : après sa traversée du désert, la nouvelle vie de Mark Karpelès",
+"link": "https://www.zdnet.fr/actualites/cybersecurite-et-ia-apres-sa-traversee-du-desert-la-nouvelle-vie-de-mark-karpeles-507622.htm#xtor=RSS-1",
+"summary": "Autrefois à la tête de Mt.Gox, le célèbre geek français qui vit au Japon a refait récemment parler de lui en disséquant des implants suspects dans des matériels Ledger.",
+"source": "ZDNet France",
+"date": "2026-11-23T04:11:22+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T16:36:50+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "6bdca88f72f1458e",
 "title": "Ledger : un pirate piège d’autres pirates avec un faux fichier",
 "link": "https://www.zataz.com/ledger-un-pirate-piege-dautres-pirates-avec-un-faux-fichier/",
@@ -154,6 +244,67 @@
 ],
 "natures": [],
 "added": "2026-11-23T11:42:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "ce79458098bca94c",
+"title": "Bulletin d'actualité CERTFR-2026-ACT-049 (23 novembre 2026)",
+"link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-049/",
+"summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités.",
+"source": "CERT-FR – Actualités",
+"date": "2026-11-23T00:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T16:36:50+00:00",
+"official": true,
+"lang": "fr"
+},
+{
+"id": "ad386e0a0b43aa91",
+"title": "Données de santé : la Suisse prépare une architecture fédérée pour connecter ses établissements",
+"link": "https://dsih.fr/articles/6476/donnees-de-sante-la-suisse-prepare-une-architecture-federee-pour-connecter-ses-etablissements",
+"summary": "La Suisse avance dans la construction de son espace national de données de santé. Présenté le 23 novembre dans le cadre du programme DigiSanté, le projet prévoit de faciliter les échanges entre établissements sans centraliser les informations médicales.",
+"source": "DSIH",
+"date": "2026-11-23T00:00:00+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-23T16:36:50+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "fa5ce5cb017f2953",
+"title": "Doctrine du numérique en santé 2027 : l'ANS met le DMP, l'identité numérique et la régulation en concertation",
+"link": "https://dsih.fr/articles/6475/doctrine-du-numerique-en-sante-2027-lans-met-le-dmp-lidentite-numerique-et-la-regulation-en-concertation",
+"summary": "L'Agence du numérique en santé (ANS) a ouvert, le 23 novembre, la concertation sur la doctrine du numérique en santé 2027.",
+"source": "DSIH",
+"date": "2026-11-23T00:00:00+00:00",
+"topics": [
+"numerique",
+"sante"
+],
+"natures": [],
+"added": "2026-11-23T16:36:50+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "7792b732a11b6250",
+"title": "Equasens lance Eqwo, un agenda en ligne intégré au logiciel des cabinets médicaux",
+"link": "https://dsih.fr/articles/6473/equasens-lance-eqwo-un-agenda-en-ligne-integre-au-logiciel-des-cabinets-medicaux",
+"summary": "L'éditeur nancéien Equasens a présenté le 19 novembre Eqwo, une application qui associe prise de rendez-vous en ligne, téléconsultation et échange de documents.",
+"source": "DSIH",
+"date": "2026-11-23T00:00:00+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-23T16:36:50+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1823,101 +1974,6 @@
 ],
 "natures": [],
 "added": "2026-11-16T16:57:40+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "d29e040f404457ab",
-"title": "Fandango says hackers stole payment card details from checkout pages",
-"link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-"summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages.",
-"source": "BleepingComputer",
-"date": "2026-11-16T15:44:21+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-16T16:57:40+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "2e40619c86da1dec",
-"title": "Google warns that fully-automated AI attacks are coming soon",
-"link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-"summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed.",
-"source": "BleepingComputer",
-"date": "2026-11-16T14:00:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-16T16:57:40+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "a1dd8f56b81d84a7",
-"title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-"link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-"summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months.",
-"source": "BleepingComputer",
-"date": "2026-11-16T12:53:18+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-16T16:57:40+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "134432746fe8e237",
-"title": "Emploi IT 2027 : la cybersécurité en tête des priorités",
-"link": "https://www.silicon.fr/emploi-formation-1373/emploi-it-2027-la-cybersecurite-en-tete-des-priorites-230371",
-"summary": "La cybersécurité domine le recrutement Tech en 2027 : les entreprises doivent attirer ces profils très recherchés, mais aussi les retenir.",
-"source": "Silicon.fr",
-"date": "2026-11-16T12:43:54+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T07:59:38+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "9fa1e59308087ce3",
-"title": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
-"link": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
-"summary": "Nearly 1,000 high-level policymakers, start-ups, industry leaders and researchers will take part in the Apply AI Summit in Brussels tomorrow.",
-"source": "Commission européenne – Numérique",
-"date": "2026-11-16T12:43:38+00:00",
-"topics": [
-"numerique"
-],
-"natures": [],
-"added": "2026-11-17T07:59:51+00:00",
-"official": true,
-"lang": "en"
-},
-{
-"id": "bc64708b2da27508",
-"title": "22 millions de personnes concernées, une nouvelle fuite de données XXL en France",
-"link": "https://www.zdnet.fr/actualites/22-millions-de-personnes-concernees-une-nouvelle-fuite-de-donnees-xxl-en-france-507901.htm#xtor=RSS-1",
-"summary": "Le groupe « La Poste » vient de confirmer le piratage d’une de ses filiales à mi-septembre, un incident qui se solde par une fuite de données relative à 22 millions de personnes.",
-"source": "ZDNet France",
-"date": "2026-11-16T11:54:33+00:00",
-"topics": [
-"rgpd",
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-16T11:54:33+00:00",
 "official": false,
 "lang": "fr"
 }
