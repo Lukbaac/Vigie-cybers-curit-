@@ -30,9 +30,8 @@
 },
 {
 "name": "Sénat – Textes",
-"ok": true,
-"items": 54,
-"new": 0
+"ok": false,
+"error": "<urlopen error [Errno 101] Network is unreachable>"
 },
 {
 "name": "CERT-FR – Alertes",
@@ -187,7 +186,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 24,
+"items": 26,
 "new": 0
 },
 {
@@ -198,13 +197,14 @@
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
+"ok": true,
+"items": 10,
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 15,
+"items": 14,
 "new": 0
 },
 {
