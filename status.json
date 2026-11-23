@@ -3,7 +3,7 @@
 "name": "CNIL",
 "ok": true,
 "items": 10,
-"new": 2
+"new": 0
 },
 {
 "name": "CEPD (EDPB)",
@@ -32,7 +32,7 @@
 {
 "name": "Sénat – Textes",
 "ok": true,
-"items": 55,
+"items": 59,
 "new": 0
 },
 {
@@ -45,7 +45,7 @@
 "name": "CERT-FR – Actualités",
 "ok": true,
 "items": 40,
-"new": 1
+"new": 0
 },
 {
 "name": "Cybermalveillance.gouv.fr",
@@ -75,7 +75,7 @@
 "name": "DSIH",
 "ok": true,
 "items": 30,
-"new": 3
+"new": 0
 },
 {
 "name": "Legalis",
@@ -123,13 +123,13 @@
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 2
 },
 {
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Silicon.fr",
@@ -141,7 +141,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -153,7 +153,7 @@
 "name": "ZATAZ",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "BleepingComputer",
@@ -170,7 +170,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 74,
+"items": 27,
 "new": 0
 },
 {
@@ -188,13 +188,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 20,
+"items": 50,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 49,
+"items": 38,
 "new": 0
 },
 {
@@ -212,7 +212,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 16,
+"items": 11,
 "new": 0
 }
 ]

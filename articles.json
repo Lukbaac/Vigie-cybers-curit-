@@ -1,5 +1,20 @@
 [
 {
+"id": "480a1e6c33b41891",
+"title": "DMA : la conformité de façade des géants du numérique épinglée par le BEUC",
+"link": "https://next.ink/269443/dma-la-conformite-de-facade-des-geants-du-numerique-epinglee-par-le-beuc/",
+"summary": "Deux ans et demi après sa mise en route, le règlement sur les marchés numériques (DMA) a encore beaucoup de chemin à parcourir pour rééquilibrer la concurrence dans le paysage numérique européen.",
+"source": "Next",
+"date": "2026-11-23T16:45:15+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-23T17:40:39+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "f730dbab66d8e95c",
 "title": "☕️ CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
 "link": "https://next.ink/brief-article/crowdstrike-va-racheter-zscaler-pour-44-milliards-de-dollars/",
@@ -736,6 +751,21 @@
 "Sanction"
 ],
 "added": "2026-11-20T11:45:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "8c5bfa0f61fb6c97",
+"title": "Windows Server 2028 va durcir sa base et activer Trusted Launch pour les VM",
+"link": "https://next.ink/268563/windows-server-2028-va-durcir-sa-base-et-activer-trusted-launch-pour-les-vm/",
+"summary": "Lors de sa conférence Ignite, Microsoft a lancé la première préversion de Windows Server 2028. Il devrait sortir dans le courant de l’année prochaine et se présente déjà comme un nouveau palier pour la sécurité.",
+"source": "Next",
+"date": "2026-11-20T06:37:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-23T17:40:39+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1912,68 +1942,6 @@
 ],
 "natures": [],
 "added": "2026-11-17T06:47:09+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "bbd8832f61387cff",
-"title": "Expedia : un pirate revendique un vol massif de données",
-"link": "https://www.zataz.com/expedia-un-pirate-revendique-un-vol-massif-de-donnees/",
-"summary": "Expedia confirme une intrusion via un prestataire. Un pirate revendique un vol massif de données de voyageurs.",
-"source": "ZATAZ",
-"date": "2026-11-16T16:57:49+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-16T17:45:35+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "f09e5ead81f2a10f",
-"title": "« Pas plus de 30 % du temps de travail » : l'encadrement de la médecine esthétique fixé par décret",
-"link": "http://www.lequotidiendumedecin.fr/liberal-soins-de-ville/pas-plus-de-30-du-temps-de-travail-lencadrement-de-la-medecine-esthetique-fixe-par-decret",
-"summary": "Comme annoncé fin octobre, et contre l'avis de la profession, un décret publié au JO cette mi-novembre, vient plafonner à 30 % du temps de travail, l’activité esthétique des médecins.",
-"source": "Le Quotidien du médecin",
-"date": "2026-11-16T16:57:19+00:00",
-"topics": [
-"sante"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-21T17:25:22+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "818c060af42855ab",
-"title": "☕️ Reconnaissance faciale : des millions de photos de Palestiniens stockées par Israël chez AWS",
-"link": "https://next.ink/brief-article/reconnaissance-faciale-des-millions-de-photos-de-palestiniens-stockees-par-israel-chez-aws/",
-"summary": "Dès mai 2023, Amnesty International dénonçait la mise en place par Israël d’un énorme système de reconnaissance faciale pour surveiller la population palestinienne.",
-"source": "Next",
-"date": "2026-11-16T16:50:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-16T16:57:40+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "c55d641da89b7429",
-"title": "Quantum Systems : une cyberattaque inquiète l’armée allemande",
-"link": "https://www.zataz.com/quantum-systems-une-cyberattaque-inquiete-larmee-allemande/",
-"summary": "Quantum Systems confirme une cyberattaque. Une possible compromission des mises à jour de drones inquiète l'Allemagne.",
-"source": "ZATAZ",
-"date": "2026-11-16T16:48:18+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-16T16:57:40+00:00",
 "official": false,
 "lang": "fr"
 }
