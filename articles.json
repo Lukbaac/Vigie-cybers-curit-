@@ -1,5 +1,39 @@
 [
 {
+"id": "f1397973b7c60ba0",
+"title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+"link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+"summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data.",
+"source": "BleepingComputer",
+"date": "2026-11-23T20:54:51+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-24T06:41:36+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "f714b48247a9be7f",
+"title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+"link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+"summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs.",
+"source": "BleepingComputer",
+"date": "2026-11-23T18:38:40+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-24T06:41:36+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "480a1e6c33b41891",
 "title": "DMA : la conformité de façade des géants du numérique épinglée par le BEUC",
 "link": "https://next.ink/269443/dma-la-conformite-de-facade-des-geants-du-numerique-epinglee-par-le-beuc/",
@@ -12,6 +46,21 @@
 "natures": [],
 "added": "2026-11-23T17:40:39+00:00",
 "official": false,
+"lang": "fr"
+},
+{
+"id": "ea0c103657712f6d",
+"title": "AlerteCyber : Failles de sécurité critiques dans Microsoft SharePoint",
+"link": "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alertecyber-failles-de-securite-critiques-dans-sharepoint-202607",
+"summary": "Deux failles de sécurité critiques ont été corrigées dans Microsoft SharePoint.",
+"source": "Cybermalveillance.gouv.fr",
+"date": "2026-11-23T14:53:03+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-24T06:41:36+00:00",
+"official": true,
 "lang": "fr"
 },
 {
@@ -108,6 +157,21 @@
 "lang": "fr"
 },
 {
+"id": "92ef118df1b2b244",
+"title": "Web pratique : six paramètres de Chrome à choisir pour améliorer sa navigation",
+"link": "https://www.zdnet.fr/pratique/web-pratique-six-parametres-de-chrome-a-choisir-pour-ameliorer-sa-navigation-508389.htm#xtor=RSS-1",
+"summary": "Pour renforcer la confidentialité et la sécurité, réduire les interruptions et améliorer la productivité, voici les réglages par défaut du navigateur de Google à modifier.",
+"source": "ZDNet France",
+"date": "2026-11-23T11:11:54+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-24T06:41:36+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "1d460438657663c0",
 "title": "Ransomware : les frameworks offensifs agentiques sont entrés dans la danse",
 "link": "https://www.lemagit.fr/actualites/366655137/Ransomware-les-frameworks-offensifs-agentiques-sont-entres-dans-la-danse",
@@ -181,6 +245,21 @@
 ],
 "natures": [],
 "added": "2026-11-23T11:42:06+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "fbb379ecfe79c4e6",
+"title": "Le CHU de la Guadeloupe visé par une attaque par rançongiciel",
+"link": "https://www.zdnet.fr/actualites/le-chu-de-la-guadeloupe-vise-par-une-attaque-par-rancongiciel-508447.htm#xtor=RSS-1",
+"summary": "L’établissement de santé a activé son « Plan blanc » pour faire face à ce piratage informatique. Des données qui ont été chiffrées et un retour au papier.",
+"source": "ZDNet France",
+"date": "2026-11-23T07:11:26+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-24T06:41:36+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1789,160 +1868,5 @@
 "added": "2026-11-17T07:59:51+00:00",
 "official": false,
 "lang": "en"
-},
-{
-"id": "53f800bdf7a6bcfa",
-"title": "Rassemblement National : une seconde fuite de données ?",
-"link": "https://www.zataz.com/rassemblement-national-une-seconde-fuite-de-donnees/",
-"summary": "Un pirate revendique 500 782 nouvelles données du RN à vendre. Il affiche aussi un accés informatique interne.",
-"source": "ZATAZ",
-"date": "2026-11-17T06:29:20+00:00",
-"topics": [
-"rgpd",
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-17T06:47:09+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "50204565d4ff3ec5",
-"title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-"link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-"summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices.",
-"source": "BleepingComputer",
-"date": "2026-11-17T02:12:17+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T06:47:09+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "221c463e3863738c",
-"title": "L'accès à l'IA de votre entreprise peut être vendu pour quelques centimes, méfiez-vous des « LLM Mixers »",
-"link": "https://www.zdnet.fr/actualites/lacces-a-lia-de-votre-entreprise-peut-etre-vendu-pour-quelques-centimes-mefiez-vous-des-llm-mixers-508025.htm#xtor=RSS-1",
-"summary": "Selon Google, des revendeurs clandestins vendent l'accès à des comptes d'IA d'entreprise piratés, dont les frais d'utilisation sont pris en charge par les victimes.",
-"source": "ZDNet France",
-"date": "2026-11-17T02:11:10+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T16:43:33+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "ce17885e33809cf0",
-"title": "Cyberattaque des frigos : « Quand on a des trous de ce niveau, c'est du pénal » tempête le Vice-amiral Arnaud Coustillière",
-"link": "https://www.zdnet.fr/actualites/cyberattaque-des-frigos-quand-on-a-des-trous-de-ce-niveau-cest-du-penal-tempete-le-vice-amiral-arnaud-coustilliere-508017.htm#xtor=RSS-1",
-"summary": "Le commandement de la cyberdéfense pointe l'irresponsabilité du secteur privé après le sabotage de centaines d'équipements frigorifiques.",
-"source": "ZDNet France",
-"date": "2026-11-17T01:11:32+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T16:43:33+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "0651d3d1bc67342b",
-"title": "Transparence de l’IA : les obligations précisées",
-"link": "https://dsih.fr/articles/6467/transparence-de-lia-les-obligations-precisees",
-"summary": "Applicables depuis le 2 août 2026, les obligations de transparence de l’article 50 du règlement (UE) 2024/1689 (« règlement sur l’IA » ou « RIA ») visent les systèmes d’IA interactive, les systèmes générant des contenus de synthèse, les systèmes de reconnaissance des émotions et de catégorisation biométrique, ainsi…",
-"source": "DSIH",
-"date": "2026-11-17T00:00:00+00:00",
-"topics": [
-"numerique"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-17T06:47:09+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "60f99194645fc286",
-"title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-"link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-"summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems.",
-"source": "BleepingComputer",
-"date": "2026-11-16T22:54:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T06:47:09+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "6cd4bc50c4facab1",
-"title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-"link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-"summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation.",
-"source": "BleepingComputer",
-"date": "2026-11-16T21:31:44+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T06:47:09+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "f7229d91014fb235",
-"title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-"link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-"summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations.",
-"source": "BleepingComputer",
-"date": "2026-11-16T20:59:44+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T06:47:09+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "7c8cad55f9e0356f",
-"title": "Quelle riposte pour la France après la cyberattaque contre les réfrigérateurs de supermarché attribuée à l’Iran ?",
-"link": "https://www.lemonde.fr/international/article/2026/11/16/quelle-riposte-pour-la-france-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-attribuee-a-l-iran_6812232_3210.html",
-"summary": "La décision d’imputer à l’Iran la cyberattaque de près de 700 grandes surfaces dans la nuit du 11 au 12 octobre s’inscrit dans une stratégie précise de Paris.",
-"source": "Le Monde – Pixels",
-"date": "2026-11-16T17:52:41+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T06:47:09+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "526d02bb6dcc0a44",
-"title": "Maersk : un pirate réclame 5 millions de dollars",
-"link": "https://www.zataz.com/maersk-un-pirate-reclame-5-millions-de-dollars/",
-"summary": "WhiteArmor exige 5 millions de dollars après une intrusion chez Maersk. Le groupe confirme un incident... limité.",
-"source": "ZATAZ",
-"date": "2026-11-16T17:50:58+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T06:47:09+00:00",
-"official": false,
-"lang": "fr"
 }
 ]
