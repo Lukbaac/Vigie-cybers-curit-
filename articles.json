@@ -1,5 +1,51 @@
 [
 {
+"id": "e28629147e40640b",
+"title": "GLM-5.4 avec Loop Transformer : Z.ai propose un modèle pour le code plus généraliste",
+"link": "https://next.ink/269432/glm-5-4-avec-loop-transformer-z-ai-propose-un-modele-pour-le-code-plus-generaliste/",
+"summary": "Après avoir titillé les plates-bandes de Mythos du côté de la cybersécurité avec son modèle GLM-5.2, l’entreprise chinoise Z.ai propose un nouveau modèle, GLM-5.4, annoncé comme étant plus généraliste concernant le code.",
+"source": "Next",
+"date": "2026-11-24T07:45:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-24T08:08:55+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "e7cbef2269dca3a4",
+"title": "Malgré le DMA, WebKit reste le seul moteur des rivaux de Safari en Europe",
+"link": "https://next.ink/269516/malgre-le-dma-webkit-reste-le-seul-moteur-des-rivaux-de-safari-en-europe/",
+"summary": "S’il est possible de changer de navigateur web par défaut sur un iPhone ou un iPad, les rivaux de Safari doivent toujours composer avec WebKit d’Apple alors que le règlement sur les marchés numériques rend possible l’utilisation d’un autre moteur web.",
+"source": "Next",
+"date": "2026-11-24T06:44:45+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-24T08:08:55+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "562fd960e27691a4",
+"title": "Le CHU de Nice obtient les certifications ISO 27001 et HDS pour la protection des données de santé",
+"link": "https://dsih.fr/articles/6479/le-chu-de-nice-obtient-les-certifications-iso-27001-et-hds-pour-la-protection-des-donnees-de-sante",
+"summary": "Le Centre hospitalier universitaire (CHU) de Nice franchit une nouvelle étape dans sa stratégie de sécurisation des données de santé en obtenant les certifications ISO 27001 et Hébergeur de Données de Santé (HDS).",
+"source": "DSIH",
+"date": "2026-11-24T00:00:00+00:00",
+"topics": [
+"rgpd",
+"sante"
+],
+"natures": [],
+"added": "2026-11-24T08:08:55+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "f1397973b7c60ba0",
 "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
 "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
@@ -1834,38 +1880,6 @@
 "Fuite de données"
 ],
 "added": "2026-11-17T11:37:42+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "8093d6fa14bc1f20",
-"title": "Cyberattaque : 765 000 euros d’or dérobés à des clients",
-"link": "https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/",
-"summary": "Une entreprise parisienne spécialisée dans l’achat et la vente d’or a subi une cyberattaque ayant exposé les informations personnelles et commerciales de nombreux clients.",
-"source": "ZATAZ",
-"date": "2026-11-17T07:47:16+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-17T07:59:51+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "d51a92f2bc9a5405",
-"title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-"link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-"summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks.",
-"source": "BleepingComputer",
-"date": "2026-11-17T07:25:44+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T07:59:51+00:00",
 "official": false,
 "lang": "en"
 }
