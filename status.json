@@ -3,7 +3,7 @@
 "name": "CNIL",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "CEPD (EDPB)",
@@ -15,7 +15,7 @@
 "name": "LINC (CNIL)",
 "ok": true,
 "items": 10,
-"new": 2
+"new": 0
 },
 {
 "name": "Commission européenne – Numérique",
@@ -123,13 +123,13 @@
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 2
+"new": 0
 },
 {
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Silicon.fr",
@@ -147,7 +147,7 @@
 "name": "Le Monde Informatique – Sécurité",
 "ok": true,
 "items": 15,
-"new": 1
+"new": 0
 },
 {
 "name": "ZATAZ",
@@ -159,24 +159,18 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 2
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 24,
+"items": 19,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 39,
+"items": 75,
 "new": 0
 },
 {
@@ -188,7 +182,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 47,
+"items": 23,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 13,
 "new": 0
 },
 {
@@ -200,19 +200,19 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 9,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 25,
+"items": 19,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 16,
 "new": 0
 }
 ]
