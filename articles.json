@@ -1,5 +1,125 @@
 [
 {
+"id": "26f75b91b1605293",
+"title": "La fabrique des IA open source",
+"link": "https://linc.cnil.fr/la-fabrique-des-ia-open-source",
+"summary": "La récente levée de fonds de Mistra l AI, largement mise en avant dans les médias français, rappelle que l’open source demeure un mode de production stratégique dans l’industrie de l’intelligence artificielle.",
+"source": "LINC (CNIL)",
+"date": "2026-11-24T16:46:43+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-24T16:46:43+00:00",
+"official": true,
+"lang": "fr"
+},
+{
+"id": "ec87db216ebde29d",
+"title": "[Privacy Research Day 2026] Retours sur les ateliers",
+"link": "https://linc.cnil.fr/privacy-research-day-2026-retours-sur-les-ateliers",
+"summary": "Comme lors des éditions précédentes, la journée suivant le Privacy Research Day est l’occasion de présenter les activités de la CNIL et d’échanger avec les intervenants de la conférence lors d’une série d’ateliers.",
+"source": "LINC (CNIL)",
+"date": "2026-11-24T16:46:43+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-24T16:46:43+00:00",
+"official": true,
+"lang": "fr"
+},
+{
+"id": "69757cce2fc9976e",
+"title": "GTA VI démarre sur PC avant même l’annonce d’un portage officiel",
+"link": "https://next.ink/269712/gta-vi-demarre-sur-pc-avant-meme-lannonce-dun-portage-officiel/",
+"summary": "GTA VI démarre sur PC avant même l’annonce d’un portage officiel\nGTA VI sur les consoles fait saliver d’envie tous les joueurs PC.",
+"source": "Next",
+"date": "2026-11-24T16:42:58+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-24T16:46:43+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "03b5c8a2ae7b4c48",
+"title": "☕️ Avec Claude Ship, Anthropic s’attaque à la correction automatique des pull requests",
+"link": "https://next.ink/brief-article/avec-claude-ship-anthropic-sattaque-a-la-correction-automatique-des-pull-requests/",
+"summary": "Anthropic a annoncé ce 23 novembre un nouvel outil dans sa flotte de services Claude : Ship. Il est chargé de prendre en charge ce qui se passe après l’ouverture d’une demande de fusion (pull request) sur GitHub.",
+"source": "Next",
+"date": "2026-11-24T16:21:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-24T16:46:43+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "5ba708d91b205e45",
+"title": "Hackers compromise Check Point Servers in 22 organizations",
+"link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+"summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations.",
+"source": "BleepingComputer",
+"date": "2026-11-24T16:15:23+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-24T16:46:43+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "e94ac3e9d5200e65",
+"title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+"link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+"summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services.",
+"source": "BleepingComputer",
+"date": "2026-11-24T13:34:23+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-24T16:46:43+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "f8c1236b452bad3f",
+"title": "Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?",
+"link": "https://www.cnil.fr/fr/acteurs-secteur-livraison-responsabilites",
+"summary": "Dans le cadre de leurs activités, les professionnels de la livraison sont amenés à traiter des données personnelles.",
+"source": "CNIL",
+"date": "2026-11-24T12:00:00+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-24T16:46:43+00:00",
+"official": true,
+"lang": "fr"
+},
+{
+"id": "9363ed0d48037356",
+"title": "Cybersécurité : des failles Bluetooth permettent de contrôler à distance les freins de remorques",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-des-failles-bluetooth-permettent-de-controler-a-distance-les-freins-de-remorques",
+"summary": "Des chercheurs en cybersécurité ont découvert plusieurs vulnérabilités critiques dans les contrôleurs de freinage Bluetooth du fabricant australien Elecbrakes.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-24T11:45:01+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-24T16:46:43+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "de96bd7ef612ae52",
 "title": "IA et Cybersécurité : les entreprises contraintes de revoir leur priorités",
 "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/la-bataille-des-priorites-dans-les-budgets-it",
@@ -41,6 +161,21 @@
 ],
 "natures": [],
 "added": "2026-11-24T11:45:02+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "b57dcc279e654f02",
+"title": "Cyberattaques en Norvège : une vulnérabilité affectait Microsoft API Manager",
+"link": "https://www.lemagit.fr/actualites/366655435/Cyberattaques-en-Norvege-une-vulnerabilite-affectait-Microsoft-API-Manager",
+"summary": "La semaine dernière, deux énergéticiens norvégiens se déclaraient victimes d’une cyberattaque. La menace a été rapidement identifiée.",
+"source": "LeMagIT",
+"date": "2026-11-24T09:49:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-24T16:46:43+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1791,125 +1926,5 @@
 "added": "2026-11-17T17:43:35+00:00",
 "official": false,
 "lang": "fr"
-},
-{
-"id": "beab35504d1db430",
-"title": "Journée de l'Ordre : le Cnom réaffirme son engagement total dans la lutte contre les VSS",
-"link": "http://www.lequotidiendumedecin.fr/sante-societe/journee-de-lordre-le-cnom-reaffirme-son-engagement-total-dans-la-lutte-contre-les-vss",
-"summary": "Le Conseil national de l'Ordre des médecins tenait ce mardi 17 novembre une de ses traditionnelles Journées de réflexion.",
-"source": "Le Quotidien du médecin",
-"date": "2026-11-17T16:31:15+00:00",
-"topics": [
-"sante"
-],
-"natures": [],
-"added": "2026-11-17T16:43:33+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "7aef45b088c702ac",
-"title": "Sécurité : Google et Anthropic vont dévoiler les détails des failles après 30 jours",
-"link": "https://next.ink/268034/securite-google-et-anthropic-vont-devoiler-les-details-des-failles-apres-30-jours/",
-"summary": "À quelques jours d’intervalle, Google Project Zero et Anthropic ont annoncé un raccourcissement net de leurs délais de divulgation coordonnée.",
-"source": "Next",
-"date": "2026-11-17T16:23:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-18T16:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "4441fcdd8b45931f",
-"title": "[MàJ] NVIDIA prépare l’après-Jensen Huang et renforce ses contrôles",
-"link": "https://next.ink/268087/nvidia-prepare-lapres-jensen-huang-et-renforce-ses-controles/",
-"summary": "Alors que se profilent les résultats de son troisième trimestre, le conseil d’administration de NVIDIA n’aurait aucunement l’intention de faire revenir Jensen Huang au poste de directeur général.",
-"source": "Next",
-"date": "2026-11-17T15:30:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-19T16:44:56+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "86cd6a8c5d2a71f2",
-"title": "☕️ Vente de produits illégaux : Bruxelles menace Temu de nouvelles sanctions",
-"link": "https://next.ink/brief-article/vente-de-produits-illegaux-bruxelles-menace-temu-de-nouvelles-sanctions/",
-"summary": "La Commission européenne a averti mardi 17 novembre que le géant chinois du e-commerce Temu s’exposait à de nouvelles sanctions en vertu du règlement sur les services numériques (DSA).",
-"source": "Next",
-"date": "2026-11-17T15:07:00+00:00",
-"topics": [
-"numerique"
-],
-"natures": [],
-"added": "2026-11-17T16:43:33+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "148f7e8fc320b8f8",
-"title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-"link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-"summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.",
-"source": "BleepingComputer",
-"date": "2026-11-17T15:01:11+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T16:43:33+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "dd2e9811b89f9ce2",
-"title": "Orange Ventures lève 250 millions € pour l’IA et la cybersécurité",
-"link": "https://www.silicon.fr/business-1367/orange-ventures-leve-250-millions-e-pour-lia-et-la-cybersecurite-230452",
-"summary": "Orange Ventures reçoit 250 millions € supplémentaires pour accélérer ses investissements dans les startups de l’IA et de la cybersécurité d’ici 2032.",
-"source": "Silicon.fr",
-"date": "2026-11-17T12:46:23+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-17T16:43:33+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "1ad4a59c104b5291",
-"title": "La CNIL a prononcé 38 nouvelles sanctions en procédure simplifiée depuis juin 2026",
-"link": "https://www.cnil.fr/fr/38-sanctions-simplifiees",
-"summary": "Cookies, sécurité des données, prospection commerciale, non-coopération : entre juin et octobre 2026, la CNIL a prononcé 38 nouvelles sanctions dans le cadre de la procédure simplifiée, dont 23 ont pour origine des plaintes.",
-"source": "CNIL",
-"date": "2026-11-17T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-17T16:43:33+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "65e9cbdf47fc9007",
-"title": "Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
-"link": "https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en",
-"summary": "Background information Date of final decision: 13/11/2026 National case Controller: MTCH Technology Services Limited (“MTCH”) Legal References: Article 15 (Right to access by the data subject) Decision: Administrative fine, Compliance order Key words: GDPR enforcement, Technology, Accountability, Data subjects rights…",
-"source": "CEPD (EDPB)",
-"date": "2026-11-17T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-23T11:42:06+00:00",
-"official": true,
-"lang": "en"
 }
 ]
