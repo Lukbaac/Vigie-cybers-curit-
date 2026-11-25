@@ -1,5 +1,67 @@
 [
 {
+"id": "3bc6f96dec950b6c",
+"title": "Hackers reportedly breached CIA intelligence analysis system",
+"link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+"summary": "​Unknown attackers have reportedly breached an open-source intelligence (OSINT) analysis system at the US Central Intelligence Agency (CIA), according to a source familiar with the matter.",
+"source": "BleepingComputer",
+"date": "2026-11-25T07:45:03+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-25T08:14:32+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "0c55f9c844ada926",
+"title": "Cyberattaques dopées à l’IA : IBM appelle les entreprises à anticiper les défaillances",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-dopees-a-l-ia-ibm-appelle-les-entreprises-a-anticiper-les-defaillances",
+"summary": "Face à l’accélération des cyberattaques liée à l’intelligence artificielle, les entreprises doivent revoir leurs stratégies de cybersécurité.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-25T07:30:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-25T08:14:32+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "a6adbf24fd083c5b",
+"title": "Cyberattaque contre Ipsos : le groupe Qilin revendique un vol de données sensibles",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-ipsos-le-groupe-qilin-revendique-un-vol-de-donnees-sensibles",
+"summary": "Le groupe de cybercriminels Qilin revendique une attaque contre Ipsos et affirme détenir des documents commerciaux appartenant au spécialiste français des études de marché.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-25T07:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-25T08:14:32+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "1933e8aeee0dc7f6",
+"title": "Collectivités territoriales : la cybersécurité passe par la mutualisation des moyens",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/collectivites-territoriales-la-cybersecurite-passe-par-la-mutualisation-des-moyens",
+"summary": "Les petites communes peinent encore à disposer des compétences et des ressources nécessaires pour protéger leurs systèmes d'information.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-25T07:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-25T08:14:32+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "e79fa65cb8e70ff0",
 "title": "« GTA VI » piraté : comment des hackeurs assistés par IA font la course pour adapter le jeu vidéo sur PC",
 "link": "https://www.lemonde.fr/pixels/article/2026/11/24/gta-vi-pirate-comment-des-hackeurs-assistes-par-ia-font-la-course-pour-adapter-le-jeu-video-sur-pc_6814851_4408996.html",
