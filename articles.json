@@ -473,6 +473,23 @@
 "lang": "fr"
 },
 {
+"id": "99b2b6fb2ff4861d",
+"title": "PLFSS 2027 : ce que le Sénat veut changer pour la médecine de ville",
+"link": "http://www.lequotidiendumedecin.fr/liberal-soins-de-ville/plfss-2027-ce-que-le-senat-veut-changer-pour-la-medecine-de-ville",
+"summary": "Mission de solidarité territoriale, forfaitisation dans les centres de santé, pénalité contre les rendez-vous non honorés, nouvelles possibilités de prescription pour les biologistes : le texte adopté en première lecture par le Sénat comporte plusieurs dispositions concernant l’organisation des soins ambulatoires.",
+"source": "Le Quotidien du médecin",
+"date": "2026-11-23T16:14:40+00:00",
+"topics": [
+"sante"
+],
+"natures": [
+"Texte"
+],
+"added": "2026-11-25T17:30:50+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "ea0c103657712f6d",
 "title": "AlerteCyber : Failles de sécurité critiques dans Microsoft SharePoint",
 "link": "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alertecyber-failles-de-securite-critiques-dans-sharepoint-202607",
@@ -1725,23 +1742,5 @@
 "added": "2026-11-19T06:43:10+00:00",
 "official": false,
 "lang": "en"
-},
-{
-"id": "6f28fc75fce272a9",
-"title": "☕️ Chargemap signale un vol de données suite à une attaque informatique",
-"link": "https://next.ink/brief-article/chargemap-signale-un-vol-de-donnees-suite-a-une-attaque-informatique/",
-"summary": "Chargemap, éditeur d’un service de planification d’itinéraires pour véhicules électriques et d’un pass dédié au paiement des recharges, a signalé mercredi 18 novembre avoir été victime d’une cyberattaque ayant entraîné l’accès à des données personnelles de ses utilisateurs et clients.",
-"source": "Next",
-"date": "2026-11-18T16:54:01+00:00",
-"topics": [
-"rgpd",
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-18T17:39:28+00:00",
-"official": false,
-"lang": "fr"
 }
 ]
