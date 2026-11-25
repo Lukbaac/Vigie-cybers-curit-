@@ -31,8 +31,9 @@
 },
 {
 "name": "Sénat – Textes",
-"ok": false,
-"error": "<urlopen error [Errno 101] Network is unreachable>"
+"ok": true,
+"items": 59,
+"new": 0
 },
 {
 "name": "CERT-FR – Alertes",
@@ -56,7 +57,7 @@
 "name": "Conseil national de l'Ordre des médecins",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "noyb",
@@ -122,7 +123,7 @@
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "LeMagIT",
@@ -145,8 +146,8 @@
 {
 "name": "Le Monde Informatique – Sécurité",
 "ok": true,
-"items": 18,
-"new": 0
+"items": 19,
+"new": 1
 },
 {
 "name": "ZATAZ",
@@ -158,18 +159,6 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 72,
 "new": 0
 },
 {
@@ -181,20 +170,32 @@
 {
 "name": "Google Actualités",
 "ok": true,
+"items": 25,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
 "items": 100,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 43,
+"items": 21,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 44,
+"items": 49,
 "new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 30,
+"new": 2
 },
 {
 "name": "Google Actualités",
@@ -205,13 +206,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 24,
+"items": 22,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 14,
 "new": 0
 }
 ]

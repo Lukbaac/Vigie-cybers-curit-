@@ -1,5 +1,20 @@
 [
 {
+"id": "58fcdda1dda283b2",
+"title": "Black Friday : les cybermenaces dopées à l'IA mettent les distributeurs sous pression",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/black-friday-les-cybermenaces-dopees-a-l-ia-mettent-les-distributeurs-sous-pression",
+"summary": "À l'approche du Black Friday, les enseignes doivent se préparer à une hausse des attaques visant leurs sites, leurs comptes clients et leurs infrastructures de paiement.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-25T15:40:12+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-25T16:46:40+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "dab3278ad1a49e11",
 "title": "Souveraineté numérique cyber : peut-être une priorité, mais pas encore une réalité",
 "link": "https://www.zdnet.fr/actualites/souverainete-numerique-du-cyber-une-priorite-mais-pas-encore-une-realite-508566.htm#xtor=RSS-1",
@@ -118,6 +133,21 @@
 ],
 "natures": [],
 "added": "2026-11-25T08:14:32+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "8f45124badd8a0b9",
+"title": "Alexandra Bejan, Synology France : Cyberattaque contre un hôpital : la continuité des soins se prépare aussi dans les systèmes informatiques",
+"link": "https://www.zdnet.fr/tribune/alexandra-bejan-synology-france-cyberattaque-contre-un-hopital-la-continuite-des-soins-se-prepare-aussi-dans-les-systemes-informatiques-508507.htm#xtor=RSS-1",
+"summary": "Après la cyberattaque ayant forcé le CHU de Guadeloupe à déclencher son plan blanc, Alexandra Bejan, Marketing Director chez Synology France, détaille les leviers de résilience : maîtrise des prestataires, sauvegardes immuables et tests réguliers de reprise d'activité.",
+"source": "ZDNet France",
+"date": "2026-11-25T05:11:11+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-25T16:46:40+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1352,6 +1382,23 @@
 "lang": "fr"
 },
 {
+"id": "77a9f0bdc2b2ca9d",
+"title": "1,8 million de mots de passe en clair : la CNIL inflige 5 M€ d'amende à la Macif",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkdKdDVFODlZbV9jbE1Uc09wVEUzaWNVcTBpdUtzZlREem5PMW0tZVpES0xacXpka0lTSUtLR0JyaF9FRlR4VGtfWUZhUVRmbDdpUm9JYUlKd0hsMTBvNUpPY3BRQnpVWTVCemdOb3NodU13aXBDT1pkQXBqc3Q1dkNsanlCNkJ6STBXQTZIQzVFbnoyN0lZMGlGTmV6LXRINlpXdnZjWjlUTm1kbjd2WUh1SURXSXlTWlZV?oc=5",
+"summary": "",
+"source": "ZDNET",
+"date": "2026-11-19T16:45:23+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [
+"Sanction"
+],
+"added": "2026-11-25T16:46:40+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "b5214b53b356c85f",
 "title": "Soumission chimique : mieux repérer, prendre en charge et accompagner les victimes",
 "link": "http://www.lequotidiendumedecin.fr/sante-societe/soumission-chimique-mieux-reperer-prendre-en-charge-et-accompagner-les-victimes",
@@ -1554,6 +1601,23 @@
 "lang": "fr"
 },
 {
+"id": "d97ab1b0bad7279b",
+"title": "Données personnelles : la Cnil inflige une amende de cinq millions d’euros à la Macif",
+"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMTFnQWtQRzlZa1dYbGtQdU43QUJrNWdiSi1UZTU0Z3FzenAzbTA0d1RiVVNDTHRpbjFKMUUway03Xy1kcW5LN1A0UWoxcGdiLUVyaWNKakhWRHl0dUgyMmtYQnJmSnIyMUNnOWJrMUFnVUEza3puaWRhM1F5U3VTRUxmek56X1M2cjExeEdxMzJWeHUzbWM3RVZZTGEzRUJIdWtVeldIc2FoaUZjUTlwMkgwUzVSOE5OdmVWWDRaTFhrZ1FzMFF2WjZyYlVyajE0Vk9SSFRYblQ5ZFVMWlJjSTUxYmtON2NpNzdYRnJlU0xxRm1rbzNSYVRaV3ZSemk3RDFydlE3ZUJQQQ?oc=5",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-19T09:36:34+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [
+"Sanction"
+],
+"added": "2026-11-25T16:46:40+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "11d88008050a8a39",
 "title": "☕️ Présidentielle : VIGINUM publie un guide à destination des équipes de campagne",
 "link": "https://next.ink/brief-article/presidentielle-viginum-publie-un-guide-a-destination-des-equipes-de-campagne/",
@@ -1679,163 +1743,5 @@
 "added": "2026-11-18T17:39:28+00:00",
 "official": false,
 "lang": "fr"
-},
-{
-"id": "2a52192c30c1db4f",
-"title": "Données personnelles : la Macif condamnée par la CNIL à une amende de 5 millions d’euros pour des manquements à la sécurité",
-"link": "https://www.lemonde.fr/pixels/article/2026/11/18/donnees-personnelles-la-macif-condamnee-par-la-cnil-a-une-amende-de-5-millions-d-euros-pour-des-manquements-a-la-securite_6813157_4408996.html",
-"summary": "L’autorité de protection des données a relevé des manquements à la sécurité des données personnelles de ses clients, dont la conservation de mots de passe en clair et des durées excessives de stockage de certaines données.",
-"source": "Le Monde – Pixels",
-"date": "2026-11-18T15:47:11+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [
-"Sanction",
-"Jurisprudence"
-],
-"added": "2026-11-18T16:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "18f4fb6a6a8dc835",
-"title": "Cloud « souverain » : en Europe, Google s’en remet à Thales, S3NS et ses partenaires",
-"link": "https://www.lemagit.fr/actualites/366654876/Cloud-souverain-en-Europe-Google-sen-remet-a-Thales-S3NS-et-ses-partenaires",
-"summary": "Lors de son AI Sovereign Summit, le géant du cloud américain a vanté une vision pragmatique de la souveraineté numérique.",
-"source": "LeMagIT",
-"date": "2026-11-18T14:56:00+00:00",
-"topics": [
-"numerique"
-],
-"natures": [],
-"added": "2026-11-19T06:43:10+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "70787e161942fbeb",
-"title": "PLFSS 2027 : Le Sénat ressort la « taxe lapin » de son terrier, y survivra-t-elle ?",
-"link": "http://www.lequotidiendumedecin.fr/sante-societe/plfss-2027-le-senat-ressort-la-taxe-lapin-de-son-terrier-y-survivra-t-elle",
-"summary": "Le Sénat a adopté en début de semaine le principe d'une « taxe lapin » visant à responsabiliser les patients qui n'honorent pas leurs rendez-vous médicaux.",
-"source": "Le Quotidien du médecin",
-"date": "2026-11-18T14:32:46+00:00",
-"topics": [
-"sante"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-18T16:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "7b056027c5bf1469",
-"title": "La Cnil inflige une amende de 5 millions d'euros à l'assureur Macif Vie \"en raison de l'insuffisance des mesures prises pour la sécurité des données\"",
-"link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSFV6Y3V0YlpWX2d4TWJoandyZXhleU5iNHo4ME1QWmZ6cW8tYXRicEZ4cS1uaWlpZWh3R0d0SmZRMXJFOExFNlBIb3hVTGtjb3h2TThBRXZCWTNERGFPOVZzYVNmNjgtX2t6VV9TYjVzeTFqS1lOZlZGN3ByeUlUNDdoMXBLR0Z6Z05SeVZKT3lkTVJ0WU9HY2NWTDR2aFNaUEp3a3NOOU8yNGNhMWNvaVVsTzZ0SXJRWnR5OG5oX3B1eGNLcGlZMGRCZ1k2Z1QxYU5sRElQelNHR1hCVUlYb1hYalhIanNBN2RGZlNPNzJINms3OXc2cGRUTGQxdmd1U192N05xbU9ndS1CYXdRY21oVmgzOGpQNm1ZaVdaeXpHZkNHUjhxVzJ3WVBPUmRzWWQzcF81RlVWVDVnVm1KU1IwUWV1cVVTZ0ppQ0JqTEQ?oc=5",
-"summary": "",
-"source": "franceinfo",
-"date": "2026-11-18T13:00:32+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [
-"Sanction"
-],
-"added": "2026-11-18T16:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "4fd53e5037d21554",
-"title": "Ransomware : coup de filet contre les anciens de Conti",
-"link": "https://www.lemagit.fr/actualites/366654897/Ransomware-coup-de-filet-contre-les-anciens-de-Conti",
-"summary": "La police ukrainienne vient d’arrêter quatre cybercriminels qu’elle présente comme précédemment liés aux activités du groupe de rançongiciels Conti.",
-"source": "LeMagIT",
-"date": "2026-11-18T12:38:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-19T06:43:10+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "3898d22047068d2e",
-"title": "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
-"link": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
-"summary": "Alors que près d’un jeune sur deux se confie à une IA sur des sujets intimes, avec le livret « La Voix des jeunesses », le Groupe VYV, premier acteur mutualiste de santé et de protection sociale en France, et la CNIL croisent enquête européenne, témoignages, et expertises pour éclairer les enjeux de santé mentale et…",
-"source": "CNIL",
-"date": "2026-11-18T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-19T16:44:56+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "2716ce3d71075fa9",
-"title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
-"link": "https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en",
-"summary": "The Italian Data Protection Authority (DPA) received a complaint from a former employee of Techpartner concerning an inadequate response to a request to access personal data processed during employment.",
-"source": "CEPD (EDPB)",
-"date": "2026-11-18T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-23T11:42:06+00:00",
-"official": true,
-"lang": "en"
-},
-{
-"id": "99834fa440c11f2a",
-"title": "Italian DPA fines Meta EUR 805 million for unlawful access to Facebook users’ photo galleries",
-"link": "https://www.edpb.europa.eu/news/italian-dpa-fines-meta-eur-805-million-for-unlawful-access-to-facebook-users-photo-galleries_en",
-"summary": "Background information Date of final decision: 13/11/2026 National case Controller: Meta Platforms Ireland Limited Decision: Administrative fine, Compliance order Key words: Fines, Online platforms Summary of the Decision Origin of the case The Italian Data Protection Authority (DPA) launched an investigation…",
-"source": "CEPD (EDPB)",
-"date": "2026-11-18T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-23T11:42:06+00:00",
-"official": true,
-"lang": "en"
-},
-{
-"id": "b185f59079b1fb3b",
-"title": "Italian DPA fines radiology centre and IT provider a combined EUR 28 000 for exposing patient health data",
-"link": "https://www.edpb.europa.eu/news/italian-dpa-fines-radiology-centre-and-it-provider-a-combined-eur-28-000-for-exposing-patient_en",
-"summary": "Background information Date of final decision: 07/10/2026 National case Controller: Centro Radiologico Madonna della Bruna S.r.l.",
-"source": "CEPD (EDPB)",
-"date": "2026-11-18T12:00:00+00:00",
-"topics": [
-"rgpd",
-"sante"
-],
-"natures": [],
-"added": "2026-11-23T11:42:06+00:00",
-"official": true,
-"lang": "en"
-},
-{
-"id": "90375370fe14af47",
-"title": "Italian DPA fines Business School EUR 8 000 for unlawful telemarketing and failure to handle data subject request",
-"link": "https://www.edpb.europa.eu/news/italian-dpa-fines-business-school-eur-8-000-for-unlawful-telemarketing-and-failure-to-handle_en",
-"summary": "The Italian Data Protection Authority (DPA) received a report from an individual who had received an unsolicited promotional telephone call from Business School, despite having registered the number in Italy's Public Register of Objections.",
-"source": "CEPD (EDPB)",
-"date": "2026-11-18T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-23T11:42:06+00:00",
-"official": true,
-"lang": "en"
 }
 ]
