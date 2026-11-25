@@ -1,5 +1,20 @@
 [
 {
+"id": "e79fa65cb8e70ff0",
+"title": "« GTA VI » piraté : comment des hackeurs assistés par IA font la course pour adapter le jeu vidéo sur PC",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/24/gta-vi-pirate-comment-des-hackeurs-assistes-par-ia-font-la-course-pour-adapter-le-jeu-video-sur-pc_6814851_4408996.html",
+"summary": "Des communautés de bidouilleurs travaillent à rendre le jeu de Rockstar Games, disponible uniquement sur console, jouable sur PC.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-24T20:48:06+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-25T06:45:13+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "26f75b91b1605293",
 "title": "La fabrique des IA open source",
 "link": "https://linc.cnil.fr/la-fabrique-des-ia-open-source",
@@ -1841,89 +1856,6 @@
 ],
 "natures": [],
 "added": "2026-11-18T11:48:06+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "c0c70d832de9a46a",
-"title": "Yohan Bernardin, The Gratin : comptes publicitaires piratés, cinq précautions à prendre sur Meta et TikTok avant l’incident",
-"link": "https://www.zdnet.fr/tribune/yohan-bernardin-the-gratin-comptes-publicitaires-pirates-cinq-precautions-a-prendre-sur-meta-et-tiktok-avant-lincident-508007.htm#xtor=RSS-1",
-"summary": "Double authentification, rôles minimaux, accès partenaire pour les agences : Yohan Bernardin, fondateur de l’agence montpelliéraine The Gratin, détaille les réglages Meta Business et TikTok Business Center qui limitent les dégâts d’un piratage de compte publicitaire, devenu en 2025 le premier motif de demande…",
-"source": "ZDNet France",
-"date": "2026-11-18T05:11:22+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-18T16:44:37+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "1164ea4e3313fd62",
-"title": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
-"link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
-"summary": "Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64 supportant AVX-512 VBMI.",
-"source": "CERT-FR – Alertes",
-"date": "2026-11-18T00:00:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Alerte"
-],
-"added": "2026-11-18T16:44:37+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "fc9998d403ed06f8",
-"title": "Multiples vulnérabilités dans F5 NGINX (18 novembre 2026)",
-"link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/",
-"summary": "Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007.",
-"source": "CERT-FR – Alertes",
-"date": "2026-11-18T00:00:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Alerte"
-],
-"added": "2026-11-19T06:43:10+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "97bb303dba0fce1e",
-"title": "Plateformes de téléconsultation : MG France veut s'assurer du non-retour des coupe-file payants",
-"link": "http://www.lequotidiendumedecin.fr/liberal-soins-de-ville/plateformes-de-teleconsultation-mg-france-veut-sassurer-du-non-retour-des-coupe-file-payants",
-"summary": "Le syndicat de généralistes enjoint les pouvoirs publics à corriger le décret d'agrément des plateformes qui les autorise à proposer aux patients des prestations optionnelles complémentaires à titre onéreux.",
-"source": "Le Quotidien du médecin",
-"date": "2026-11-17T17:41:43+00:00",
-"topics": [
-"sante"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-17T17:43:35+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "aca6c1f70b6c99e3",
-"title": "NIS 2 : une transposition à périmètre élargi",
-"link": "https://www.silicon.fr/cybersecurite-1371/nis-2-transposition-entites-concerness-230470",
-"summary": "Des pouvoirs publics locaux aux plates-formes de facturation électronique, le texte que va examiner la commission mixte paritaire concerne davantage d'entités que la directive qu'il transpose.",
-"source": "Silicon.fr",
-"date": "2026-11-17T17:35:49+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-17T17:43:35+00:00",
 "official": false,
 "lang": "fr"
 }

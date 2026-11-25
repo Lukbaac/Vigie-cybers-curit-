@@ -117,7 +117,7 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Next",
@@ -164,31 +164,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 19,
+"items": 17,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 75,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 23,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 13,
+"items": 24,
 "new": 0
 },
 {
@@ -200,13 +182,31 @@
 {
 "name": "Google Actualités",
 "ok": true,
+"items": 22,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 25,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 37,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
 "items": 9,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 19,
+"items": 18,
 "new": 0
 },
 {
