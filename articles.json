@@ -1,5 +1,35 @@
 [
 {
+"id": "5d1eacda89f42025",
+"title": "☕️ L’Australie impose un devoir de vigilance numérique aux grandes plateformes",
+"link": "https://next.ink/brief-article/laustralie-impose-un-devoir-de-vigilance-numerique-aux-grandes-plateformes/",
+"summary": "Le parlement australien a voté le Digital Duty of Care Act (loi sur le devoir de vigilance numérique), équivalent local du règlement européen sur les services numériques (DSA).",
+"source": "Next",
+"date": "2026-11-26T07:56:54+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-26T08:12:29+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "05861889cfa7e8ae",
+"title": "Artex : les cyberattaquants intensifient l'utilisation d'agents IA offensifs",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/artex-les-cyberattaquants-intensifient-l-utilisation-d-agents-ia-offensifs",
+"summary": "L’utilisation d’Artex, un framework de tests d’intrusion piloté par des agents d’intelligence artificielle, progresse dans les campagnes malveillantes.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-26T07:30:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-26T08:12:29+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "fa8e0f065526d380",
 "title": "1Password victime d’une intrusion et d’un vol de données clients",
 "link": "https://www.zdnet.fr/actualites/1password-victime-dune-intrusion-et-dun-vol-de-donnees-clients-508652.htm#xtor=RSS-1",
