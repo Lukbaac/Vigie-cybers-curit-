@@ -1,5 +1,22 @@
 [
 {
+"id": "fa8e0f065526d380",
+"title": "1Password victime d’une intrusion et d’un vol de données clients",
+"link": "https://www.zdnet.fr/actualites/1password-victime-dune-intrusion-et-dun-vol-de-donnees-clients-508652.htm#xtor=RSS-1",
+"summary": "Des attaquants ont poussé du code malveillant sur des services internes du gestionnaire de mots de passe et téléchargé des données administratives de clients.",
+"source": "ZDNet France",
+"date": "2026-11-26T06:43:35+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-26T06:43:35+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "58fcdda1dda283b2",
 "title": "Black Friday : les cybermenaces dopées à l'IA mettent les distributeurs sous pression",
 "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/black-friday-les-cybermenaces-dopees-a-l-ia-mettent-les-distributeurs-sous-pression",
@@ -1695,52 +1712,5 @@
 "added": "2026-11-19T16:44:56+00:00",
 "official": false,
 "lang": "fr"
-},
-{
-"id": "eeea3e8611197331",
-"title": "Alexandre Diehl, avocat, Jean-Baptiste Artignan, BlueSecure : NIS2 : après deux ans d’attente, ne faisons pas de la cybersécurité une conformité de plus",
-"link": "https://www.zdnet.fr/tribune/alexandre-diehl-avocat-jean-baptiste-artignan-bluesecure-nis2-apres-deux-ans-dattente-ne-faisons-pas-de-la-cybersecurite-une-conformite-de-plus-508054.htm#xtor=RSS-1",
-"summary": "Deux ans après le délai initial de transposition, la directive NIS2 s’apprête enfin à entrer dans le droit français.",
-"source": "ZDNet France",
-"date": "2026-11-19T05:11:05+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-20T07:59:38+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "6205a911ca7aeda2",
-"title": "Procès pour obsolescence : Apple justifie sa politique par le besoin de sécurité",
-"link": "https://www.zdnet.fr/actualites/proces-pour-obsolescence-apple-justifie-sa-politique-par-le-besoin-de-securite-508223.htm#xtor=RSS-1",
-"summary": "Visé par un procès pour entrave à la réparation prévu en juin à Paris, Apple conteste les accusations de l'association HOP.",
-"source": "ZDNet France",
-"date": "2026-11-19T03:11:25+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-19T16:44:56+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "b326b8531a9216c7",
-"title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-"link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-"summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide.",
-"source": "BleepingComputer",
-"date": "2026-11-18T23:08:33+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-19T06:43:10+00:00",
-"official": false,
-"lang": "en"
 }
 ]

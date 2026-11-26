@@ -99,7 +99,7 @@
 "name": "Le Quotidien du médecin",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "What's up Doc",
@@ -141,7 +141,7 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "Le Monde Informatique – Sécurité",
@@ -164,37 +164,37 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 19,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 72,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
 "items": 100,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 21,
+"items": 23,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 49,
+"items": 38,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 30,
+"items": 20,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 48,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 29,
 "new": 0
 },
 {
@@ -212,7 +212,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 9,
+"items": 13,
 "new": 0
 }
 ]
