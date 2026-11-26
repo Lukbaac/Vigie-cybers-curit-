@@ -3,7 +3,7 @@
 "name": "CNIL",
 "ok": true,
 "items": 10,
-"new": 1
+"new": 0
 },
 {
 "name": "CEPD (EDPB)",
@@ -129,7 +129,7 @@
 "name": "LeMagIT",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Silicon.fr",
@@ -141,13 +141,13 @@
 "name": "ZDNet France",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "Le Monde Informatique – Sécurité",
 "ok": true,
 "items": 25,
-"new": 3
+"new": 0
 },
 {
 "name": "ZATAZ",
@@ -159,48 +159,48 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 72,
+"items": 27,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 100,
+"items": 24,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 100,
+"items": 38,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 21,
+"items": 23,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 18,
+"items": 49,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 9,
+"items": 22,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 10,
 "new": 0
 },
 {
@@ -212,7 +212,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 9,
+"items": 10,
 "new": 0
 }
 ]

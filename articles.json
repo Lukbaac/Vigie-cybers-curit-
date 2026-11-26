@@ -540,6 +540,22 @@
 "lang": "fr"
 },
 {
+"id": "9a9fcc8bd904b706",
+"title": "Cybersécurité : la CNIL est passée à la vitesse supérieure",
+"link": "https://www.lemagit.fr/conseil/Cybersecurite-la-CNIL-est-passee-a-la-vitesse-superieure",
+"summary": "Amendes records, injonctions sous astreinte et contrôles ciblés : en 2026, la CNIL a fait de la cybersécurité sa priorité absolue.",
+"source": "LeMagIT",
+"date": "2026-11-24T11:32:00+00:00",
+"topics": [
+"rgpd",
+"cyber"
+],
+"natures": [],
+"added": "2026-11-26T17:37:31+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "de96bd7ef612ae52",
 "title": "IA et Cybersécurité : les entreprises contraintes de revoir leur priorités",
 "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/la-bataille-des-priorites-dans-les-budgets-it",
@@ -1648,23 +1664,6 @@
 ],
 "natures": [],
 "added": "2026-11-20T06:43:07+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "77a9f0bdc2b2ca9d",
-"title": "1,8 million de mots de passe en clair : la CNIL inflige 5 M€ d'amende à la Macif",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkdKdDVFODlZbV9jbE1Uc09wVEUzaWNVcTBpdUtzZlREem5PMW0tZVpES0xacXpka0lTSUtLR0JyaF9FRlR4VGtfWUZhUVRmbDdpUm9JYUlKd0hsMTBvNUpPY3BRQnpVWTVCemdOb3NodU13aXBDT1pkQXBqc3Q1dkNsanlCNkJ6STBXQTZIQzVFbnoyN0lZMGlGTmV6LXRINlpXdnZjWjlUTm1kbjd2WUh1SURXSXlTWlZV?oc=5",
-"summary": "",
-"source": "ZDNET",
-"date": "2026-11-19T16:45:23+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [
-"Sanction"
-],
-"added": "2026-11-25T16:46:40+00:00",
 "official": false,
 "lang": "fr"
 }
