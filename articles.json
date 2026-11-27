@@ -1,5 +1,95 @@
 [
 {
+"id": "9fe23cca0fddef4a",
+"title": "IA en contexte de soins : accompagner le bon usage avec le guide CNIL et HAS",
+"link": "https://www.cnil.fr/fr/ia-en-soins-guide-has-cnil",
+"summary": "Avec la publication du guide « IA en contexte de soins : accompagner le bon usage » qu’elles ont conjointement élaboré, la Haute Autorité de santé (HAS) et la CNIL se mobilisent pour accompagner les acteurs de la santé en clarifiant les règles et les bonnes pratiques.",
+"source": "CNIL",
+"date": "2026-11-27T11:44:07+00:00",
+"topics": [
+"rgpd"
+],
+"natures": [],
+"added": "2026-11-27T11:44:07+00:00",
+"official": true,
+"lang": "fr"
+},
+{
+"id": "05052e2cee070d55",
+"title": "Binance rétablit les retraits après le piratage de 6,3 Md$ de crypto-actifs",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/binance-retablit-les-retraits-apres-le-piratage-de-6-3-md-de-crypto-actifs",
+"summary": "Près d’un mois après le vol de crypto-actifs survenu le 29 octobre, Binance annonce avoir achevé la remise en service des retraits sur sa plateforme.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-27T10:32:24+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T11:44:07+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "358fdfe6361a1076",
+"title": "Cybersécurité : les agents IA prennent le contrôle du cloud plus vite que les entreprises ne sécurisent leurs accès",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-les-agents-ia-prennent-le-controle-du-cloud-plus-vite-que-les-entreprises-ne-securisent-leurs-acces",
+"summary": "99 % des entreprises utilisent des agents IA dans leurs chaînes de développement. Mais leur capacité à modifier du codeet à intervenir en production progresse plus vite que les dispositifs de sécurité, selon une étude de Palo Alto Networks.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-27T09:56:54+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T11:44:07+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "05f4c13650df3f7c",
+"title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+"link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+"summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077).",
+"source": "BleepingComputer",
+"date": "2026-11-27T09:08:16+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T11:44:07+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "da133585068696c5",
+"title": "Cyberattaque chez SAP : des soupçons d'accès au code source sur GitHub",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-chez-sap-des-soupcons-d-acces-au-code-source-sur-github",
+"summary": "SAP a confirmé, le 27 novembre 2026, avoir détecté des activités suspectes dans son environnement informatique.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-27T09:08:03+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T11:44:07+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "55d9dc131445f9bb",
+"title": "Cyberattaque contre l'AFP : la plateforme AFP Forum mise hors ligne",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-l-afp-la-plateforme-afp-forum-mise-hors-ligne",
+"summary": "L'Agence France-Presse (AFP) a été victime d'une cyberattaque dans la nuit du 25 au 26 novembre 2026. L'intrusion a conduit l'agence à suspendre temporairement l'accès à AFP Forum, une plateforme utilisée par ses clients pour consulter et télécharger ses contenus.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-27T08:27:48+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T11:44:07+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "5095449529cf2a47",
 "title": "MiniMax visé par des soupçons d'exposition de données, Apple retire Talkie de l'App Store",
 "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/minimax-vise-par-des-soupcons-d-exposition-de-donnees-apple-retire-talkie-de-l-app-store",
@@ -13,6 +103,21 @@
 "added": "2026-11-27T08:10:30+00:00",
 "official": false,
 "lang": "fr"
+},
+{
+"id": "d8645e7668dc9228",
+"title": "Call for Tenders - Online safety application",
+"link": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-online-safety-application",
+"summary": "",
+"source": "Commission européenne – Numérique",
+"date": "2026-11-27T07:00:00+00:00",
+"topics": [
+"numerique"
+],
+"natures": [],
+"added": "2026-11-27T11:44:07+00:00",
+"official": true,
+"lang": "en"
 },
 {
 "id": "ac39ed945382dfa6",
@@ -1552,55 +1657,6 @@
 ],
 "added": "2026-11-20T11:45:06+00:00",
 "official": true,
-"lang": "fr"
-},
-{
-"id": "8904b4115a6688ff",
-"title": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education",
-"link": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
-"summary": "Today, the European Commission and eight Member States are launching the European Digital Infrastructure Consortium on Education (EDU-EDIC) to pool resources and develop shared, secure and interoperable digital infrastructure and services for education.",
-"source": "Commission européenne – Numérique",
-"date": "2026-11-20T10:30:00+00:00",
-"topics": [
-"numerique"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": true,
-"lang": "en"
-},
-{
-"id": "2b4bd7eef4160b85",
-"title": "IA et droit d’auteur : la proposition de loi visant à protéger la création reste enlisée à l’Assemblée",
-"link": "https://www.lemonde.fr/economie/article/2026/11/20/ia-et-droit-d-auteur-la-proposition-de-loi-visant-a-proteger-la-creation-reste-enlisee-a-l-assemblee_6813614_3234.html",
-"summary": "Faute de temps, la proposition de loi de Laure Darcos n’a pas pu être examinée. Elle pourrait être à nouveau présentée aux députés le 4 février 2027 dans la niche du groupe GDR (communistes et ultramarins).",
-"source": "Le Monde – Pixels",
-"date": "2026-11-20T09:30:03+00:00",
-"topics": [
-"numerique"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-20T11:45:06+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "82267ec5e04318a1",
-"title": "La Cnil inflige 5 M€ d’amende à Macif Vie",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTNjM2VPcWFFNVIzQ09EZk52ZzFybF8xMWFRaVdKcHlHbG41TkE0UEdUaEhpM0IyS3A1Yzk2TUwxa3pHZm1qMlBZUmNGMHVZVU9KMmxwLUpQRjJ1dVQ4UFJ6VGJ1Z3JWOWsxaHNVamNGX2t6emQ2LWRDN2M0aEVvQ1NVYXFrdmRQc1NLczBnTERvdXlXN1J1dTFhVWZhck8tUjRRMjNLYkduWndBUGFJd0RnWWlyUmNWOXVDNU5Cc1Rza0xB?oc=5",
-"summary": "",
-"source": "L'Informaticien",
-"date": "2026-11-20T08:42:05+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [
-"Sanction"
-],
-"added": "2026-11-20T11:45:06+00:00",
-"official": false,
 "lang": "fr"
 }
 ]
