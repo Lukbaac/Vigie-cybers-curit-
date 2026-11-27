@@ -1,5 +1,95 @@
 [
 {
+"id": "121216c961cc6863",
+"title": "Charles Ferguson, investisseur et actionnaire de Nvidia : « Jensen Huang est déconnecté de la réalité et son ego est totalement hors de contrôle »",
+"link": "https://www.lemonde.fr/idees/article/2026/11/27/jensen-huang-le-pdg-de-nvidia-est-deconnecte-de-la-realite-et-son-ego-est-totalement-hors-de-controle_6815895_3232.html",
+"summary": "La réintégration du patron du leader mondial des puces électroniques, accusé d’avoir été manipulé par une Chinoise soupçonnée d’espionnage, est une « très mauvaise idée » pour la sécurité des Etats-Unis, explique, dans une tribune au « Monde », Charles Ferguson, investisseur et actionnaire de Nvidia.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-27T16:00:01+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T16:48:02+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "026114624245300f",
+"title": "Cyberattaques en série, les systèmes IT sous pression",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-en-serie-es-systemes-it-sous-pression",
+"summary": "Cloud militaire américain, infrastructures critiques suisses, administration britannique, SAP et AFP ont été touchés par des incidents de sécurité ces derniers jours.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-27T15:24:08+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T16:48:02+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "2778b393e6347199",
+"title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+"link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+"summary": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department.",
+"source": "BleepingComputer",
+"date": "2026-11-27T15:09:40+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T16:48:02+00:00",
+"official": false,
+"lang": "en"
+},
+{
+"id": "b1269ba1a3acba04",
+"title": "SAP piraté : GitHub au cœur d’un incident de sécurité",
+"link": "https://www.silicon.fr/cybersecurite-1371/sap-pirate-github-au-coeur-dun-incident-de-securite-230722",
+"summary": "SAP confirme un incident de sécurité touchant son environnement de développement GitHub, sans preuve à ce stade d’accès non autorisé aux données de ses clients.",
+"source": "Silicon.fr",
+"date": "2026-11-27T15:02:20+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T16:48:02+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "8aa8e6d82d674d9e",
+"title": "Le Royaume-Uni rejette une pétition réclamant l’interdiction de nouveaux datacenters dédiés à l'IA",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/le-royaume-uni-rejette-une-petition-reclamant-l-interdiction-de-nouveaux-datacenters-dedies-a-l-ia",
+"summary": "Le gouvernement britannique a déclaré qu’il n’a “aucune intention” d'interdire la construction de nouveaux centres de données destinés à l'IA, malgré une pétition parlementaire dénonçant leur consommation de ressources et leurs conséquences environnementales.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-27T14:50:50+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T16:48:02+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "470ca27318bda0f6",
+"title": "Cybersécurité : les petites communes sont plus lucides mais peu outillées",
+"link": "https://www.silicon.fr/cybersecurite-1371/cybersecurite-les-petites-communes-sont-plus-lucides-mais-peu-outillees-230719",
+"summary": "Dans son 4ème baromètre sur la maturité cyber des collectivités françaises, Cybermalveillance.gouv.fr constate que la prise de conscience progresse mais que l’impréparation reste la règle.",
+"source": "Silicon.fr",
+"date": "2026-11-27T13:48:20+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T16:48:02+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "9fe23cca0fddef4a",
 "title": "IA en contexte de soins : accompagner le bon usage avec le guide CNIL et HAS",
 "link": "https://www.cnil.fr/fr/ia-en-soins-guide-has-cnil",
@@ -101,6 +191,21 @@
 ],
 "natures": [],
 "added": "2026-11-27T08:10:30+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "aa2edb604a716904",
+"title": "Jules choisit une passerelle de sécurité souveraine pour ses magasins",
+"link": "https://www.lemagit.fr/etude/Jules-opte-pour-une-passerelle-de-securite-souveraine-pour-ses-magasins",
+"summary": "Victime d’une cyberattaque en 2022, l’enseigne de prêt-à-porter masculin a renforcé ses mesures de sécurité, mais s’est heurtée au manque de réactivité de son fournisseur de Gateway américain.",
+"source": "LeMagIT",
+"date": "2026-11-27T07:58:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T16:48:02+00:00",
 "official": false,
 "lang": "fr"
 },
@@ -1476,187 +1581,5 @@
 "added": "2026-11-20T17:40:05+00:00",
 "official": false,
 "lang": "en"
-},
-{
-"id": "d7d032c66ae29f22",
-"title": "Windows 11 : une faille permet de contourner l’écran de connexion grâce au Narrateur",
-"link": "https://next.ink/268851/windows-11-une-faille-permet-de-contourner-lecran-de-connexion-grace-au-narrateur/",
-"summary": "Les détails d’une faille non corrigée de Microsoft sont apparus ce 19 novembre. Nommée FastUnlock, elle permet à une personne ayant la machine entre les mains d’exécuter du code depuis l’écran de verrouillage, sans connaître le mot de passe ni le PIN.",
-"source": "Next",
-"date": "2026-11-20T15:42:12+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "bba5164d8e6aa03d",
-"title": "Panne à la NSA, données du DoJ en vente selon un pirate",
-"link": "https://www.zataz.com/panne-a-la-nsa-donnees-du-doj-en-vente-selon-un-pirate/",
-"summary": "Le 17 novembre, CNN a révélé une panne de NSANet, le réseau sur lequel les agents de la NSA échangent des informations classifiées.",
-"source": "ZATAZ",
-"date": "2026-11-20T14:16:03+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "c9d9ffeefd95d1b2",
-"title": "NoName revendique un accès aux caméras d’une salle de jeux",
-"link": "https://www.zataz.com/noname-revendique-un-acces-aux-cameras-dune-salle-de-jeux/",
-"summary": "NoName revendique un accès aux caméras d’une salle de jeux allemande et utilise la vidéosurveillance à des fins de propagande.",
-"source": "ZATAZ",
-"date": "2026-11-20T13:39:14+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "783db2c637fa5dbf",
-"title": "Les services de renseignement russes à l’origine d’une nouvelle campagne de phishing contre des journalistes et un député français",
-"link": "https://www.lemonde.fr/pixels/article/2026/11/20/les-services-de-renseignement-russes-a-l-origine-d-une-nouvelle-campagne-de-phishing-contre-des-journalistes-et-un-depute-francais_6813640_4408996.html",
-"summary": "Une unité du service fédéral de sécurité (FSB) multiplie depuis le début de l’année 2026 les tentatives d’hameçonnage sur les messageries Signal et Telegram, en Ukraine, aux Etats-Unis et en Europe.",
-"source": "Le Monde – Pixels",
-"date": "2026-11-20T13:26:20+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "6147396e32a32e18",
-"title": "FAQ - Certifiction périodique des médecins",
-"link": "https://www.conseil-national.medecin.fr/medecin/carriere/faq-certifiction-periodique-medecins",
-"summary": "Retrouvez toutes les informations pratiques relatives à la certification périodique des médecins.",
-"source": "Conseil national de l'Ordre des médecins",
-"date": "2026-11-20T12:34:18+00:00",
-"topics": [
-"sante"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "35287c5c06e51e95",
-"title": "FAQ - Certification périodique des médecins",
-"link": "https://www.conseil-national.medecin.fr/medecin/carriere/faq-certification-periodique-medecins",
-"summary": "Retrouvez toutes les informations pratiques relatives à la certification périodique des médecins.",
-"source": "Conseil national de l'Ordre des médecins",
-"date": "2026-11-20T12:34:18+00:00",
-"topics": [
-"sante"
-],
-"natures": [],
-"added": "2026-11-20T17:40:05+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "ab075b0f8cecd2e0",
-"title": "Accès piratés à vendre comme des pains au chocolat",
-"link": "https://www.zataz.com/acces-pirates-a-vendre-comme-des-pains-au-chocolat/",
-"summary": "ZATAZ décrypte quatre offres d’accès piratés et les risques de fraude liés aux bases de données et aux clés SMS.",
-"source": "ZATAZ",
-"date": "2026-11-20T12:30:18+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "4c7dec2cc4303190",
-"title": "Ransomware : le FBI piège un arnaqueur qui prétendait pouvoir déchiffrer",
-"link": "https://www.lemagit.fr/actualites/366655114/Ransomware-le-FBI-piege-un-arnaqueur-qui-pretendait-pouvoir-dechiffrer",
-"summary": "Le piège s’est refermé avec l’intervention de deux agents, l’un se faisant passer pour une victime de rançongiciel et l’autre… pour le cybercriminel ayant conduit la prétendue attaque.",
-"source": "LeMagIT",
-"date": "2026-11-20T12:13:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T17:40:05+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "4b9b928c39f1a392",
-"title": "Hell’s r00ts 2.0 : les vieux hackers n’ont pas dit leur dernier mot",
-"link": "https://www.zataz.com/hells-r00ts-2-0-les-vieux-hackers-nont-pas-dit-leur-dernier-mot/",
-"summary": "Avec Hell’s r00ts 2.0, Antoine Champagne ressuscite les pionniers du hacking dans un thriller cyber passionnant.",
-"source": "ZATAZ",
-"date": "2026-11-20T12:05:59+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "92b13b4229234d6d",
-"title": "IA et éducation : une résolution mondiale pour la protection des données",
-"link": "https://www.cnil.fr/fr/gpa-ia-education",
-"summary": "En novembre 2026, l’Assemblée mondiale pour la protection de la vie privée (Global Privacy Assembly) a adopté une résolution sur l’intelligence artificielle dans le secteur de l’éducation.",
-"source": "CNIL",
-"date": "2026-11-20T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "273e9c9aab7f2757",
-"title": "48e Assemblée mondiale pour la protection de la vie privée (GPA)",
-"link": "https://www.cnil.fr/fr/48e-gpa",
-"summary": "L’Assemblée mondiale pour la protection de la vie privée (ou Global Privacy Assembly), qui rassemble plus de 130 autorités de protection des données de plus de 80 pays, a adopté cinq résolutions dont deux sur l’Intelligence artificielle lors de sa réunion annuelle de novembre 2026.",
-"source": "CNIL",
-"date": "2026-11-20T12:00:00+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "1151306e586d0437",
-"title": "Pixels de suivi dans les courriels : la CNIL sollicite un premier retour d’expérience sur sa recommandation",
-"link": "https://www.cnil.fr/fr/recommandation-pixels-retour-dexperience",
-"summary": "Le 14 avril 2026, la CNIL a publié sa recommandation sur les pixels de suivi dans les courriels. Elle invite désormais les acteurs concernés, expéditeurs de messages et fournisseurs de solutions, à effectuer un retour d’expérience jusqu’au 3 décembre 2026.",
-"source": "CNIL",
-"date": "2026-11-20T11:45:06+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [
-"Doctrine"
-],
-"added": "2026-11-20T11:45:06+00:00",
-"official": true,
-"lang": "fr"
 }
 ]
