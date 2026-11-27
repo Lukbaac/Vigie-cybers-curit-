@@ -1,5 +1,35 @@
 [
 {
+"id": "4db1e1c838b9c1b0",
+"title": "Santé des femmes : dans « C’est dans votre tête », Salomé Saqué dévoile son dossier médical pour faire évoluer leur prise en charge",
+"link": "http://www.lequotidiendumedecin.fr/sante-societe/sante-des-femmes-dans-cest-dans-votre-tete-salome-saque-devoile-son-dossier-medical-pour-faire",
+"summary": "Dans son dernier livre, C'est dans votre tête, la journaliste Salomé Saqué revient sur son propre parcours médical et sur la longue errance diagnostique qui l'a marquée.",
+"source": "Le Quotidien du médecin",
+"date": "2026-11-27T17:38:28+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-27T17:38:28+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "8b62149719af4472",
+"title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+"link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+"summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers.",
+"source": "BleepingComputer",
+"date": "2026-11-27T17:06:13+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T17:38:28+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "121216c961cc6863",
 "title": "Charles Ferguson, investisseur et actionnaire de Nvidia : « Jensen Huang est déconnecté de la réalité et son ego est totalement hors de contrôle »",
 "link": "https://www.lemonde.fr/idees/article/2026/11/27/jensen-huang-le-pdg-de-nvidia-est-deconnecte-de-la-realite-et-son-ego-est-totalement-hors-de-controle_6815895_3232.html",
@@ -1566,20 +1596,5 @@
 "added": "2026-11-22T06:41:22+00:00",
 "official": false,
 "lang": "fr"
-},
-{
-"id": "0abe4221510a96d0",
-"title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-"link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-"summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application.",
-"source": "BleepingComputer",
-"date": "2026-11-20T17:30:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T17:40:05+00:00",
-"official": false,
-"lang": "en"
 }
 ]
