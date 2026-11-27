@@ -1,5 +1,20 @@
 [
 {
+"id": "5095449529cf2a47",
+"title": "MiniMax visé par des soupçons d'exposition de données, Apple retire Talkie de l'App Store",
+"link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/minimax-vise-par-des-soupcons-d-exposition-de-donnees-apple-retire-talkie-de-l-app-store",
+"summary": "Le groupe chinois MiniMax fait face à deux affaires distinctes. Selon une enquête de Dragos révélée par Reuters le 26 novembre 2026, des liens confidentiels transmis à ses modèles d'intelligence artificielle auraient été consultés par des parties non identifiées, malgré des demandes de non-conservation des données.",
+"source": "Le Monde Informatique – Sécurité",
+"date": "2026-11-27T08:00:00+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T08:10:30+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "ac39ed945382dfa6",
 "title": "L’Agence France-Presse dit avoir été visée par une cyberattaque qui paralyse l’une de ses plateformes de mise à disposition des dépêches et des images",
 "link": "https://www.lemonde.fr/actualite-medias/article/2026/11/26/l-afp-dit-avoir-ete-visee-par-une-cyberattaque-qui-paralyse-l-une-de-ses-plateformes-de-mise-a-disposition-des-depeches-et-des-images_6815596_3236.html",

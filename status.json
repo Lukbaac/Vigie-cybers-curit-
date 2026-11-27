@@ -117,13 +117,13 @@
 "name": "Le Monde – Pixels",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Next",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "LeMagIT",
@@ -146,8 +146,8 @@
 {
 "name": "Le Monde Informatique – Sécurité",
 "ok": true,
-"items": 25,
-"new": 0
+"items": 26,
+"new": 1
 },
 {
 "name": "ZATAZ",
@@ -176,43 +176,43 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 36,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
 "items": 100,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 26,
+"items": 22,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 16,
+"items": 20,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 17,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 16,
+"items": 9,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 17,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 9,
 "new": 0
 }
 ]
