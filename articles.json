@@ -1,5 +1,35 @@
 [
 {
+"id": "ac39ed945382dfa6",
+"title": "L’Agence France-Presse dit avoir été visée par une cyberattaque qui paralyse l’une de ses plateformes de mise à disposition des dépêches et des images",
+"link": "https://www.lemonde.fr/actualite-medias/article/2026/11/26/l-afp-dit-avoir-ete-visee-par-une-cyberattaque-qui-paralyse-l-une-de-ses-plateformes-de-mise-a-disposition-des-depeches-et-des-images_6815596_3236.html",
+"summary": "L’AFP a dit, jeudi soir, ne disposer « d’aucun élément sur l’identité des auteurs » de cette attaque. AFP Forum, l’un de ses principaux sites, est inaccessible.",
+"source": "Le Monde – Pixels",
+"date": "2026-11-26T19:38:05+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-27T06:45:26+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "8141dee0faaeb597",
+"title": "Données de santé : la Cour des comptes déplore l’absence de stratégie nationale",
+"link": "https://next.ink/270315/donnees-de-sante-la-cour-des-comptes-deplore-labsence-de-strategie-nationale/",
+"summary": "La Cour des comptes constate dans un rapport la multiplication des entrepôts de données de santé hospitaliers « sans véritable cohérence territoriale ».",
+"source": "Next",
+"date": "2026-11-26T19:00:00+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-27T06:45:26+00:00",
+"official": false,
+"lang": "fr"
+},
+{
 "id": "368bf905ac5f8064",
 "title": "Les lunettes Meta dans le viseur de la justice néerlandaise",
 "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/les-lunettes-meta-dans-le-viseur-de-la-justice-neerlandaise",
@@ -1555,115 +1585,6 @@
 "Sanction"
 ],
 "added": "2026-11-20T11:45:06+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "8c5bfa0f61fb6c97",
-"title": "Windows Server 2028 va durcir sa base et activer Trusted Launch pour les VM",
-"link": "https://next.ink/268563/windows-server-2028-va-durcir-sa-base-et-activer-trusted-launch-pour-les-vm/",
-"summary": "Lors de sa conférence Ignite, Microsoft a lancé la première préversion de Windows Server 2028. Il devrait sortir dans le courant de l’année prochaine et se présente déjà comme un nouveau palier pour la sécurité.",
-"source": "Next",
-"date": "2026-11-20T06:37:00+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-23T17:40:39+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "52859ca868b42ac5",
-"title": "Face aux cyberattaques, Sébastien Lecornu réoriente 200 millions",
-"link": "https://www.zdnet.fr/actualites/face-aux-cyberattaques-sebastien-lecornu-reoriente-200-millions-508317.htm#xtor=RSS-1",
-"summary": "Face à une vague de sabotages informatiques propulsée par l'IA, la France muscle sa défense. Le Premier ministre Sébastien Lecornu annonce 200 millions d'euros pour contrer ces menaces inédites, tandis que la directive NIS2 doit sécuriser 20 000 organisations.",
-"source": "ZDNet France",
-"date": "2026-11-20T03:11:34+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Texte"
-],
-"added": "2026-11-20T16:40:44+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "d04ec26dc2e96b5c",
-"title": "Meta Muse a réservé un logement sur Airbnb sans autorisation, et ce n'est pas le pire",
-"link": "https://www.zdnet.fr/actualites/meta-muse-a-reserve-un-logement-sur-airbnb-sans-autorisation-et-ce-nest-pas-le-pire-508306.htm#xtor=RSS-1",
-"summary": "Des employés de Meta ont signalé des atteintes alarmantes à la vie privée impliquant leur IA maison Muse, notamment des actions non autorisées.",
-"source": "ZDNet France",
-"date": "2026-11-20T01:11:11+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-20T16:40:44+00:00",
-"official": false,
-"lang": "fr"
-},
-{
-"id": "c5e24a06d3952b8f",
-"title": "VMware patches vCenter zero-day exploited in attacks since September",
-"link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-"summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026.",
-"source": "BleepingComputer",
-"date": "2026-11-20T00:26:25+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T07:59:38+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "df29d71aedcbd867",
-"title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-"link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-"summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people.",
-"source": "BleepingComputer",
-"date": "2026-11-19T22:25:42+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T07:59:38+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "1977168802e46550",
-"title": "Transport for London breach exposes 265,000 Oyster card users' data",
-"link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-"summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach.",
-"source": "BleepingComputer",
-"date": "2026-11-19T18:20:01+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-20T06:43:07+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "3b5dc2d1e9d952fb",
-"title": "Anne Le Hénanff, ministre déléguée au numérique au « Monde » : en matière de cybersécurité, « il y a urgence pour la résilience de la Nation »",
-"link": "https://www.lemonde.fr/pixels/article/2026/11/19/anne-le-henanff-en-matiere-de-cybersecurite-il-y-a-urgence-pour-la-resilience-de-la-nation_6813364_4408996.html",
-"summary": "Après l’adoption à l’Assemblée d’une loi sur la cybersécurité très attendue, la ministre du numérique prévient que les 20 000 entreprises et entités publiques concernées par de nouvelles obligations en matière de sécurité auront deux ans pour les mettre en œuvre.",
-"source": "Le Monde – Pixels",
-"date": "2026-11-19T18:00:10+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-20T06:43:07+00:00",
 "official": false,
 "lang": "fr"
 }
