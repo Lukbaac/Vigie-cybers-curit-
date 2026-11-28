@@ -1,5 +1,35 @@
 [
 {
+"id": "a61fbb4da483e8a7",
+"title": "Entre laïcité et aide à mourir, quelle place pour l'aumônier catholique à l'hôpital ? Par Paul Duchesne, Juriste.",
+"link": "https://www.village-justice.com/articles/entre-laicite-aide-mourir-quelle-place-pour-aumonier-catholique-hopital,60320.html?utm_source=backend&utm_medium=RSS&utm_campaign=RSS_Reseaux",
+"summary": "Deux évolutions récentes interrogent sur la place, puis le rôle des aumôniers d'hôpitaux. Le Groupe hospitalier Bretagne-Sud entend se séparer en 2027 de ses trois aumôniers catholiques salariés, au nom de la laïcité.",
+"source": "Village de la Justice",
+"date": "2026-11-28T16:00:00+00:00",
+"topics": [
+"sante"
+],
+"natures": [],
+"added": "2026-11-28T16:29:19+00:00",
+"official": false,
+"lang": "fr"
+},
+{
+"id": "2607e0272e790e8e",
+"title": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+"link": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+"summary": "Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware.",
+"source": "BleepingComputer",
+"date": "2026-11-28T15:32:49+00:00",
+"topics": [
+"cyber"
+],
+"natures": [],
+"added": "2026-11-28T16:29:19+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "72cf1a5347d22a62",
 "title": "New Boston Scientific data breach exposes personal, medical info",
 "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
@@ -1473,113 +1503,5 @@
 "added": "2026-11-22T06:41:22+00:00",
 "official": false,
 "lang": "en"
-},
-{
-"id": "5426ef989597f3ab",
-"title": "Convaincre ou manipuler ? L'éthique du numérique à l'épreuve des urnes, le 16 novembre à la CNIL",
-"link": "https://linc.cnil.fr/convaincre-ou-manipuler-lethique-du-numerique-lepreuve-des-urnes-le-16-novembre-la-cnil",
-"summary": "Protection des droits des électeurs, ingérences étrangères… lundi 16 novembre 2026, à partir de 14 h, la CNIL vous invite à son événement dédié aux enjeux éthiques associés aux communications politiques et aux ingérences.",
-"source": "LINC (CNIL)",
-"date": "2026-11-21T16:26:08+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-21T16:26:08+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "c0cc639e2bb0d4fc",
-"title": "Ambassades numériques : de la délocalisation des coffres-forts de données souveraines",
-"link": "https://linc.cnil.fr/ambassades-numeriques-de-la-delocalisation-des-coffres-forts-de-donnees-souveraines",
-"summary": "Solutions conçues au départ pour stocker et préserver les données d’un Etat hors de ses frontières géographiques, le concept d’ambassades numériques de données se développe aujourd’hui vers des offres d’infrastructures délocalisées de calcul pour l’IA, soumises au droit local de leur client ou parties prenantes.",
-"source": "LINC (CNIL)",
-"date": "2026-11-21T16:26:08+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-21T16:26:08+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "bd22959d70e8fc43",
-"title": "Données de santé : l'analyse du modèle de la UK Biobank",
-"link": "https://linc.cnil.fr/donnees-de-sante-lanalyse-du-modele-de-la-uk-biobank",
-"summary": "Le 14 avril 2026, le Financial Times et le The Guardian révélaient que les données génétiques de plus de 500 000 citoyens britanniques avaient été mises en vente sur la plateforme chinoise Alibaba.",
-"source": "LINC (CNIL)",
-"date": "2026-11-21T16:26:08+00:00",
-"topics": [
-"rgpd",
-"sante"
-],
-"natures": [],
-"added": "2026-11-21T16:26:08+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "917ca45998ef52c9",
-"title": "Flock, l’entreprise de surveillance au cœur des controverses aux Etats-Unis",
-"link": "https://linc.cnil.fr/flock-lentreprise-de-surveillance-au-coeur-des-controverses-aux-etats-unis",
-"summary": "D'un projet d'étudiants à un réseau de 120 000 caméras aux Etats-Unis, le caractère intrusif du système de surveillance développé par Flock Safety soulève de nombreuses protestations dans la population.",
-"source": "LINC (CNIL)",
-"date": "2026-11-21T16:26:08+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-21T16:26:08+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "53752f45b2316cbd",
-"title": "IA Agentique : de quoi parle-t-on ?",
-"link": "https://linc.cnil.fr/ia-agentique-de-quoi-parle-t",
-"summary": "L’émergence de l’IA agentique pose d’abord la question de ce qu’on entend par cette terminologie qui, bien qu’ancienne, prend un sens nouveau à l’ère de l’IA générative.",
-"source": "LINC (CNIL)",
-"date": "2026-11-21T16:26:08+00:00",
-"topics": [
-"rgpd"
-],
-"natures": [],
-"added": "2026-11-21T16:26:08+00:00",
-"official": true,
-"lang": "fr"
-},
-{
-"id": "4b6021947b3ef390",
-"title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-"link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-"summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions.",
-"source": "BleepingComputer",
-"date": "2026-11-21T15:17:27+00:00",
-"topics": [
-"cyber"
-],
-"natures": [],
-"added": "2026-11-21T16:26:08+00:00",
-"official": false,
-"lang": "en"
-},
-{
-"id": "4714af0391771f52",
-"title": "Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX",
-"link": "https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/",
-"summary": "ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?",
-"source": "ZATAZ",
-"date": "2026-11-21T13:39:38+00:00",
-"topics": [
-"cyber"
-],
-"natures": [
-"Fuite de données"
-],
-"added": "2026-11-21T16:26:08+00:00",
-"official": false,
-"lang": "fr"
 }
 ]
