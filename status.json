@@ -159,60 +159,51 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 18,
 "new": 0
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 70,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 41,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 31,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 14,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 5,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 19,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 9,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
+},
+{
+"name": "Google Actualités",
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 }
 ]
