@@ -163,47 +163,56 @@
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 22,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 21,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 42,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 100,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 19,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 14,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 4,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 17,
+"new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 503: Service Unavailable"
+"ok": true,
+"items": 9,
+"new": 0
 }
 ]
