@@ -15,7 +15,7 @@
 "name": "LINC (CNIL)",
 "ok": true,
 "items": 10,
-"new": 0
+"new": 4
 },
 {
 "name": "Commission européenne – Numérique",
@@ -87,7 +87,7 @@
 "name": "Village de la Justice",
 "ok": true,
 "items": 3,
-"new": 1
+"new": 0
 },
 {
 "name": "France Assos Santé",
@@ -159,12 +159,12 @@
 "name": "BleepingComputer",
 "ok": true,
 "items": 15,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 22,
+"items": 100,
 "new": 0
 },
 {
@@ -188,7 +188,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 18,
+"items": 10,
 "new": 0
 },
 {
