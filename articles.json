@@ -1,5 +1,22 @@
 [
 {
+"id": "72cf1a5347d22a62",
+"title": "New Boston Scientific data breach exposes personal, medical info",
+"link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+"summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm.",
+"source": "BleepingComputer",
+"date": "2026-11-27T18:57:42+00:00",
+"topics": [
+"cyber"
+],
+"natures": [
+"Fuite de données"
+],
+"added": "2026-11-28T06:43:18+00:00",
+"official": false,
+"lang": "en"
+},
+{
 "id": "4db1e1c838b9c1b0",
 "title": "Santé des femmes : dans « C’est dans votre tête », Salomé Saqué dévoile son dossier médical pour faire évoluer leur prise en charge",
 "link": "http://www.lequotidiendumedecin.fr/sante-societe/sante-des-femmes-dans-cest-dans-votre-tete-salome-saque-devoile-son-dossier-medical-pour-faire",

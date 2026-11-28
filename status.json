@@ -32,7 +32,7 @@
 {
 "name": "Sénat – Textes",
 "ok": true,
-"items": 53,
+"items": 49,
 "new": 0
 },
 {
@@ -99,7 +99,7 @@
 "name": "Le Quotidien du médecin",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "What's up Doc",
@@ -164,13 +164,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 22,
+"items": 18,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 71,
+"items": 70,
 "new": 0
 },
 {
@@ -188,19 +188,19 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 46,
+"items": 31,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 12,
+"items": 14,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 6,
+"items": 5,
 "new": 0
 },
 {
